@@ -1,0 +1,390 @@
+{
+    "status": 0,
+    "message": "ok",
+    "total": 17,
+    "results": [
+        {
+            "name": "省体育中心",
+            "location": {
+                "lat": 26.118302,
+                "lng": 119.309522
+            },
+            "address": "鼓楼区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "鼓楼区",
+            "detail": 1,
+            "uid": "a004688c196e2867eb1e976f",
+            "detail_info": {
+                "tag": "商圈",
+                "navi_location": {
+                    "lng": 119.31224373667,
+                    "lat": 26.116406394259
+                },
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=a004688c196e2867eb1e976f&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "甘蔗",
+            "location": {
+                "lat": 26.150506,
+                "lng": 119.153993
+            },
+            "address": "甘蔗街道滨江苑B区18号",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "闽侯县",
+            "detail": 1,
+            "uid": "b5c92686e069811ef603b87f",
+            "detail_info": {
+                "tag": "商圈",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=b5c92686e069811ef603b87f&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "仓山万达",
+            "location": {
+                "lat": 26.042608,
+                "lng": 119.280676
+            },
+            "address": "仓山区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "仓山区",
+            "detail": 1,
+            "uid": "6b12abfb9a061c609e9d681a",
+            "detail_info": {
+                "tag": "商圈",
+                "navi_location": {
+                    "lng": 119.28172497568,
+                    "lat": 26.043142341124
+                },
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=6b12abfb9a061c609e9d681a&output=html&source=placeapi_v2",
+                "overall_rating": "3.8",
+                "image_num": "1",
+                "comment_num": "6",
+                "children": []
+            }
+        },
+        {
+            "name": "三坊七巷",
+            "location": {
+                "lat": 26.088974,
+                "lng": 119.303779
+            },
+            "address": "鼓楼区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "鼓楼区",
+            "detail": 1,
+            "uid": "8ab364e1b9519130047ce82d",
+            "detail_info": {
+                "tag": "商圈",
+                "navi_location": {
+                    "lng": 119.30345164067,
+                    "lat": 26.086211151139
+                },
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=8ab364e1b9519130047ce82d&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "台江万达",
+            "location": {
+                "lat": 26.060255,
+                "lng": 119.348724
+            },
+            "address": "曙光路124号",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "台江区",
+            "detail": 1,
+            "uid": "d2fbb7cd7cffaedf58f6be08",
+            "detail_info": {
+                "tag": "商圈",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=d2fbb7cd7cffaedf58f6be08&output=html&source=placeapi_v2",
+                "overall_rating": "4.2",
+                "image_num": "1",
+                "comment_num": "18",
+                "children": []
+            }
+        },
+        {
+            "name": "火车南站",
+            "location": {
+                "lat": 25.995452,
+                "lng": 119.397595
+            },
+            "address": "仓山区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "仓山区",
+            "detail": 1,
+            "uid": "0032e5f96c0f214515a190e2",
+            "detail_info": {
+                "tag": "商圈",
+                "navi_location": {
+                    "lng": 119.39557581533,
+                    "lat": 25.991728675282
+                },
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=0032e5f96c0f214515a190e2&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "东二环泰禾",
+            "location": {
+                "lat": 26.096916,
+                "lng": 119.341528
+            },
+            "address": "晋安区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "晋安区",
+            "detail": 1,
+            "uid": "b925252cec4c71a71e5800bb",
+            "detail_info": {
+                "tag": "商圈",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=b925252cec4c71a71e5800bb&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "西湖公园",
+            "location": {
+                "lat": 26.097266,
+                "lng": 119.296425
+            },
+            "address": "鼓楼区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "鼓楼区",
+            "detail": 1,
+            "uid": "a69631cbcf1db14babf0cd57",
+            "detail_info": {
+                "tag": "商圈",
+                "navi_location": {
+                    "lng": 119.29683654674,
+                    "lat": 26.096599237093
+                },
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=a69631cbcf1db14babf0cd57&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "王府井",
+            "location": {
+                "lat": 26.096766,
+                "lng": 119.311765
+            },
+            "address": "鼓楼区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "鼓楼区",
+            "detail": 1,
+            "uid": "3d0886c6a11c29799403193e",
+            "detail_info": {
+                "tag": "商圈",
+                "navi_location": {
+                    "lng": 119.31291925793,
+                    "lat": 26.098203287801
+                },
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=3d0886c6a11c29799403193e&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "金逸影城(万宝商圈店)",
+            "location": {
+                "lat": 26.068226,
+                "lng": 119.298071
+            },
+            "address": "福建省福州市台江区工业路193号宝龙城市广场5层",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "台江区",
+            "street_id": "0523a141f0dfce04b23c814d",
+            "telephone": "(0591)83822220",
+            "detail": 1,
+            "uid": "0523a141f0dfce04b23c814d",
+            "detail_info": {
+                "tag": "休闲娱乐;电影院",
+                "navi_location": {
+                    "lng": 119.29671251051,
+                    "lat": 26.067534838695
+                },
+                "indoor_floor": "F5",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=0523a141f0dfce04b23c814d&output=html&source=placeapi_v2",
+                "price": "33.5",
+                "overall_rating": "4.3",
+                "service_rating": "0",
+                "environment_rating": "0",
+                "comment_num": "100",
+                "children": []
+            }
+        },
+        {
+            "name": "金逸影城IMAX(万宝商圈店)",
+            "location": {
+                "lat": 26.068612,
+                "lng": 119.295423
+            },
+            "address": "工业路193号宝龙城市广场5楼、中防万宝城负2层",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "台江区",
+            "detail": 1,
+            "uid": "e98653abb2025e05b2077d42",
+            "detail_info": {
+                "tag": "休闲娱乐;电影院",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=e98653abb2025e05b2077d42&output=html&source=placeapi_v2",
+                "price": "46",
+                "overall_rating": "4.0",
+                "image_num": "3",
+                "comment_num": "49",
+                "children": []
+            }
+        },
+        {
+            "name": "仓前",
+            "location": {
+                "lat": 26.046028,
+                "lng": 119.323156
+            },
+            "address": "仓山区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "仓山区",
+            "detail": 1,
+            "uid": "ec23c056ed32b19308a8d46c",
+            "detail_info": {
+                "tag": "商圈",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=ec23c056ed32b19308a8d46c&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "左海",
+            "location": {
+                "lat": 26.105078,
+                "lng": 119.29134
+            },
+            "address": "铜盘路五凤街道左海公园西大门内100米",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "鼓楼区",
+            "detail": 1,
+            "uid": "f7fdfbda9dec728ee5073865",
+            "detail_info": {
+                "tag": "商圈",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=f7fdfbda9dec728ee5073865&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "万宝商圈",
+            "location": {
+                "lat": 26.070578,
+                "lng": 119.297175
+            },
+            "address": "怡园支路与怡园路交叉口西100米",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "台江区",
+            "street_id": "2a479a8aa634e6b14c6d4622",
+            "detail": 1,
+            "uid": "2a479a8aa634e6b14c6d4622",
+            "detail_info": {
+                "tag": "购物;其他",
+                "type": "shopping",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=2a479a8aa634e6b14c6d4622&output=html&source=placeapi_v2",
+                "children": []
+            }
+        },
+        {
+            "name": "龙院",
+            "location": {
+                "lat": 26.035798,
+                "lng": 119.343486
+            },
+            "address": "龙院路10号附近",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "仓山区",
+            "detail": 1,
+            "uid": "1c2022b199957414d72ce2a1",
+            "detail_info": {
+                "tag": "商圈",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=1c2022b199957414d72ce2a1&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "吴航",
+            "location": {
+                "lat": 25.964544,
+                "lng": 119.517618
+            },
+            "address": "长乐区",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "长乐区",
+            "detail": 1,
+            "uid": "d9ce1c3e0e71233d4afd3f51",
+            "detail_info": {
+                "tag": "商圈",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=d9ce1c3e0e71233d4afd3f51&output=html&source=placeapi_v2",
+                "image_num": "1",
+                "children": []
+            }
+        },
+        {
+            "name": "万宝商圈联防联动指挥中心",
+            "location": {
+                "lat": 26.066883,
+                "lng": 119.296502
+            },
+            "address": "康城路与西环南路交叉口东南50米",
+            "province": "福建省",
+            "city": "福州市",
+            "area": "台江区",
+            "street_id": "92e021128cb7bd1f77026954",
+            "detail": 1,
+            "uid": "92e021128cb7bd1f77026954",
+            "detail_info": {
+                "tag": "政府机构;行政单位",
+                "type": "life",
+                "detail_url": "http://api.map.baidu.com/place/detail?uid=92e021128cb7bd1f77026954&output=html&source=placeapi_v2",
+                "image_num": "2",
+                "children": []
+            }
+        }
+    ]
+}
