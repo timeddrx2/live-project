@@ -1,0 +1,2436 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "巧媳妇中式简餐(十洋店)",
+                "location": {
+                    "lat": 25.964946,
+                    "lng": 119.520664
+                },
+                "address": "吴航街道航都楼B座航锦楼中间102房",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "55addea1cb1a734914c8f63c",
+                "telephone": "(0591)28819783",
+                "detail": 1,
+                "uid": "55addea1cb1a734914c8f63c",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=55addea1cb1a734914c8f63c&output=html&source=placeapi_v2",
+                    "price": "17.5",
+                    "overall_rating": "4.3",
+                    "comment_num": "110",
+                    "children": []
+                }
+            },
+            {
+                "name": "玲家红烧牛肉面馆",
+                "location": {
+                    "lat": 25.966165,
+                    "lng": 119.517123
+                },
+                "address": "长乐区吴航街道宏航新城36幢14号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "c95e823c68de1bee3be4a681",
+                "telephone": "15359179662",
+                "detail": 1,
+                "uid": "c95e823c68de1bee3be4a681",
+                "detail_info": {
+                    "distance": 186,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c95e823c68de1bee3be4a681&output=html&source=placeapi_v2",
+                    "price": "22.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "贵哥卤肉卷(长乐店)",
+                "location": {
+                    "lat": 25.968451,
+                    "lng": 119.51706
+                },
+                "address": "吴航街道三峰西路航城中学教学楼一层店面8间第14号店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "dea7c93df3d16f2ecafa5fd5",
+                "telephone": "13860601978",
+                "detail": 1,
+                "uid": "dea7c93df3d16f2ecafa5fd5",
+                "detail_info": {
+                    "distance": 438,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dea7c93df3d16f2ecafa5fd5&output=html&source=placeapi_v2",
+                    "price": "15.0",
+                    "overall_rating": "4.6",
+                    "comment_num": "76",
+                    "children": []
+                }
+            },
+            {
+                "name": "米行家坛烧八味(郑和中路店)",
+                "location": {
+                    "lat": 25.964332,
+                    "lng": 119.516425
+                },
+                "address": "福建省福州市长乐市郑和中路宏航新城15-16号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐市",
+                "street_id": "4e31cbffffd64ec6e311030b",
+                "telephone": "13859066943",
+                "detail": 1,
+                "uid": "4e31cbffffd64ec6e311030b",
+                "detail_info": {
+                    "distance": 121,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4e31cbffffd64ec6e311030b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "23",
+                    "children": []
+                }
+            },
+            {
+                "name": "霞乐牛肉店",
+                "location": {
+                    "lat": 25.964336,
+                    "lng": 119.514107
+                },
+                "address": "郑和西路永乐花园30号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "ee7126cccb29093b4f3a595e",
+                "telephone": "15659328780",
+                "detail": 1,
+                "uid": "ee7126cccb29093b4f3a595e",
+                "detail_info": {
+                    "distance": 351,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ee7126cccb29093b4f3a595e&output=html&source=placeapi_v2",
+                    "price": "22.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "品客营养小吃(长乐分店)",
+                "location": {
+                    "lat": 25.960676,
+                    "lng": 119.519485
+                },
+                "address": "西洋南路18号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "51e998328db514eaab0dd840",
+                "telephone": "13763845254",
+                "detail": 1,
+                "uid": "51e998328db514eaab0dd840",
+                "detail_info": {
+                    "distance": 468,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=51e998328db514eaab0dd840&output=html&source=placeapi_v2",
+                    "price": "15.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "鼎辉小吃(航城中学店)",
+                "location": {
+                    "lat": 25.968001,
+                    "lng": 119.51689
+                },
+                "address": "航城街道三峰街航城中学旁边源安便利店正对面233号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "e0af7e5c8f77bb9d82a12e49",
+                "telephone": "13950351070",
+                "detail": 1,
+                "uid": "e0af7e5c8f77bb9d82a12e49",
+                "detail_info": {
+                    "distance": 391,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e0af7e5c8f77bb9d82a12e49&output=html&source=placeapi_v2",
+                    "price": "10.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "耍牛忙串串香(长乐店)",
+                "location": {
+                    "lat": 25.968596,
+                    "lng": 119.515485
+                },
+                "address": "福建省福州市长乐区朝阳中路201",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "63e76d1cb084c142c8213d11",
+                "telephone": "13055555316",
+                "detail": 1,
+                "uid": "63e76d1cb084c142c8213d11",
+                "detail_info": {
+                    "distance": 498,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=63e76d1cb084c142c8213d11&output=html&source=placeapi_v2",
+                    "price": "78.0",
+                    "overall_rating": "3.7",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "台湾担仔面",
+                "location": {
+                    "lat": 25.963611,
+                    "lng": 119.515004
+                },
+                "address": "福州市长乐区吴航路236号(邮政局公交车站旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "085202f642b954bea4c7562a",
+                "telephone": "15860036961",
+                "detail": 1,
+                "uid": "085202f642b954bea4c7562a",
+                "detail_info": {
+                    "distance": 281,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=085202f642b954bea4c7562a&output=html&source=placeapi_v2",
+                    "price": "10.0",
+                    "overall_rating": "3.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "九州岛拉面(十洋店)",
+                "location": {
+                    "lat": 25.963494,
+                    "lng": 119.522054
+                },
+                "address": "吴航街道郑和中路1号十洋商务广场三层2号商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "30d63d0e7d65870629fc4860",
+                "telephone": "(0591)28922159",
+                "detail": 1,
+                "uid": "30d63d0e7d65870629fc4860",
+                "detail_info": {
+                    "distance": 458,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=30d63d0e7d65870629fc4860&output=html&source=placeapi_v2",
+                    "price": "32.5",
+                    "overall_rating": "3.8",
+                    "comment_num": "43",
+                    "children": []
+                }
+            },
+            {
+                "name": "有间鸡煲制造所",
+                "location": {
+                    "lat": 25.964773,
+                    "lng": 119.515931
+                },
+                "address": "福建省福州市长乐区郑和中路308号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "18065030222",
+                "detail": 1,
+                "uid": "1a46924eafd76556f603b879",
+                "detail_info": {
+                    "distance": 170,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a46924eafd76556f603b879&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "image_num": "5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "朝阳拉面",
+                "location": {
+                    "lat": 25.967833,
+                    "lng": 119.514926
+                },
+                "address": "福州市长乐区朝阳中路250号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "68a8acea6bb129b4fb2d61a0",
+                "telephone": "(0591)28832620",
+                "detail": 1,
+                "uid": "68a8acea6bb129b4fb2d61a0",
+                "detail_info": {
+                    "distance": 454,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=68a8acea6bb129b4fb2d61a0&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "回味螺蛳粉(长乐店)",
+                "location": {
+                    "lat": 25.964364,
+                    "lng": 119.517389
+                },
+                "address": "吴航街道郑和中路91号锦绣公寓18号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "15359755522",
+                "detail": 1,
+                "uid": "ec860afa199ce5092e4733fb",
+                "detail_info": {
+                    "distance": 30,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ec860afa199ce5092e4733fb&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "三叔粥铺",
+                "location": {
+                    "lat": 25.962814,
+                    "lng": 119.519939
+                },
+                "address": "吴航街道华达花园西向61号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "18616812329",
+                "detail": 1,
+                "uid": "9ae48165bed736ef276e98d8",
+                "detail_info": {
+                    "distance": 301,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9ae48165bed736ef276e98d8&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "快乐番薯(长乐郑和店)",
+                "location": {
+                    "lat": 25.964394,
+                    "lng": 119.521281
+                },
+                "address": "吴航街道郑和中路5号十洋商场一楼A",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "06df5d7133b1b5a128d7ab1d",
+                "detail_info": {
+                    "distance": 366,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=06df5d7133b1b5a128d7ab1d&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "曦晖牛肉火锅",
+                "location": {
+                    "lat": 25.967957,
+                    "lng": 119.51487
+                },
+                "address": "福建省福州市长乐区朝阳中路260号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "4ddb5d591114a22d6849f337",
+                "detail": 1,
+                "uid": "4ddb5d591114a22d6849f337",
+                "detail_info": {
+                    "distance": 468,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4ddb5d591114a22d6849f337&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "阿虎港式丝袜奶茶店",
+                "location": {
+                    "lat": 25.964715,
+                    "lng": 119.516764
+                },
+                "address": "福建省福州市长乐区郑和中路268号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "18705036607",
+                "detail": 1,
+                "uid": "3d4d98272c4da5f3100daac2",
+                "detail_info": {
+                    "distance": 87,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3d4d98272c4da5f3100daac2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "匠烤湘西小串",
+                "location": {
+                    "lat": 25.965373,
+                    "lng": 119.514963
+                },
+                "address": "福州市长乐区朝阳中路146号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "13055750100",
+                "detail": 1,
+                "uid": "62b76113df3a7d110c0e6b68",
+                "detail_info": {
+                    "distance": 280,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=62b76113df3a7d110c0e6b68&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "苏格兰烤烤汇",
+                "location": {
+                    "lat": 25.962974,
+                    "lng": 119.515385
+                },
+                "address": "长乐区吴航街道国鑫庄苑1-2号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "7baf4b9ca6f0d1ab0bf5eb00",
+                "detail": 1,
+                "uid": "7baf4b9ca6f0d1ab0bf5eb00",
+                "detail_info": {
+                    "distance": 283,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7baf4b9ca6f0d1ab0bf5eb00&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "85度C(长乐永辉店)",
+                "location": {
+                    "lat": 25.964421,
+                    "lng": 119.521174
+                },
+                "address": "福州市长乐区吴航街道郑和中路5号商场十洋商场(郑和永辉旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "e4d183e967971539744ff183",
+                "telephone": "(0591)28939650",
+                "detail": 1,
+                "uid": "e4d183e967971539744ff183",
+                "detail_info": {
+                    "distance": 355,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e4d183e967971539744ff183&output=html&source=placeapi_v2",
+                    "price": "22.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "15",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "原国丰尚干元宵(华达店)",
+                "location": {
+                    "lat": 25.962689,
+                    "lng": 119.520167
+                },
+                "address": "长乐区中心城区吴航街道华达花园14楼10号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "65a4238e00bc0e5616764347",
+                "telephone": "13675087653",
+                "detail": 1,
+                "uid": "65a4238e00bc0e5616764347",
+                "detail_info": {
+                    "distance": 327,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=65a4238e00bc0e5616764347&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "甜缘甜品(西洋中路)",
+                "location": {
+                    "lat": 25.968429,
+                    "lng": 119.519503
+                },
+                "address": "福建省福州市长乐市三峰路172",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "7e882d743586489cf7eafc96",
+                "telephone": "(0591)28881107",
+                "detail": 1,
+                "uid": "7e882d743586489cf7eafc96",
+                "detail_info": {
+                    "distance": 471,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7e882d743586489cf7eafc96&output=html&source=placeapi_v2",
+                    "price": "18.5",
+                    "overall_rating": "4.2",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "陆合炭烧",
+                "location": {
+                    "lat": 25.96782,
+                    "lng": 119.51994
+                },
+                "address": "福州市长乐区吴航街道西洋中路247号东方御苑B区1号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "18150037286",
+                "detail": 1,
+                "uid": "8b3af89e6e89b47d1fe999d2",
+                "detail_info": {
+                    "distance": 431,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8b3af89e6e89b47d1fe999d2&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "食神中式快餐(十洋店)",
+                "location": {
+                    "lat": 25.964249,
+                    "lng": 119.520622
+                },
+                "address": "吴航街道郑和路西洋花园2号一层店面西起第二间",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "2831483d77bab84bc91b952c",
+                "telephone": "13799445612",
+                "detail": 1,
+                "uid": "2831483d77bab84bc91b952c",
+                "detail_info": {
+                    "distance": 302,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2831483d77bab84bc91b952c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.2",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "香帝西饼(罗马店)",
+                "location": {
+                    "lat": 25.961025,
+                    "lng": 119.514736
+                },
+                "address": "吴航镇罗马花园1#楼3号店(近教育局)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "9ee7cc7871953c6917c905ac",
+                "telephone": "(0591)28886798",
+                "detail": 1,
+                "uid": "9ee7cc7871953c6917c905ac",
+                "detail_info": {
+                    "distance": 485,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9ee7cc7871953c6917c905ac&output=html&source=placeapi_v2",
+                    "price": "17.0",
+                    "overall_rating": "4.6",
+                    "comment_num": "88",
+                    "children": []
+                }
+            },
+            {
+                "name": "奥乐奥微乐谷(长乐店)",
+                "location": {
+                    "lat": 25.964383,
+                    "lng": 119.521092
+                },
+                "address": "郑和中路5号(永辉超市二层)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "1ba761c7836abacb8c1a8974",
+                "telephone": "13799921125,17759060797",
+                "detail": 1,
+                "uid": "1ba761c7836abacb8c1a8974",
+                "detail_info": {
+                    "distance": 347,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1ba761c7836abacb8c1a8974&output=html&source=placeapi_v2",
+                    "overall_rating": "4.6",
+                    "comment_num": "55",
+                    "children": []
+                }
+            },
+            {
+                "name": "金色海岸小食坊",
+                "location": {
+                    "lat": 25.966188,
+                    "lng": 119.518303
+                },
+                "address": "福州市长乐区金色海岸21座",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "3180bd98b21f95ab8f55eccb",
+                "telephone": "(0591)28805366",
+                "detail": 1,
+                "uid": "3180bd98b21f95ab8f55eccb",
+                "detail_info": {
+                    "distance": 195,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.51843416735,
+                        "lat": 25.966132958117
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3180bd98b21f95ab8f55eccb&output=html&source=placeapi_v2",
+                    "overall_rating": "2.5",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "芋时代(长乐三峰店)",
+                "location": {
+                    "lat": 25.968066,
+                    "lng": 119.516841
+                },
+                "address": "吴航街道三峰路227、229、231号(航城中学对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "40bc43adaaf4ffc0843304ad",
+                "detail_info": {
+                    "distance": 399,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=40bc43adaaf4ffc0843304ad&output=html&source=placeapi_v2",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "莱往(金色海岸店)",
+                "location": {
+                    "lat": 25.96598,
+                    "lng": 119.516933
+                },
+                "address": "福建省福州市长乐区吴航街道航华路92号白色门店莱往甜品店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "17720731119",
+                "detail": 1,
+                "uid": "b0d55a81f0cae1d9aeb22a5f",
+                "detail_info": {
+                    "distance": 173,
+                    "tag": "美食",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b0d55a81f0cae1d9aeb22a5f&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "胖伟龙虾(长乐店)",
+                "location": {
+                    "lat": 25.964376,
+                    "lng": 119.518317
+                },
+                "address": "福建省福州市长乐区郑和中路87号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "17305008247",
+                "detail": 1,
+                "uid": "96f227c7e92dc88d5abbbc26",
+                "detail_info": {
+                    "distance": 72,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=96f227c7e92dc88d5abbbc26&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州佰诚商务酒店(长乐凯捷店)",
+                "location": {
+                    "lat": 25.965051,
+                    "lng": 119.514994
+                },
+                "address": "朝阳中路138附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "0e31b65892e691dc83a00c79",
+                "telephone": "(0591)28839888",
+                "detail": 1,
+                "uid": "0e31b65892e691dc83a00c79",
+                "detail_info": {
+                    "distance": 268,
+                    "tag": "酒店;快捷酒店",
+                    "navi_location": {
+                        "lng": 119.5151823014,
+                        "lat": 25.96518282888
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0e31b65892e691dc83a00c79&output=html&source=placeapi_v2",
+                    "price": "80.0",
+                    "overall_rating": "4.0",
+                    "service_rating": "4.1",
+                    "facility_rating": "4.1",
+                    "hygiene_rating": "4.1",
+                    "image_num": "48",
+                    "comment_num": "65",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "昆仑大饭店",
+                "location": {
+                    "lat": 25.96803,
+                    "lng": 119.520324
+                },
+                "address": "福建省福州市长乐区西洋中路247号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "b3aa435dc7ee0312147643f7",
+                "telephone": "(0591)28833888",
+                "detail": 1,
+                "uid": "b3aa435dc7ee0312147643f7",
+                "detail_info": {
+                    "distance": 472,
+                    "tag": "酒店;星级酒店",
+                    "navi_location": {
+                        "lng": 119.5198556918,
+                        "lat": 25.96803989135
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b3aa435dc7ee0312147643f7&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "service_rating": "4.8",
+                    "facility_rating": "4.8",
+                    "hygiene_rating": "4.8",
+                    "image_num": "33",
+                    "comment_num": "16",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "格林之星酒店",
+                "location": {
+                    "lat": 25.961088,
+                    "lng": 119.516772
+                },
+                "address": "福建省福州市长乐区吴航路185号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "834db6e84069cb832e473311",
+                "detail_info": {
+                    "distance": 393,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.51572799685,
+                        "lat": 25.961211730939
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=834db6e84069cb832e473311&output=html&source=placeapi_v2",
+                    "price": "59.0",
+                    "overall_rating": "4.7",
+                    "service_rating": "3.3",
+                    "facility_rating": "3.3",
+                    "hygiene_rating": "3.3",
+                    "image_num": "37",
+                    "comment_num": "18",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "速8酒店(西洋中路店)",
+                "location": {
+                    "lat": 25.963535,
+                    "lng": 119.51941
+                },
+                "address": "福州市长乐区西洋中路76号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "9ce08e01240227a8a21de9bc",
+                "telephone": "(0591)28265555",
+                "detail": 1,
+                "uid": "9ce08e01240227a8a21de9bc",
+                "detail_info": {
+                    "distance": 211,
+                    "tag": "酒店;快捷酒店",
+                    "navi_location": {
+                        "lng": 119.51964687978,
+                        "lat": 25.963550537466
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9ce08e01240227a8a21de9bc&output=html&source=placeapi_v2",
+                    "price": "208.0",
+                    "overall_rating": "4.0",
+                    "service_rating": "4.6",
+                    "facility_rating": "4.6",
+                    "hygiene_rating": "4.6",
+                    "image_num": "100",
+                    "comment_num": "56",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州忆梦宾馆",
+                "location": {
+                    "lat": 25.96467,
+                    "lng": 119.515896
+                },
+                "address": "福州市长乐区朝阳中路郑和花园19幢2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "5a2c547d1e3bbc1178dbd2f9",
+                "detail": 1,
+                "uid": "5a2c547d1e3bbc1178dbd2f9",
+                "detail_info": {
+                    "distance": 172,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5a2c547d1e3bbc1178dbd2f9&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "永辉超市(长乐郑和店)",
+                "location": {
+                    "lat": 25.964414,
+                    "lng": 119.521322
+                },
+                "address": "福州市长乐区郑和中路5号新惠航十洋商业广场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "f401391f6f6a6f31f33cba2f",
+                "telephone": "(0591)28830888",
+                "detail": 1,
+                "uid": "f401391f6f6a6f31f33cba2f",
+                "detail_info": {
+                    "distance": 370,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.52133068878,
+                        "lat": 25.964501633091
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f401391f6f6a6f31f33cba2f&output=html&source=placeapi_v2",
+                    "price": "54.0",
+                    "overall_rating": "3.5",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "新华书店(朝阳中路店)",
+                "location": {
+                    "lat": 25.965874,
+                    "lng": 119.514742
+                },
+                "address": "福建省福州市长乐区朝阳中路166",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "e3082848c1c71dbfb24c4993",
+                "detail": 1,
+                "uid": "e3082848c1c71dbfb24c4993",
+                "detail_info": {
+                    "distance": 323,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.51513757746,
+                        "lat": 25.96578514805
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e3082848c1c71dbfb24c4993&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "勿忘我花店(惠航大厦店)",
+                "location": {
+                    "lat": 25.964768,
+                    "lng": 119.519365
+                },
+                "address": "吴航街道惠航大厦1层大门边",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "637df60a0b42d70f40afe62d",
+                "telephone": "13655079619,(0591)28930886",
+                "detail": 1,
+                "uid": "637df60a0b42d70f40afe62d",
+                "detail_info": {
+                    "distance": 176,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.51928926975,
+                        "lat": 25.96460250919
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=637df60a0b42d70f40afe62d&output=html&source=placeapi_v2",
+                    "price": "13.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "乐享烘焙生活馆",
+                "location": {
+                    "lat": 25.964801,
+                    "lng": 119.516393
+                },
+                "address": "福建省福州市长乐市郑和中路286号大众电器隔壁",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐市",
+                "street_id": "4f78b6bbf3ea7480fbf0cbc2",
+                "telephone": "13645083997",
+                "detail": 1,
+                "uid": "4f78b6bbf3ea7480fbf0cbc2",
+                "detail_info": {
+                    "distance": 125,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4f78b6bbf3ea7480fbf0cbc2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.9",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "名创优品(十洋国际城店)",
+                "location": {
+                    "lat": 25.963973,
+                    "lng": 119.522102
+                },
+                "address": "福建省福州市长乐区郑和中路15号十洋国际城1F13号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "4c1f1df0ce305e752bb97ca7",
+                "detail_info": {
+                    "distance": 452,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4c1f1df0ce305e752bb97ca7&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "华硕电脑(恩涛长乐店)",
+                "location": {
+                    "lat": 25.964783,
+                    "lng": 119.520675
+                },
+                "address": "航城街道郑和中路76号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "(0591)28833100",
+                "detail": 1,
+                "uid": "7d9584e5ca51b9bdf8dc85cf",
+                "detail_info": {
+                    "distance": 306,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7d9584e5ca51b9bdf8dc85cf&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权经销商(正捷长乐冠迪通讯店)",
+                "location": {
+                    "lat": 25.960808,
+                    "lng": 119.519369
+                },
+                "address": "福建省长乐区西洋南路20号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "(0591)28333000",
+                "detail": 1,
+                "uid": "a79d1dce7dd7938d471a3272",
+                "detail_info": {
+                    "distance": 450,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a79d1dce7dd7938d471a3272&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "源安购物广场(长源店)",
+                "location": {
+                    "lat": 25.961549,
+                    "lng": 119.517365
+                },
+                "address": "西洋路4号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "d7fd2ad3fed301540accdd90",
+                "telephone": "(0591)28810882",
+                "detail": 1,
+                "uid": "d7fd2ad3fed301540accdd90",
+                "detail_info": {
+                    "distance": 333,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.51709017025,
+                        "lat": 25.961349419589
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d7fd2ad3fed301540accdd90&output=html&source=placeapi_v2",
+                    "price": "1.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "新惠航十洋商业广场",
+                "location": {
+                    "lat": 25.964176,
+                    "lng": 119.521503
+                },
+                "address": "福建省福州市长乐区郑和中路5号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "ea2a9dfbe1cfa640343a71d2",
+                "detail": 1,
+                "uid": "ea2a9dfbe1cfa640343a71d2",
+                "detail_info": {
+                    "distance": 390,
+                    "tag": "购物;购物中心",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ea2a9dfbe1cfa640343a71d2&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "大众电器(郑和中路店)",
+                "location": {
+                    "lat": 25.964753,
+                    "lng": 119.516145
+                },
+                "address": "福州市长乐区郑和中路282号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "3d54158f7d866f85ca29150a",
+                "detail": 1,
+                "uid": "3d54158f7d866f85ca29150a",
+                "detail_info": {
+                    "distance": 149,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3d54158f7d866f85ca29150a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "海尔电器(长乐吴航大众海尔专卖店)",
+                "location": {
+                    "lat": 25.964251,
+                    "lng": 119.514843
+                },
+                "address": "福州市长乐市郑和西路9号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "01cba86ebae37acd80a00c6f",
+                "telephone": "(0591)28889999",
+                "detail": 1,
+                "uid": "01cba86ebae37acd80a00c6f",
+                "detail_info": {
+                    "distance": 279,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.51519209293,
+                        "lat": 25.964321858919
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=01cba86ebae37acd80a00c6f&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "靠谱水果批发行(长乐朝阳店)",
+                "location": {
+                    "lat": 25.961856,
+                    "lng": 119.515052
+                },
+                "address": "长乐区新乐花园4号楼21~23号(航城朝阳中路12－16号)店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "800c184064b991f6fea77845",
+                "telephone": "17704615581",
+                "detail": 1,
+                "uid": "800c184064b991f6fea77845",
+                "detail_info": {
+                    "distance": 393,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=800c184064b991f6fea77845&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "生辉烟酒商行",
+                "location": {
+                    "lat": 25.964402,
+                    "lng": 119.514822
+                },
+                "address": "福州市长乐区永乐花园17号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "fa0adc8413bee9f200ec01f9",
+                "telephone": "(0591)28177333,18050337333",
+                "detail": 1,
+                "uid": "fa0adc8413bee9f200ec01f9",
+                "detail_info": {
+                    "distance": 279,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fa0adc8413bee9f200ec01f9&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "老张淋浴房",
+                "location": {
+                    "lat": 25.967411,
+                    "lng": 119.519482
+                },
+                "address": "西洋中路永辉楼1～2号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "d89d10d5494a20c351e5c515",
+                "telephone": "(0591)28811776",
+                "detail": 1,
+                "uid": "d89d10d5494a20c351e5c515",
+                "detail_info": {
+                    "distance": 369,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d89d10d5494a20c351e5c515&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "朝阳书店",
+                "location": {
+                    "lat": 25.9655,
+                    "lng": 119.514969
+                },
+                "address": "航城街道朝阳路109号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "181653345a17c907fb2d61e9",
+                "telephone": "(0591)28820661",
+                "detail": 1,
+                "uid": "181653345a17c907fb2d61e9",
+                "detail_info": {
+                    "distance": 285,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=181653345a17c907fb2d61e9&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "诚信酒庄",
+                "location": {
+                    "lat": 25.966172,
+                    "lng": 119.515984
+                },
+                "address": "航华路143",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "f68f1da807794aa5077ce8b2",
+                "telephone": "13960991955",
+                "detail": 1,
+                "uid": "f68f1da807794aa5077ce8b2",
+                "detail_info": {
+                    "distance": 243,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f68f1da807794aa5077ce8b2&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "立邦",
+                "location": {
+                    "lat": 25.966774,
+                    "lng": 119.515372
+                },
+                "address": "福建省福州市长乐区朝阳中路157号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "18120792799",
+                "detail": 1,
+                "uid": "42b4278adaef02cac26c1457",
+                "detail_info": {
+                    "distance": 334,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=42b4278adaef02cac26c1457&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "航新五金店",
+                "location": {
+                    "lat": 25.962894,
+                    "lng": 119.514965
+                },
+                "address": "吴航路洞江小学后门(丽晶公馆对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "002cce48241a461a16a190fb",
+                "detail_info": {
+                    "distance": 322,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=002cce48241a461a16a190fb&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "水星家纺(长乐店)",
+                "location": {
+                    "lat": 25.964328,
+                    "lng": 119.517842
+                },
+                "address": "吴航街道解放路198号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "09185c56fb05175ef11937cf",
+                "telephone": "(0591)28200977",
+                "detail": 1,
+                "uid": "09185c56fb05175ef11937cf",
+                "detail_info": {
+                    "distance": 32,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.51780768908,
+                        "lat": 25.964578315267
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=09185c56fb05175ef11937cf&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "OU.(郑和中路店)",
+                "location": {
+                    "lat": 25.964363,
+                    "lng": 119.519063
+                },
+                "address": "吴航镇郑和中路惠航大厦一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "9ee7cc78123fdf7116c905c2",
+                "telephone": "(0591)28820970",
+                "detail": 1,
+                "uid": "9ee7cc78123fdf7116c905c2",
+                "detail_info": {
+                    "distance": 145,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9ee7cc78123fdf7116c905c2&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "兴源窗帘布艺(吴航路店)",
+                "location": {
+                    "lat": 25.961513,
+                    "lng": 119.516594
+                },
+                "address": "吴航路长源花园8座1-3号(介仁玻璃隔壁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "205b49a559d6903a82a12e5d",
+                "telephone": "(0591)28535533,(0591)28535665",
+                "detail": 1,
+                "uid": "205b49a559d6903a82a12e5d",
+                "detail_info": {
+                    "distance": 352,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.51664105972,
+                        "lat": 25.961342359948
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=205b49a559d6903a82a12e5d&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "东来茗茶(长乐郑和店)",
+                "location": {
+                    "lat": 25.964347,
+                    "lng": 119.516224
+                },
+                "address": "福建省福州市长乐区郑和中路163号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "c499e21c9f4a534c81a12ebf",
+                "telephone": "17706911959",
+                "detail": 1,
+                "uid": "c499e21c9f4a534c81a12ebf",
+                "detail_info": {
+                    "distance": 141,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c499e21c9f4a534c81a12ebf&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "航星电动工具",
+                "location": {
+                    "lat": 25.961082,
+                    "lng": 119.517401
+                },
+                "address": "吴航路附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "7bd17f654ddd316dc6effb26",
+                "detail": 1,
+                "uid": "7bd17f654ddd316dc6effb26",
+                "detail_info": {
+                    "distance": 385,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7bd17f654ddd316dc6effb26&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "九阳长乐区服务店",
+                "location": {
+                    "lat": 25.965926,
+                    "lng": 119.516842
+                },
+                "address": "航华路92号丙附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "f3dfb450fc2d5b562cb17e58",
+                "detail": 1,
+                "uid": "f3dfb450fc2d5b562cb17e58",
+                "detail_info": {
+                    "distance": 172,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f3dfb450fc2d5b562cb17e58&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "OPPO官方体验店(心意店)",
+                "location": {
+                    "lat": 25.961711,
+                    "lng": 119.520177
+                },
+                "address": "福州市长乐区吴航街道供销大厦4-5号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "3991fae01ca5612ef50e77bc",
+                "telephone": "(0591)28938777",
+                "detail": 1,
+                "uid": "3991fae01ca5612ef50e77bc",
+                "detail_info": {
+                    "distance": 405,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3991fae01ca5612ef50e77bc&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "花韵(西洋中路店)",
+                "location": {
+                    "lat": 25.965162,
+                    "lng": 119.519964
+                },
+                "address": "西洋中路107号(水利局旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "4b8283a342e01383c61b7588",
+                "telephone": "(0591)28255050",
+                "detail": 1,
+                "uid": "4b8283a342e01383c61b7588",
+                "detail_info": {
+                    "distance": 244,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4b8283a342e01383c61b7588&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "婴乐坊母婴生活馆(郑和中路)",
+                "location": {
+                    "lat": 25.964371,
+                    "lng": 119.516695
+                },
+                "address": "福建省福州市长乐市宏航新城21号楼5号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "94cdf65acb401dc0b13c8102",
+                "telephone": "(0591)27988766",
+                "detail": 1,
+                "uid": "94cdf65acb401dc0b13c8102",
+                "detail_info": {
+                    "distance": 94,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=94cdf65acb401dc0b13c8102&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "飞腾电器城(西洋中路店)",
+                "location": {
+                    "lat": 25.962959,
+                    "lng": 119.519465
+                },
+                "address": "西洋中路72号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "15ed53ce6a408f549322e090",
+                "telephone": "(0591)28811310",
+                "detail": 1,
+                "uid": "15ed53ce6a408f549322e090",
+                "detail_info": {
+                    "distance": 255,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.51964939504,
+                        "lat": 25.962821033857
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=15ed53ce6a408f549322e090&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "靠谱水果批发行(三峰店)",
+                "location": {
+                    "lat": 25.968079,
+                    "lng": 119.518526
+                },
+                "address": "福建省福州市长乐市三峰路金色海岸2号楼A27号商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "ddf55cce0d6262ef6f476017",
+                "telephone": "18059109089",
+                "detail": 1,
+                "uid": "ddf55cce0d6262ef6f476017",
+                "detail_info": {
+                    "distance": 403,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ddf55cce0d6262ef6f476017&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "小吴文具店",
+                "location": {
+                    "lat": 25.962592,
+                    "lng": 119.514976
+                },
+                "address": "朝阳中路与洞江巷交叉口西北50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "431d2d1cad3fcd3fc829150d",
+                "detail_info": {
+                    "distance": 341,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=431d2d1cad3fcd3fc829150d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "日春茶业(昆仑店)",
+                "location": {
+                    "lat": 25.967764,
+                    "lng": 119.519971
+                },
+                "address": "西洋中路247号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "8e6a038611897187f5c59c7b",
+                "telephone": "(0591)87512119",
+                "detail": 1,
+                "uid": "8e6a038611897187f5c59c7b",
+                "detail_info": {
+                    "distance": 428,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8e6a038611897187f5c59c7b&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "良盛文具",
+                "location": {
+                    "lat": 25.968401,
+                    "lng": 119.518477
+                },
+                "address": "三峰路吉祥花园19座",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "ac2ed5e645125917882fb58b",
+                "telephone": "15060112345",
+                "detail": 1,
+                "uid": "ac2ed5e645125917882fb58b",
+                "detail_info": {
+                    "distance": 437,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ac2ed5e645125917882fb58b&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "好饰家灯饰批发",
+                "location": {
+                    "lat": 25.964151,
+                    "lng": 119.514925
+                },
+                "address": "朝阳中路15号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "041e1b04e5fb4b48a5da39ca",
+                "telephone": "15259143451",
+                "detail": 1,
+                "uid": "041e1b04e5fb4b48a5da39ca",
+                "detail_info": {
+                    "distance": 272,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=041e1b04e5fb4b48a5da39ca&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "远红水暖五金店",
+                "location": {
+                    "lat": 25.964763,
+                    "lng": 119.520455
+                },
+                "address": "郑和中路56",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "8da5d47ba72d2c7b26e0a02f",
+                "detail": 1,
+                "uid": "8da5d47ba72d2c7b26e0a02f",
+                "detail_info": {
+                    "distance": 284,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8da5d47ba72d2c7b26e0a02f&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "涵中文具店",
+                "location": {
+                    "lat": 25.968375,
+                    "lng": 119.516078
+                },
+                "address": "福建省福州市长乐区三峰路320",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "0e4731022702111b725e8035",
+                "detail": 1,
+                "uid": "0e4731022702111b725e8035",
+                "detail_info": {
+                    "distance": 452,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0e4731022702111b725e8035&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "永乐文具",
+                "location": {
+                    "lat": 25.962309,
+                    "lng": 119.514544
+                },
+                "address": "朝阳路朝阳楼b座",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "ba804f334fddb2d9eee4a54b",
+                "detail": 1,
+                "uid": "ba804f334fddb2d9eee4a54b",
+                "detail_info": {
+                    "distance": 395,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.51448095297,
+                        "lat": 25.962180670716
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ba804f334fddb2d9eee4a54b&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "纯悦便利店",
+                "location": {
+                    "lat": 25.968133,
+                    "lng": 119.520243
+                },
+                "address": "西洋路247号东方御苑a区",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "5cd20bb43d0db7ecb14c49ff",
+                "telephone": "(0591)28873668,15980510045",
+                "detail": 1,
+                "uid": "5cd20bb43d0db7ecb14c49ff",
+                "detail_info": {
+                    "distance": 477,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5cd20bb43d0db7ecb14c49ff&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "缝补一衣服店",
+                "location": {
+                    "lat": 25.965621,
+                    "lng": 119.517753
+                },
+                "address": "郑和花园10座",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "b2a0ebd117c6d423f7eafcbc",
+                "detail_info": {
+                    "distance": 120,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b2a0ebd117c6d423f7eafcbc&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "两岸商行",
+                "location": {
+                    "lat": 25.968079,
+                    "lng": 119.518826
+                },
+                "address": "福州市长乐区金色海岸18号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "8e2ba6d7df1e003504026fe3",
+                "detail": 1,
+                "uid": "8e2ba6d7df1e003504026fe3",
+                "detail_info": {
+                    "distance": 411,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8e2ba6d7df1e003504026fe3&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "黛富妮家饰用品生活馆全国220号店(吴航路店)",
+                "location": {
+                    "lat": 25.961596,
+                    "lng": 119.520304
+                },
+                "address": "福建省福州市长乐区吴航路148",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "5ce2637de0fb9850ae31e5f3",
+                "detail": 1,
+                "uid": "5ce2637de0fb9850ae31e5f3",
+                "detail_info": {
+                    "distance": 423,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5ce2637de0fb9850ae31e5f3&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "鲜丰水果",
+                "location": {
+                    "lat": 25.968065,
+                    "lng": 119.518673
+                },
+                "address": "吴航街道金色海岸2号楼A26店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "c7613a00a0894f14740269c7",
+                "telephone": "15280007100",
+                "detail": 1,
+                "uid": "c7613a00a0894f14740269c7",
+                "detail_info": {
+                    "distance": 405,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c7613a00a0894f14740269c7&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "屈臣氏(十洋店)",
+                "location": {
+                    "lat": 25.963668,
+                    "lng": 119.521875
+                },
+                "address": "福州市长乐区郑和中路1号十洋国际城首层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "5dc66ed64c7a59dfb13c8197",
+                "telephone": "(0591)62683792",
+                "detail": 1,
+                "uid": "5dc66ed64c7a59dfb13c8197",
+                "detail_info": {
+                    "distance": 436,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5dc66ed64c7a59dfb13c8197&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "长乐区航城供销社农资经营点",
+                "location": {
+                    "lat": 25.966174,
+                    "lng": 119.516687
+                },
+                "address": "航华路97号丙附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "72f47a14dd4769fe8e7727b7",
+                "detail": 1,
+                "uid": "72f47a14dd4769fe8e7727b7",
+                "detail_info": {
+                    "distance": 203,
+                    "tag": "购物;其他",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=72f47a14dd4769fe8e7727b7&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "罗莱家纺(长乐店)",
+                "location": {
+                    "lat": 25.964376,
+                    "lng": 119.517742
+                },
+                "address": "郑和中路锦绣公寓9-11号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "480b24d05fdb0bf29cec2bcf",
+                "telephone": "15259135577",
+                "detail": 1,
+                "uid": "480b24d05fdb0bf29cec2bcf",
+                "detail_info": {
+                    "distance": 22,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.51748726351,
+                        "lat": 25.96457263068
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=480b24d05fdb0bf29cec2bcf&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "迦南五金水暖",
+                "location": {
+                    "lat": 25.96598,
+                    "lng": 119.516687
+                },
+                "address": "航华路100号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "bf14a3639107c2b32afc4846",
+                "telephone": "15259765225,15359765225",
+                "detail": 1,
+                "uid": "bf14a3639107c2b32afc4846",
+                "detail_info": {
+                    "distance": 184,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.51673901724,
+                        "lat": 25.966078877294
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bf14a3639107c2b32afc4846&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "联想专卖店(洞江小学店)",
+                "location": {
+                    "lat": 25.962885,
+                    "lng": 119.515006
+                },
+                "address": "福建省长乐市朝阳中路66号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "f9fd60624309151c0f0e6be9",
+                "telephone": "13067282603",
+                "detail": 1,
+                "uid": "f9fd60624309151c0f0e6be9",
+                "detail_info": {
+                    "distance": 319,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f9fd60624309151c0f0e6be9&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "宏阳水暖五金商行",
+                "location": {
+                    "lat": 25.965154,
+                    "lng": 119.515412
+                },
+                "address": "福建省福州市长乐市吴航街道朝阳中路郑和花园二期",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "f131fc8bd078bcd94151c01c",
+                "telephone": "(0591)27999977,18965069933",
+                "detail": 1,
+                "uid": "f131fc8bd078bcd94151c01c",
+                "detail_info": {
+                    "distance": 230,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f131fc8bd078bcd94151c01c&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "丽姜烟酒",
+                "location": {
+                    "lat": 25.961527,
+                    "lng": 119.518522
+                },
+                "address": "吴航路196号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "85b0eef3cf198e64b54f5470",
+                "detail": 1,
+                "uid": "85b0eef3cf198e64b54f5470",
+                "detail_info": {
+                    "distance": 347,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=85b0eef3cf198e64b54f5470&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "新时代文具店(三峰路店)",
+                "location": {
+                    "lat": 25.968272,
+                    "lng": 119.516764
+                },
+                "address": "三峰路306",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "(0591)28825698",
+                "detail": 1,
+                "uid": "7278b566d25751dc3c9a5ec7",
+                "detail_info": {
+                    "distance": 423,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7278b566d25751dc3c9a5ec7&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "旺佳缘超市(郑和中路店)",
+                "location": {
+                    "lat": 25.964759,
+                    "lng": 119.516464
+                },
+                "address": "航城街道郑和中路286号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "13860077230",
+                "detail": 1,
+                "uid": "46216141b90344ccbd484278",
+                "detail_info": {
+                    "distance": 117,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=46216141b90344ccbd484278&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国移动(国际明珠营业厅)",
+                "location": {
+                    "lat": 25.964008,
+                    "lng": 119.519456
+                },
+                "address": "吴航镇西洋中路国际明珠大厦1-3号店面(日韵东方销售楼隔壁、宏航新城前门)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "58b3b29ee0224fba6fc02cb6",
+                "detail_info": {
+                    "distance": 193,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=58b3b29ee0224fba6fc02cb6&output=html&source=placeapi_v2",
+                    "image_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "天长地久(长乐西洋店)",
+                "location": {
+                    "lat": 25.963501,
+                    "lng": 119.519978
+                },
+                "address": "西洋中路71-77号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "cd9d05dd92aa61b585420ee8",
+                "telephone": "13615018351",
+                "detail": 1,
+                "uid": "cd9d05dd92aa61b585420ee8",
+                "detail_info": {
+                    "distance": 262,
+                    "tag": "生活服务;照相馆",
+                    "navi_location": {
+                        "lng": 119.51977799466,
+                        "lat": 25.963544853316
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cd9d05dd92aa61b585420ee8&output=html&source=placeapi_v2",
+                    "price": "3697",
+                    "overall_rating": "4.7",
+                    "image_num": "22",
+                    "comment_num": "25",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国邮政(长乐区邮政局)",
+                "location": {
+                    "lat": 25.961575,
+                    "lng": 119.519241
+                },
+                "address": "福建省福州市长乐区西洋中路2号邮政大厦1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "cd9d05ddfc50f3b684420e91",
+                "detail": 1,
+                "uid": "cd9d05ddfc50f3b684420e91",
+                "detail_info": {
+                    "distance": 367,
+                    "tag": "生活服务;邮局",
+                    "navi_location": {
+                        "lng": 119.51968176997,
+                        "lat": 25.961615363157
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cd9d05ddfc50f3b684420e91&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "9",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国联通(乐加专营店)",
+                "location": {
+                    "lat": 25.966019,
+                    "lng": 119.51751
+                },
+                "address": "福建省福州市长乐市航华路28号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "9a601da1193c45022cb96dbe",
+                "detail_info": {
+                    "distance": 164,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9a601da1193c45022cb96dbe&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "华为客户服务中心(长乐吴航路店)",
+                "location": {
+                    "lat": 25.961047,
+                    "lng": 119.521471
+                },
+                "address": "长乐区吴航路37-39号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "(0591)28885266",
+                "detail": 1,
+                "uid": "5f2dcf59e815a5edaeb22a2c",
+                "detail_info": {
+                    "distance": 547,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5f2dcf59e815a5edaeb22a2c&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "精艺数码摄影冲印(精艺照相馆)",
+                "location": {
+                    "lat": 25.965243,
+                    "lng": 119.519867
+                },
+                "address": "西洋中路117号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "(0591)28931702",
+                "detail": 1,
+                "uid": "2c8cc634c2f8b44ebda24000",
+                "detail_info": {
+                    "distance": 237,
+                    "tag": "生活服务;照相馆",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2c8cc634c2f8b44ebda24000&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "8",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "炫影照相馆",
+                "location": {
+                    "lat": 25.960635,
+                    "lng": 119.514967
+                },
+                "address": "福州市长乐区罗马花园5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "46374463ae7e43bc40afe6e4",
+                "detail": 1,
+                "uid": "46374463ae7e43bc40afe6e4",
+                "detail_info": {
+                    "distance": 509,
+                    "tag": "生活服务;照相馆",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=46374463ae7e43bc40afe6e4&output=html&source=placeapi_v2",
+                    "image_num": "7",
+                    "children": []
+                }
+            },
+            {
+                "name": "三峰园",
+                "location": {
+                    "lat": 25.96732,
+                    "lng": 119.522031
+                },
+                "address": "福建省福州市长乐区三峰园(六平路北)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "addf17f2c22ca7f081a00cae",
+                "detail": 1,
+                "uid": "addf17f2c22ca7f081a00cae",
+                "detail_info": {
+                    "distance": 538,
+                    "tag": "生活服务;彩票销售点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=addf17f2c22ca7f081a00cae&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "市标票点",
+                "location": {
+                    "lat": 25.960512,
+                    "lng": 119.519492
+                },
+                "address": "福建省福州市长乐区宝杭花园(西洋南路西)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "48f78326a7ebb1b4adb22a92",
+                "detail": 1,
+                "uid": "48f78326a7ebb1b4adb22a92",
+                "detail_info": {
+                    "distance": 485,
+                    "tag": "生活服务;售票处",
+                    "navi_location": {
+                        "lng": 119.51968103336,
+                        "lat": 25.960589412756
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=48f78326a7ebb1b4adb22a92&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "3",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "公共厕所",
+                "location": {
+                    "lat": 25.967408,
+                    "lng": 119.521022
+                },
+                "address": "西洋中路14-15附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "7388dffd5c355f95d2ff23b6",
+                "detail": 1,
+                "uid": "7388dffd5c355f95d2ff23b6",
+                "detail_info": {
+                    "distance": 466,
+                    "tag": "生活服务;公共厕所",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7388dffd5c355f95d2ff23b6&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "1",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "逍遥电脑打印",
+                "location": {
+                    "lat": 25.96606,
+                    "lng": 119.514562
+                },
+                "address": "福建省福州市长乐区航城街道新华巷宜春园2座(凯捷花园北)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "d43a56bb73e1c54a0aa8d4cd",
+                "telephone": "18960895678,(0591)28715637",
+                "detail": 1,
+                "uid": "d43a56bb73e1c54a0aa8d4cd",
+                "detail_info": {
+                    "distance": 348,
+                    "tag": "生活服务;图文快印店",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d43a56bb73e1c54a0aa8d4cd&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "申通快递(三峰营业部)",
+                "location": {
+                    "lat": 25.968327,
+                    "lng": 119.513269
+                },
+                "address": "福建省福州市长乐区三峰西路462",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "telephone": "95543,4008895543",
+                "detail": 1,
+                "uid": "e6e6e6ec065420cf2a02e1ee",
+                "detail_info": {
+                    "distance": 604,
+                    "tag": "生活服务;物流公司",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e6e6e6ec065420cf2a02e1ee&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国电信天翼特约售后维修",
+                "location": {
+                    "lat": 25.962307,
+                    "lng": 119.519981
+                },
+                "address": "市标华达花园公交站",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "b5caba37e3e0e59bc7f50d88",
+                "detail_info": {
+                    "distance": 343,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b5caba37e3e0e59bc7f50d88&output=html&source=placeapi_v2",
+                    "image_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "中联立信房产(国际明珠店)",
+                "location": {
+                    "lat": 25.964352,
+                    "lng": 119.519007
+                },
+                "address": "福建省福州市长乐市郑和中路55号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "detail": 1,
+                "uid": "e180b101979cf50a32f71d3a",
+                "detail_info": {
+                    "distance": 140,
+                    "tag": "生活服务;房产中介机构",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e180b101979cf50a32f71d3a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "公共厕所",
+                "location": {
+                    "lat": 25.961532,
+                    "lng": 119.516098
+                },
+                "address": "福建省福州市长乐区吴航路世纪钟楼(长乐邮政局公交站西)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "长乐区",
+                "street_id": "23116913a3dcba83734b879c",
+                "detail": 1,
+                "uid": "23116913a3dcba83734b879c",
+                "detail_info": {
+                    "distance": 367,
+                    "tag": "生活服务;公共厕所",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=23116913a3dcba83734b879c&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}

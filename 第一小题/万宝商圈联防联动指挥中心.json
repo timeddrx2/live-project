@@ -1,0 +1,2598 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "尊宝比萨(福州苏宁广场店)",
+                "location": {
+                    "lat": 26.068035,
+                    "lng": 119.293316
+                },
+                "address": "福州市台江区工业路233号苏宁广场B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "15959238009",
+                "detail": 1,
+                "uid": "35416901e34bf7df1676430f",
+                "detail_info": {
+                    "distance": 343,
+                    "tag": "美食;外国餐厅",
+                    "indoor_floor": "B1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=35416901e34bf7df1676430f&output=html&source=placeapi_v2",
+                    "price": "35.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "36",
+                    "children": []
+                }
+            },
+            {
+                "name": "鱼弹头(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.06734,
+                    "lng": 119.298076
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "7071bced7db5b2fd0b1cc7de",
+                "telephone": "(0591)83807865",
+                "detail": 1,
+                "uid": "7071bced7db5b2fd0b1cc7de",
+                "detail_info": {
+                    "distance": 165,
+                    "tag": "美食;中餐厅",
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7071bced7db5b2fd0b1cc7de&output=html&source=placeapi_v2",
+                    "price": "43.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "27",
+                    "children": []
+                }
+            },
+            {
+                "name": "桥亭活鱼小镇(宝龙店)",
+                "location": {
+                    "lat": 26.066476,
+                    "lng": 119.299478
+                },
+                "address": "福建省福州市台江区宁化路4号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "48eb0058616f67d02fe67b75",
+                "telephone": "(0591)83811976",
+                "detail": 1,
+                "uid": "48eb0058616f67d02fe67b75",
+                "detail_info": {
+                    "distance": 300,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.29976631447,
+                        "lat": 26.066606059356
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=48eb0058616f67d02fe67b75&output=html&source=placeapi_v2",
+                    "price": "51.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "190",
+                    "children": []
+                }
+            },
+            {
+                "name": "调调香旋转麻辣烫小火锅(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067597,
+                    "lng": 119.299406
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "13509339949",
+                "detail": 1,
+                "uid": "6aed03025ac30efe704b87f0",
+                "detail_info": {
+                    "distance": 300,
+                    "tag": "美食;中餐厅",
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6aed03025ac30efe704b87f0&output=html&source=placeapi_v2",
+                    "price": "29.0",
+                    "overall_rating": "4.6",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "豪客来(福州苏宁广场餐厅)",
+                "location": {
+                    "lat": 26.068583,
+                    "lng": 119.292996
+                },
+                "address": "福州市台江区工业路233号苏宁广场B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "5b9415535177f8234151c0b0",
+                "telephone": "(0591)86295589",
+                "detail": 1,
+                "uid": "5b9415535177f8234151c0b0",
+                "detail_info": {
+                    "distance": 397,
+                    "tag": "美食;外国餐厅",
+                    "navi_location": {
+                        "lng": 119.29366359783,
+                        "lat": 26.068375296959
+                    },
+                    "indoor_floor": "B1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5b9415535177f8234151c0b0&output=html&source=placeapi_v2",
+                    "price": "56.0",
+                    "overall_rating": "4.4",
+                    "comment_num": "99",
+                    "children": []
+                }
+            },
+            {
+                "name": "相逢客(宝龙城市广场西区店)",
+                "location": {
+                    "lat": 26.067369,
+                    "lng": 119.298487
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "d91e0b68d1167a9833169bfc",
+                "telephone": "18559105208",
+                "detail": 1,
+                "uid": "d91e0b68d1167a9833169bfc",
+                "detail_info": {
+                    "distance": 205,
+                    "tag": "美食;中餐厅",
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d91e0b68d1167a9833169bfc&output=html&source=placeapi_v2",
+                    "price": "31.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "65",
+                    "children": []
+                }
+            },
+            {
+                "name": "咏蛙田鸡(福州苏宁广场店)",
+                "location": {
+                    "lat": 26.068598,
+                    "lng": 119.293373
+                },
+                "address": "福州市台江区工业路233号苏宁广场F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "9b12588c6fae90b5c4f02506",
+                "telephone": "(0591)83802637",
+                "detail": 1,
+                "uid": "9b12588c6fae90b5c4f02506",
+                "detail_info": {
+                    "distance": 366,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.29366359783,
+                        "lat": 26.068375296959
+                    },
+                    "indoor_floor": "F4",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9b12588c6fae90b5c4f02506&output=html&source=placeapi_v2",
+                    "price": "75.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "198",
+                    "children": []
+                }
+            },
+            {
+                "name": "小韩家麻辣鱼(宝龙店)",
+                "location": {
+                    "lat": 26.066931,
+                    "lng": 119.29878
+                },
+                "address": "工业路193号宝龙城市广场L1层253号(依眼粉干对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "7a4fabc647051f695bf6be15",
+                "detail_info": {
+                    "distance": 227,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7a4fabc647051f695bf6be15&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "16",
+                    "children": []
+                }
+            },
+            {
+                "name": "又卷烧饼(宝龙店)",
+                "location": {
+                    "lat": 26.068642,
+                    "lng": 119.297765
+                },
+                "address": "台江区工业路宝龙城市广场1号门外广场亭子(正新鸡排旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "15767179241",
+                "detail": 1,
+                "uid": "2a6619d915a029ae9222e084",
+                "detail_info": {
+                    "distance": 232,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2a6619d915a029ae9222e084&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "image_num": "2",
+                    "comment_num": "16",
+                    "children": []
+                }
+            },
+            {
+                "name": "朴竖麻小(宝龙店)",
+                "location": {
+                    "lat": 26.066488,
+                    "lng": 119.298935
+                },
+                "address": "康城路工业路193号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "73ff02a0422b4c2f0482c26b",
+                "detail_info": {
+                    "distance": 246,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=73ff02a0422b4c2f0482c26b&output=html&source=placeapi_v2",
+                    "price": "79.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "28",
+                    "children": []
+                }
+            },
+            {
+                "name": "牛门小将潮牛(万象九宜城店)",
+                "location": {
+                    "lat": 26.070593,
+                    "lng": 119.297131
+                },
+                "address": "福州市台江区西环中路691号万象生活城F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "b83f0b41cc6c154f8e7727f2",
+                "telephone": "(0591)83332013",
+                "detail": 1,
+                "uid": "b83f0b41cc6c154f8e7727f2",
+                "detail_info": {
+                    "distance": 417,
+                    "tag": "美食;中餐厅",
+                    "indoor_floor": "F4",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b83f0b41cc6c154f8e7727f2&output=html&source=placeapi_v2",
+                    "price": "104.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "43",
+                    "children": []
+                }
+            },
+            {
+                "name": "阿肥发扁食",
+                "location": {
+                    "lat": 26.063007,
+                    "lng": 119.294808
+                },
+                "address": "西二环南路118号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "f5b036ec16ecec7f51e5c571",
+                "detail_info": {
+                    "distance": 463,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f5b036ec16ecec7f51e5c571&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "1",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "情绪料理(万象九宜城店)",
+                "location": {
+                    "lat": 26.070825,
+                    "lng": 119.296929
+                },
+                "address": "福州市台江区西环中路691号万象九宜城F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83251522",
+                "detail": 1,
+                "uid": "351ef3fd2cd00959c51e5102",
+                "detail_info": {
+                    "distance": 440,
+                    "tag": "美食;外国餐厅",
+                    "indoor_floor": "F4",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=351ef3fd2cd00959c51e5102&output=html&source=placeapi_v2",
+                    "overall_rating": "4.1",
+                    "comment_num": "63",
+                    "children": []
+                }
+            },
+            {
+                "name": "农家小炒(浦西路店)",
+                "location": {
+                    "lat": 26.065975,
+                    "lng": 119.298215
+                },
+                "address": "台江区义洲街道浦西路红旗新村9号楼一层沿街78号店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "9e6859deb46e8f5c08ccdd59",
+                "telephone": "13615965534",
+                "detail": 1,
+                "uid": "9e6859deb46e8f5c08ccdd59",
+                "detail_info": {
+                    "distance": 198,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9e6859deb46e8f5c08ccdd59&output=html&source=placeapi_v2",
+                    "price": "19.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "一号煎包(宝龙城市广场店)",
+                "location": {
+                    "lat": 26.067852,
+                    "lng": 119.298117
+                },
+                "address": "工业路193号宝龙城市广场1层底商",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "866477c4d88f2bc24107c15b",
+                "detail_info": {
+                    "distance": 193,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=866477c4d88f2bc24107c15b&output=html&source=placeapi_v2",
+                    "price": "23.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "21",
+                    "children": []
+                }
+            },
+            {
+                "name": "壹间茶餐厅(中央第五街店)",
+                "location": {
+                    "lat": 26.07016,
+                    "lng": 119.298356
+                },
+                "address": "福建省福州市台江区工业路中央第五街3号15-16店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)88515518",
+                "detail": 1,
+                "uid": "06dd9567fbcfe0723be4a642",
+                "detail_info": {
+                    "distance": 408,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=06dd9567fbcfe0723be4a642&output=html&source=placeapi_v2",
+                    "price": "73.0",
+                    "overall_rating": "3.8",
+                    "comment_num": "155",
+                    "children": []
+                }
+            },
+            {
+                "name": "品味轩(宝龙店)",
+                "location": {
+                    "lat": 26.066048,
+                    "lng": 119.299131
+                },
+                "address": "宁化街宝龙广场浦西路96号(宝龙国惠后面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "290c23734d298b66110daa78",
+                "telephone": "(0591)88688188",
+                "detail": 1,
+                "uid": "c04ac3fe698e8f0b78f79633",
+                "detail_info": {
+                    "distance": 278,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c04ac3fe698e8f0b78f79633&output=html&source=placeapi_v2",
+                    "price": "61.0",
+                    "overall_rating": "3.7",
+                    "comment_num": "15",
+                    "children": []
+                }
+            },
+            {
+                "name": "坛太宗(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068375,
+                    "lng": 119.2978
+                },
+                "address": "福州市台江区工业路193号宝龙广场F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "af742e75be3c6963b1077dba",
+                "telephone": "(0591)86211989",
+                "detail": 1,
+                "uid": "54c54a411c60e65121f017f8",
+                "detail_info": {
+                    "distance": 210,
+                    "tag": "美食;小吃快餐店",
+                    "indoor_floor": "F4",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=54c54a411c60e65121f017f8&output=html&source=placeapi_v2",
+                    "price": "59.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "66",
+                    "children": []
+                }
+            },
+            {
+                "name": "臻牛(宝龙广场店)",
+                "location": {
+                    "lat": 26.068054,
+                    "lng": 119.297606
+                },
+                "address": "福州市台江区工业路193号宝龙广场F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "13486448629,(0591)83809582",
+                "detail": 1,
+                "uid": "44aab2ab844c3ee19ee321d7",
+                "detail_info": {
+                    "distance": 170,
+                    "tag": "美食;中餐厅",
+                    "indoor_floor": "F4",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=44aab2ab844c3ee19ee321d7&output=html&source=placeapi_v2",
+                    "overall_rating": "3.7",
+                    "image_num": "1",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "漫斯塔披萨·牛排自助餐厅(万象九宜城店)",
+                "location": {
+                    "lat": 26.070659,
+                    "lng": 119.297656
+                },
+                "address": "福州市台江区西环中路691号万象九宜城F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83379850",
+                "detail": 1,
+                "uid": "a3b2aa93e753c322a3acc4d1",
+                "detail_info": {
+                    "distance": 435,
+                    "tag": "美食;外国餐厅",
+                    "indoor_floor": "F4",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a3b2aa93e753c322a3acc4d1&output=html&source=placeapi_v2",
+                    "price": "75.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "27",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "小贝烘焙(宝龙店)",
+                "location": {
+                    "lat": 26.065912,
+                    "lng": 119.297516
+                },
+                "address": "浦西路46号(宁化小学对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "65957a50f4764a8bd22dd617",
+                "telephone": "18150066747",
+                "detail": 1,
+                "uid": "65957a50f4764a8bd22dd617",
+                "detail_info": {
+                    "distance": 148,
+                    "tag": "美食;蛋糕甜品店",
+                    "navi_location": {
+                        "lng": 119.29752528746,
+                        "lat": 26.065857015341
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=65957a50f4764a8bd22dd617&output=html&source=placeapi_v2",
+                    "price": "31.0",
+                    "overall_rating": "3.3",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "芋时代(苏宁店)",
+                "location": {
+                    "lat": 26.062945,
+                    "lng": 119.294584
+                },
+                "address": "振武路42号金星四季花城10号楼1层14店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "17759067138",
+                "detail": 1,
+                "uid": "b8e2c23cb719e0f8d3ff23bc",
+                "detail_info": {
+                    "distance": 477,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b8e2c23cb719e0f8d3ff23bc&output=html&source=placeapi_v2",
+                    "price": "13.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "7",
+                    "children": []
+                }
+            },
+            {
+                "name": "韦记螺蛳粉",
+                "location": {
+                    "lat": 26.063012,
+                    "lng": 119.295156
+                },
+                "address": "西环南路116号(文锦佳园三号楼)巧嫂粉面旁(文锦佳园三号楼)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "c7ae7589ed52e340100daa53",
+                "telephone": "18060608028",
+                "detail": 1,
+                "uid": "c7ae7589ed52e340100daa53",
+                "detail_info": {
+                    "distance": 450,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.29516870512,
+                        "lat": 26.062828411007
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c7ae7589ed52e340100daa53&output=html&source=placeapi_v2",
+                    "price": "18.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "119",
+                    "children": []
+                }
+            },
+            {
+                "name": "汉堡王(中防万宝城餐厅)",
+                "location": {
+                    "lat": 26.067383,
+                    "lng": 119.296418
+                },
+                "address": "福州市台江区工业路199号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)87115171",
+                "detail": 1,
+                "uid": "ed5f02d032cdc1be15a190ac",
+                "detail_info": {
+                    "distance": 56,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ed5f02d032cdc1be15a190ac&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "49",
+                    "children": []
+                }
+            },
+            {
+                "name": "肯德基(工业路餐厅)",
+                "location": {
+                    "lat": 26.067384,
+                    "lng": 119.296385
+                },
+                "address": "宁化街道工业路199号中防万宝城负一MPL2-308",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "7f2970da630e8a04364aaef1",
+                "detail_info": {
+                    "distance": 56,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7f2970da630e8a04364aaef1&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "麦当劳(宝龙餐厅)",
+                "location": {
+                    "lat": 26.067926,
+                    "lng": 119.297056
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "a6b5fb27e84f768c5d17c3d5",
+                "telephone": "(0591)83802288",
+                "detail": 1,
+                "uid": "a6b5fb27e84f768c5d17c3d5",
+                "detail_info": {
+                    "distance": 128,
+                    "tag": "美食;小吃快餐店",
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a6b5fb27e84f768c5d17c3d5&output=html&source=placeapi_v2",
+                    "price": "21.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "107",
+                    "children": []
+                }
+            },
+            {
+                "name": "汕牛汇(中防店)",
+                "location": {
+                    "lat": 26.069502,
+                    "lng": 119.29772
+                },
+                "address": "工业路199号中防万宝城负一楼1-3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83222988",
+                "detail": 1,
+                "uid": "f4c0ee7df4dfa76e01294f04",
+                "detail_info": {
+                    "distance": 315,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f4c0ee7df4dfa76e01294f04&output=html&source=placeapi_v2",
+                    "price": "96.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "85",
+                    "children": []
+                }
+            },
+            {
+                "name": "吉野家(中防万宝店)",
+                "location": {
+                    "lat": 26.069521,
+                    "lng": 119.296849
+                },
+                "address": "台江区工业路199号中防万宝城负一层美食区二十四小时通道旁",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83826315",
+                "detail": 1,
+                "uid": "b783b81954ed8072a8f0cd09",
+                "detail_info": {
+                    "distance": 295,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b783b81954ed8072a8f0cd09&output=html&source=placeapi_v2",
+                    "price": "22.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "29",
+                    "children": []
+                }
+            },
+            {
+                "name": "没牙姐花生汤(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067407,
+                    "lng": 119.297926
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "f81dd9b8845868d4fca778ac",
+                "telephone": "13860640458",
+                "detail": 1,
+                "uid": "f81dd9b8845868d4fca778ac",
+                "detail_info": {
+                    "distance": 153,
+                    "tag": "美食;小吃快餐店",
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f81dd9b8845868d4fca778ac&output=html&source=placeapi_v2",
+                    "price": "11.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "24",
+                    "children": []
+                }
+            },
+            {
+                "name": "姑娘手肉夹馍(宝龙城市广场南区B店)",
+                "location": {
+                    "lat": 26.067347,
+                    "lng": 119.298266
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "1462e67244ae33932dfaa749",
+                "detail": 1,
+                "uid": "1462e67244ae33932dfaa749",
+                "detail_info": {
+                    "distance": 183,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.2982597654,
+                        "lat": 26.067232834307
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1462e67244ae33932dfaa749&output=html&source=placeapi_v2",
+                    "price": "21.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "190",
+                    "children": []
+                }
+            },
+            {
+                "name": "海城酒店公寓",
+                "location": {
+                    "lat": 26.067387,
+                    "lng": 119.297081
+                },
+                "address": "福建省福州市台江区二环路与工业路路口宝龙城市广场B座9楼525室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "fea866c13926fcc3d3ff2371",
+                "telephone": "(0591)83810566",
+                "detail": 1,
+                "uid": "fea866c13926fcc3d3ff2371",
+                "detail_info": {
+                    "distance": 80,
+                    "tag": "酒店;公寓式酒店",
+                    "navi_location": {
+                        "lng": 119.29620951333,
+                        "lat": 26.067985006311
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fea866c13926fcc3d3ff2371&output=html&source=placeapi_v2",
+                    "price": "65.0",
+                    "overall_rating": "3.1",
+                    "service_rating": "3.2",
+                    "facility_rating": "3.2",
+                    "hygiene_rating": "3.2",
+                    "image_num": "47",
+                    "comment_num": "56",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州君威酒店公寓",
+                "location": {
+                    "lat": 26.067387,
+                    "lng": 119.29708
+                },
+                "address": "福建省福州市台江区工业路193号宝龙城市广场公寓B幢6层225室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "365d609a1d13fe6c31169bbf",
+                "telephone": "(0591)88859076",
+                "detail": 1,
+                "uid": "365d609a1d13fe6c31169bbf",
+                "detail_info": {
+                    "distance": 80,
+                    "tag": "酒店;公寓式酒店",
+                    "navi_location": {
+                        "lng": 119.29727430629,
+                        "lat": 26.067003692174
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=365d609a1d13fe6c31169bbf&output=html&source=placeapi_v2",
+                    "price": "101.0",
+                    "overall_rating": "2.3",
+                    "service_rating": "3.5",
+                    "facility_rating": "3.5",
+                    "hygiene_rating": "3.5",
+                    "image_num": "100",
+                    "comment_num": "34",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "西岸酒店式公寓",
+                "location": {
+                    "lat": 26.067393,
+                    "lng": 119.297072
+                },
+                "address": "福建省福州市台江区宝龙城市广场B栋7层325室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "8ffc33b52145e190f503b88f",
+                "telephone": "(0591)83817801",
+                "detail": 1,
+                "uid": "8ffc33b52145e190f503b88f",
+                "detail_info": {
+                    "distance": 80,
+                    "tag": "酒店;公寓式酒店",
+                    "navi_location": {
+                        "lng": 119.29923477182,
+                        "lat": 26.068916667155
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8ffc33b52145e190f503b88f&output=html&source=placeapi_v2",
+                    "price": "120.0",
+                    "overall_rating": "3.0",
+                    "service_rating": "3.9",
+                    "facility_rating": "3.7",
+                    "hygiene_rating": "3.8",
+                    "image_num": "52",
+                    "comment_num": "3",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "海友酒店(宝龙店)",
+                "location": {
+                    "lat": 26.065641,
+                    "lng": 119.296629
+                },
+                "address": "福州市台江区浦西路5号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "eb6b89e61d62e2122811d134",
+                "telephone": "(0591)38500333",
+                "detail": 1,
+                "uid": "eb6b89e61d62e2122811d134",
+                "detail_info": {
+                    "distance": 138,
+                    "tag": "酒店;快捷酒店",
+                    "navi_location": {
+                        "lng": 119.29670343314,
+                        "lat": 26.06572113634
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=eb6b89e61d62e2122811d134&output=html&source=placeapi_v2",
+                    "price": "194.0",
+                    "overall_rating": "3.9",
+                    "service_rating": "4.2",
+                    "facility_rating": "4.2",
+                    "hygiene_rating": "4.2",
+                    "image_num": "32",
+                    "comment_num": "25",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "佳裕·梦乡精品酒店",
+                "location": {
+                    "lat": 26.066288,
+                    "lng": 119.295569
+                },
+                "address": "福建省福州市台江区西环南路36、38号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "50f7d146e29305c472210b6c",
+                "telephone": "(0591)83836077",
+                "detail": 1,
+                "uid": "50f7d146e29305c472210b6c",
+                "detail_info": {
+                    "distance": 114,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.29593287565,
+                        "lat": 26.066332032001
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=50f7d146e29305c472210b6c&output=html&source=placeapi_v2",
+                    "price": "67.0",
+                    "overall_rating": "4.2",
+                    "service_rating": "3.8",
+                    "facility_rating": "3.8",
+                    "hygiene_rating": "3.8",
+                    "image_num": "87",
+                    "comment_num": "43",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "速8酒店(福州万象城店)",
+                "location": {
+                    "lat": 26.070788,
+                    "lng": 119.295474
+                },
+                "address": "福州市台江区西二环中路676号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)28328333",
+                "detail": 1,
+                "uid": "e80b971d45cb6dd7e6e96541",
+                "detail_info": {
+                    "distance": 446,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e80b971d45cb6dd7e6e96541&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "service_rating": "3.9",
+                    "facility_rating": "3.9",
+                    "hygiene_rating": "3.9",
+                    "image_num": "50",
+                    "comment_num": "56",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州台江宝龙玫瑰公寓",
+                "location": {
+                    "lat": 26.067754,
+                    "lng": 119.298151
+                },
+                "address": "福建省福州市台江区工业路193号宝龙城市广场6楼204",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "71ef8d34f4b6a79014c8f696",
+                "telephone": "(0591)83808273",
+                "detail": 1,
+                "uid": "71ef8d34f4b6a79014c8f696",
+                "detail_info": {
+                    "distance": 191,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=71ef8d34f4b6a79014c8f696&output=html&source=placeapi_v2",
+                    "price": "59.0",
+                    "overall_rating": "3.3",
+                    "service_rating": "3.3",
+                    "facility_rating": "3.3",
+                    "hygiene_rating": "3.3",
+                    "image_num": "100",
+                    "comment_num": "57",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州宝龙银河商务公寓酒店",
+                "location": {
+                    "lat": 26.068354,
+                    "lng": 119.298296
+                },
+                "address": "福州台江区工业路193号宝龙城市广场11F705室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "38970b2c15c40a8ecc06a4e4",
+                "telephone": "(0591)83806617",
+                "detail": 1,
+                "uid": "38970b2c15c40a8ecc06a4e4",
+                "detail_info": {
+                    "distance": 242,
+                    "tag": "酒店;公寓式酒店",
+                    "navi_location": {
+                        "lng": 119.29801082787,
+                        "lat": 26.066976435973
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=38970b2c15c40a8ecc06a4e4&output=html&source=placeapi_v2",
+                    "price": "57.0",
+                    "overall_rating": "3.7",
+                    "service_rating": "3.8",
+                    "facility_rating": "3.8",
+                    "hygiene_rating": "3.8",
+                    "image_num": "90",
+                    "comment_num": "11",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国VIP移动公寓福州宝龙商务酒店公寓",
+                "location": {
+                    "lat": 26.068318,
+                    "lng": 119.297834
+                },
+                "address": "福建省福州市台江区工业路宝龙城市广场公寓A座7层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "b45e99810653e5d79ee321dd",
+                "telephone": "13799362092",
+                "detail": 1,
+                "uid": "b45e99810653e5d79ee321dd",
+                "detail_info": {
+                    "distance": 207,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b45e99810653e5d79ee321dd&output=html&source=placeapi_v2",
+                    "price": "100.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "15",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州新虹井主题酒店",
+                "location": {
+                    "lat": 26.0674,
+                    "lng": 119.299111
+                },
+                "address": "福建省福州市台江区工业路宝龙城市广场公寓A座5楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "fdc7054a8580513e88b98846",
+                "telephone": "15160587318",
+                "detail": 1,
+                "uid": "fdc7054a8580513e88b98846",
+                "detail_info": {
+                    "distance": 266,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fdc7054a8580513e88b98846&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "5",
+                    "comment_num": "1",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "汇雄宾馆(西环中路)",
+                "location": {
+                    "lat": 26.070875,
+                    "lng": 119.295419
+                },
+                "address": "福建省福州市台江区西二环中路荷泽综合楼676号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "cb4fd146ecfc30419d9d686c",
+                "telephone": "(0591)83757929",
+                "detail": 1,
+                "uid": "cb4fd146ecfc30419d9d686c",
+                "detail_info": {
+                    "distance": 456,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cb4fd146ecfc30419d9d686c&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.3",
+                    "service_rating": "4.5",
+                    "facility_rating": "4.5",
+                    "hygiene_rating": "4.5",
+                    "image_num": "7",
+                    "comment_num": "3",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州快捷酒店",
+                "location": {
+                    "lat": 26.068768,
+                    "lng": 119.298092
+                },
+                "address": "福州市工业路宝龙城市广场公寓b座6层225房订房",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "73c32f6ca36801330ab93a5d",
+                "detail_info": {
+                    "distance": 262,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=73c32f6ca36801330ab93a5d&output=html&source=placeapi_v2",
+                    "service_rating": "0",
+                    "facility_rating": "0",
+                    "hygiene_rating": "0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "蓝雨公寓酒店",
+                "location": {
+                    "lat": 26.067378,
+                    "lng": 119.299196
+                },
+                "address": "工业路宝龙城市广场公寓A座7层306",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "c5dff4cceba358aa901fc97e",
+                "detail_info": {
+                    "distance": 274,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c5dff4cceba358aa901fc97e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "service_rating": "4.6",
+                    "facility_rating": "4.6",
+                    "hygiene_rating": "4.6",
+                    "image_num": "9",
+                    "comment_num": "9",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州宝龙名仕酒店(A座店)",
+                "location": {
+                    "lat": 26.067598,
+                    "lng": 119.298546
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场公寓A座8楼406室(国惠大酒楼)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83839851",
+                "detail": 1,
+                "uid": "881d10f35288fcc4de1e5296",
+                "detail_info": {
+                    "distance": 219,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=881d10f35288fcc4de1e5296&output=html&source=placeapi_v2",
+                    "price": "159.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "54",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州宝龙万宝居酒店式公寓",
+                "location": {
+                    "lat": 26.067346,
+                    "lng": 119.299095
+                },
+                "address": "宝龙公寓A幢A栋12楼828",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "9fff008168f066daf5c59ced",
+                "detail": 1,
+                "uid": "9fff008168f066daf5c59ced",
+                "detail_info": {
+                    "distance": 264,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9fff008168f066daf5c59ced&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "service_rating": "4.0",
+                    "facility_rating": "3.0",
+                    "hygiene_rating": "5.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "鹭友嘉连锁酒店公寓(宝龙店)",
+                "location": {
+                    "lat": 26.067316,
+                    "lng": 119.298605
+                },
+                "address": "福建省福州市台江区工业路(宝龙广场A座10层)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "98060251c81a8d12744ff162",
+                "telephone": "(0591)83806617",
+                "detail": 1,
+                "uid": "98060251c81a8d12744ff162",
+                "detail_info": {
+                    "distance": 215,
+                    "tag": "酒店;公寓式酒店",
+                    "navi_location": {
+                        "lng": 119.29923477182,
+                        "lat": 26.068916667155
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=98060251c81a8d12744ff162&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0",
+                    "facility_rating": "0",
+                    "hygiene_rating": "0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝龙广场",
+                "location": {
+                    "lat": 26.067979,
+                    "lng": 119.298009
+                },
+                "address": "福州市台江区工业路193号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "9ee7cc788c3f396916c905db",
+                "detail": 1,
+                "uid": "9ee7cc788c3f396916c905db",
+                "detail_info": {
+                    "distance": 193,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.29674825858,
+                        "lat": 26.067180875133
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9ee7cc788c3f396916c905db&output=html&source=placeapi_v2",
+                    "price": "143.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝龙城市广场-西区",
+                "location": {
+                    "lat": 26.068165,
+                    "lng": 119.297272
+                },
+                "address": "工业路193号宝龙城市广场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "ecf62b1c5f48daaf1e1d116b",
+                "detail": 1,
+                "uid": "ecf62b1c5f48daaf1e1d116b",
+                "detail_info": {
+                    "distance": 161,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.29676730984,
+                        "lat": 26.067205694834
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ecf62b1c5f48daaf1e1d116b&output=html&source=placeapi_v2",
+                    "price": "1100.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "家乐福(宝龙店)",
+                "location": {
+                    "lat": 26.067531,
+                    "lng": 119.297316
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场内",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "1eeed546b52792ebb5147fd8",
+                "telephone": "(0591)83833105",
+                "detail": 1,
+                "uid": "1eeed546b52792ebb5147fd8",
+                "detail_info": {
+                    "distance": 108,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.29672415704,
+                        "lat": 26.067933961798
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1eeed546b52792ebb5147fd8&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "30",
+                    "children": []
+                }
+            },
+            {
+                "name": "名创优品(宝龙城市广场店)",
+                "location": {
+                    "lat": 26.068396,
+                    "lng": 119.298442
+                },
+                "address": "台江区福建省福州市台江区工业路193号宝龙城市广场B1层013",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "dc874fb8d3ca679c714b8754",
+                "detail_info": {
+                    "distance": 256,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dc874fb8d3ca679c714b8754&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "华为授权体验店(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067437,
+                    "lng": 119.296842
+                },
+                "address": "台江区西二环中路宝龙城市广场25-26店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)22078888",
+                "detail": 1,
+                "uid": "3f9dd49169562a4a3517dce7",
+                "detail_info": {
+                    "distance": 70,
+                    "tag": "购物;家电数码",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3f9dd49169562a4a3517dce7&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "12",
+                    "children": []
+                }
+            },
+            {
+                "name": "国美电器(福州宝龙店)",
+                "location": {
+                    "lat": 26.067581,
+                    "lng": 119.297285
+                },
+                "address": "福州市台江区工业路宝龙城市广场一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "aedf755f715a0bb414c8f6c2",
+                "telephone": "(0591)38102900",
+                "detail": 1,
+                "uid": "aedf755f715a0bb414c8f6c2",
+                "detail_info": {
+                    "distance": 110,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.297236237,
+                        "lat": 26.06703552148
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=aedf755f715a0bb414c8f6c2&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "3.5",
+                    "comment_num": "13",
+                    "children": []
+                }
+            },
+            {
+                "name": "新华都百货(宝龙店)",
+                "location": {
+                    "lat": 26.067611,
+                    "lng": 119.298941
+                },
+                "address": "福建省福州市台江区宝龙城市广场1-4楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "74c933fb9bc119479f82eaba",
+                "telephone": "(0591)83837088",
+                "detail": 1,
+                "uid": "74c933fb9bc119479f82eaba",
+                "detail_info": {
+                    "distance": 256,
+                    "tag": "购物;百货商场",
+                    "navi_location": {
+                        "lng": 119.29878451505,
+                        "lat": 26.06857977714
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=74c933fb9bc119479f82eaba&output=html&source=placeapi_v2",
+                    "price": "372.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "28",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州宝龙广场南区B(宝龙广场店)",
+                "location": {
+                    "lat": 26.067494,
+                    "lng": 119.297975
+                },
+                "address": "工业路193号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "5d88cf46874c4feb9de3210c",
+                "detail": 1,
+                "uid": "5d88cf46874c4feb9de3210c",
+                "detail_info": {
+                    "distance": 162,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.29796295627,
+                        "lat": 26.067222591051
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5d88cf46874c4feb9de3210c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权经销商(国美宝龙店)",
+                "location": {
+                    "lat": 26.067581,
+                    "lng": 119.297359
+                },
+                "address": "台江区工业路195号宝龙城市广场1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)38102900",
+                "detail": 1,
+                "uid": "d0d5b9a0c07f190ceee4a555",
+                "detail_info": {
+                    "distance": 115,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d0d5b9a0c07f190ceee4a555&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "晨光文具(浦西路店)",
+                "location": {
+                    "lat": 26.065923,
+                    "lng": 119.297841
+                },
+                "address": "浦西路70号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "d67f09f1d01274b33310af41",
+                "detail": 1,
+                "uid": "d67f09f1d01274b33310af41",
+                "detail_info": {
+                    "distance": 171,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d67f09f1d01274b33310af41&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "屈臣氏(台江宝龙城市广场店)",
+                "location": {
+                    "lat": 26.067691,
+                    "lng": 119.298495
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场负一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "ea40dd7fe9a8e13bafee7a9a",
+                "telephone": "(0591)83890980",
+                "detail": 1,
+                "uid": "ea40dd7fe9a8e13bafee7a9a",
+                "detail_info": {
+                    "distance": 218,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.29621051494,
+                        "lat": 26.067985997226
+                    },
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ea40dd7fe9a8e13bafee7a9a&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.4",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "小米授权体验店(福州国美宝龙店)",
+                "location": {
+                    "lat": 26.067603,
+                    "lng": 119.297298
+                },
+                "address": "福州市台江区工业路宝龙城市广场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "cdef440e5a076421a8175a56",
+                "detail": 1,
+                "uid": "cdef440e5a076421a8175a56",
+                "detail_info": {
+                    "distance": 112,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cdef440e5a076421a8175a56&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "日春茶业(西二环店)",
+                "location": {
+                    "lat": 26.066137,
+                    "lng": 119.295758
+                },
+                "address": "西二环南路32号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "fbe46c6d0dec954e0bf5eb0d",
+                "telephone": "(0591)83802307",
+                "detail": 1,
+                "uid": "fbe46c6d0dec954e0bf5eb0d",
+                "detail_info": {
+                    "distance": 111,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.29577055185,
+                        "lat": 26.065777700973
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fbe46c6d0dec954e0bf5eb0d&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "OPPO官方体验店(宝龙二店)",
+                "location": {
+                    "lat": 26.06785,
+                    "lng": 119.296909
+                },
+                "address": "福州市台江区宝龙广场1号门麦当劳右侧211-213号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "b0d4485581ddb98e364aae0f",
+                "telephone": "(0591)88119997",
+                "detail": 1,
+                "uid": "b0d4485581ddb98e364aae0f",
+                "detail_info": {
+                    "distance": 114,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b0d4485581ddb98e364aae0f&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "幻彩化妆品(宝龙店)",
+                "location": {
+                    "lat": 26.068283,
+                    "lng": 119.298112
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "b906e435572be2fd9cec2b9a",
+                "detail": 1,
+                "uid": "b906e435572be2fd9cec2b9a",
+                "detail_info": {
+                    "distance": 223,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b906e435572be2fd9cec2b9a&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "12",
+                    "children": []
+                }
+            },
+            {
+                "name": "周六福(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068209,
+                    "lng": 119.298101
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "574d7bad6c57a3e76c3e1b01",
+                "detail": 1,
+                "uid": "574d7bad6c57a3e76c3e1b01",
+                "detail_info": {
+                    "distance": 217,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=574d7bad6c57a3e76c3e1b01&output=html&source=placeapi_v2",
+                    "overall_rating": "3.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝岛眼镜(福州宝龙二店)",
+                "location": {
+                    "lat": 26.068433,
+                    "lng": 119.298558
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F1层13-14号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "5508504d42f2afd2c7f025db",
+                "telephone": "(0591)83812783",
+                "detail": 1,
+                "uid": "5508504d42f2afd2c7f025db",
+                "detail_info": {
+                    "distance": 268,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.29867234814,
+                        "lat": 26.068923040019
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5508504d42f2afd2c7f025db&output=html&source=placeapi_v2",
+                    "price": "800.0",
+                    "overall_rating": "4.4",
+                    "comment_num": "42",
+                    "children": []
+                }
+            },
+            {
+                "name": "熹茗茶业(福州宝龙店)",
+                "location": {
+                    "lat": 26.066246,
+                    "lng": 119.295846
+                },
+                "address": "西二环南路32号长汀里花园6号楼02店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83815570",
+                "detail": 1,
+                "uid": "8c59e4bbc584eb8dfb2d6121",
+                "detail_info": {
+                    "distance": 96,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8c59e4bbc584eb8dfb2d6121&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "华祥苑茗茶(福州宝龙店)",
+                "location": {
+                    "lat": 26.065927,
+                    "lng": 119.295728
+                },
+                "address": "福建省福州市台江区长汀里9号招商银行旁",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "4e3c2f1fb847632227d2bb7f",
+                "telephone": "(0591)83835059",
+                "detail": 1,
+                "uid": "4e3c2f1fb847632227d2bb7f",
+                "detail_info": {
+                    "distance": 131,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.29598110927,
+                        "lat": 26.065987854084
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4e3c2f1fb847632227d2bb7f&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "爱婴室(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067875,
+                    "lng": 119.297413
+                },
+                "address": "福州市台江区工业路193号宝龙广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "1a464daef69e79a388b98832",
+                "detail_info": {
+                    "distance": 143,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a464daef69e79a388b98832&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "润城生鲜超市",
+                "location": {
+                    "lat": 26.064775,
+                    "lng": 119.296697
+                },
+                "address": "福建省福州市台江区西二环南路39号东北70米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "18606073373",
+                "detail": 1,
+                "uid": "b27fbcc1e862f1d0c27da2f7",
+                "detail_info": {
+                    "distance": 235,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b27fbcc1e862f1d0c27da2f7&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "彭奶奶便利店(宝龙城市广场西区店)",
+                "location": {
+                    "lat": 26.068336,
+                    "lng": 119.298144
+                },
+                "address": "工业路193号宝龙城市广场宝龙城市广场西区B1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "ff8b9e3b27347032b6147f71",
+                "detail_info": {
+                    "distance": 230,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ff8b9e3b27347032b6147f71&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "老凤祥银楼(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067818,
+                    "lng": 119.298773
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "1253e42174b54039b55f1e9d",
+                "detail_info": {
+                    "distance": 249,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1253e42174b54039b55f1e9d&output=html&source=placeapi_v2",
+                    "overall_rating": "2.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "中博手机(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067967,
+                    "lng": 119.29746
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "3b7bfe6807a7506e94ec84e7",
+                "detail": 1,
+                "uid": "3b7bfe6807a7506e94ec84e7",
+                "detail_info": {
+                    "distance": 153,
+                    "tag": "购物;家电数码",
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3b7bfe6807a7506e94ec84e7&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "OPPO官方售后服务中心(宝龙广场客服中心)",
+                "location": {
+                    "lat": 26.068445,
+                    "lng": 119.298231
+                },
+                "address": "福州市台江区工业路宝龙城市广场2号门21-22号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)88612656",
+                "detail": 1,
+                "uid": "2a3f7cd59220190814b54bcd",
+                "detail_info": {
+                    "distance": 244,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2a3f7cd59220190814b54bcd&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国黄金(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.06763,
+                    "lng": 119.298695
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "22061c38a9f94f8d364aae78",
+                "detail": 1,
+                "uid": "22061c38a9f94f8d364aae78",
+                "detail_info": {
+                    "distance": 234,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=22061c38a9f94f8d364aae78&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "JS舞蹈全国连锁",
+                "location": {
+                    "lat": 26.068415,
+                    "lng": 119.297956
+                },
+                "address": "宝龙广场1号门3层33店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "18558602805",
+                "detail": 1,
+                "uid": "d5880a1d49063ca92a02e1ab",
+                "detail_info": {
+                    "distance": 223,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d5880a1d49063ca92a02e1ab&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝龙广场ASK me station",
+                "location": {
+                    "lat": 26.068337,
+                    "lng": 119.298167
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "de7e8a14327746b58505bff8",
+                "detail_info": {
+                    "distance": 231,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=de7e8a14327746b58505bff8&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "杰夫森(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067893,
+                    "lng": 119.297711
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "18511850aa6156c2cd04ef02",
+                "detail_info": {
+                    "distance": 164,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=18511850aa6156c2cd04ef02&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "乔丹特卖会(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067882,
+                    "lng": 119.297475
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "f889149d749800ee593ac8f4",
+                "detail": 1,
+                "uid": "f889149d749800ee593ac8f4",
+                "detail_info": {
+                    "distance": 147,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f889149d749800ee593ac8f4&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "特步(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068204,
+                    "lng": 119.297369
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "b3497d1e7b2e36320389721c",
+                "detail_info": {
+                    "distance": 170,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.29731626614,
+                        "lat": 26.06896450022
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b3497d1e7b2e36320389721c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.4",
+                    "comment_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "MK蒸汽电子烟(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068257,
+                    "lng": 119.297452
+                },
+                "address": "福州市台江区工业路193号宝龙广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "3585422978dd2305cc06a413",
+                "detail": 1,
+                "uid": "3585422978dd2305cc06a413",
+                "detail_info": {
+                    "distance": 179,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3585422978dd2305cc06a413&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "傲特银饰(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068007,
+                    "lng": 119.297552
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "3085a0895f14aa2fad080fbd",
+                "detail_info": {
+                    "distance": 163,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3085a0895f14aa2fad080fbd&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "OPPO官方体验店(台江宝龙一店)",
+                "location": {
+                    "lat": 26.068415,
+                    "lng": 119.298205
+                },
+                "address": "福州市台江区工业路宝龙城市广场2号门21-22号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "df113ac77d92630015c90592",
+                "telephone": "13799977623",
+                "detail": 1,
+                "uid": "df113ac77d92630015c90592",
+                "detail_info": {
+                    "distance": 240,
+                    "tag": "购物;家电数码",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=df113ac77d92630015c90592&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "步步高(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068079,
+                    "lng": 119.297895
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场负一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "cfb150afdfc597337fc8765a",
+                "detail_info": {
+                    "distance": 192,
+                    "tag": "购物;家电数码",
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cfb150afdfc597337fc8765a&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "四海龙(宝龙城市广场店)",
+                "location": {
+                    "lat": 26.068267,
+                    "lng": 119.298562
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场f3层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "f2125e51f143c8a3990050a2",
+                "detail_info": {
+                    "distance": 256,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f2125e51f143c8a3990050a2&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "峰力助听器(宝龙店)",
+                "location": {
+                    "lat": 26.066533,
+                    "lng": 119.295565
+                },
+                "address": "西环南路32号长汀里花园存孝居1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "eff3d496a55d9e4fb75f1e5e",
+                "telephone": "(0591)88116668",
+                "detail": 1,
+                "uid": "eff3d496a55d9e4fb75f1e5e",
+                "detail_info": {
+                    "distance": 101,
+                    "tag": "医疗;医疗器械",
+                    "navi_location": {
+                        "lng": 119.29586704333,
+                        "lat": 26.066739005111
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=eff3d496a55d9e4fb75f1e5e&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "思味思美(宝龙城市广场西区店)",
+                "location": {
+                    "lat": 26.067699,
+                    "lng": 119.298515
+                },
+                "address": "福州市台江区工业路193号宝龙广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "ba90448700326c6e901fc95b",
+                "telephone": "(0591)83808967,15859037817",
+                "detail": 1,
+                "uid": "ba90448700326c6e901fc95b",
+                "detail_info": {
+                    "distance": 220,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.29676730984,
+                        "lat": 26.067205694834
+                    },
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ba90448700326c6e901fc95b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "新秀丽(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067552,
+                    "lng": 119.299069
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "2b94440bd5906688a4c756fd",
+                "detail_info": {
+                    "distance": 266,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F4",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2b94440bd5906688a4c756fd&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "磨东西(宝龙广场店)",
+                "location": {
+                    "lat": 26.068063,
+                    "lng": 119.297503
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "18606009500",
+                "detail": 1,
+                "uid": "b9ebbe261c6714b8f02d8371",
+                "detail_info": {
+                    "distance": 165,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b9ebbe261c6714b8f02d8371&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "花小铺(宝龙城市广场店)",
+                "location": {
+                    "lat": 26.067939,
+                    "lng": 119.298171
+                },
+                "address": "工业路193号宝龙城市广场B1层49",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "8689c77079b127529cf77949",
+                "detail": 1,
+                "uid": "8689c77079b127529cf77949",
+                "detail_info": {
+                    "distance": 203,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8689c77079b127529cf77949&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "SWISSWIN",
+                "location": {
+                    "lat": 26.068158,
+                    "lng": 119.297272
+                },
+                "address": "福州市台江区万象城3层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "11b7b7cae7a616dd5b109372",
+                "detail": 1,
+                "uid": "11b7b7cae7a616dd5b109372",
+                "detail_info": {
+                    "distance": 161,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.29676730984,
+                        "lat": 26.067205694834
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=11b7b7cae7a616dd5b109372&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "函素(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067461,
+                    "lng": 119.298121
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "c74ddbe42c4e64fac9e33c1b",
+                "detail_info": {
+                    "distance": 174,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c74ddbe42c4e64fac9e33c1b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "三草两木(宝龙广场店)",
+                "location": {
+                    "lat": 26.068149,
+                    "lng": 119.297856
+                },
+                "address": "福州市台江区工业路193号宝龙广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "ea7668fec10ffeb6c72ba15b",
+                "detail_info": {
+                    "distance": 195,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ea7668fec10ffeb6c72ba15b&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "朵以(宝龙城市广场西区店)",
+                "location": {
+                    "lat": 26.067454,
+                    "lng": 119.298355
+                },
+                "address": "福州市台江区工业路193号宝龙广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "2d47bfa000bec34fe5e9659e",
+                "detail": 1,
+                "uid": "2d47bfa000bec34fe5e9659e",
+                "detail_info": {
+                    "distance": 195,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2d47bfa000bec34fe5e9659e&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "思加图(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067423,
+                    "lng": 119.298733
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "bbf22ccb78d29cc285420e86",
+                "detail_info": {
+                    "distance": 230,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bbf22ccb78d29cc285420e86&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "人本帆布鞋(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068198,
+                    "lng": 119.297913
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "08d202d36ac1847e9de32178",
+                "detail_info": {
+                    "distance": 203,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=08d202d36ac1847e9de32178&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "生活无忧(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.067908,
+                    "lng": 119.297657
+                },
+                "address": "福州市台江区工业路193号宝龙广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "64f9055441f20454a4c75692",
+                "detail_info": {
+                    "distance": 162,
+                    "tag": "购物;家居建材",
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=64f9055441f20454a4c75692&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "ZIPPO(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068029,
+                    "lng": 119.297537
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "15659036091",
+                "detail": 1,
+                "uid": "412e45277c7e0e538a36eecd",
+                "detail_info": {
+                    "distance": 164,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=412e45277c7e0e538a36eecd&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "云辉生活超市(长汀店)",
+                "location": {
+                    "lat": 26.066518,
+                    "lng": 119.29571
+                },
+                "address": "西二环南路32号长汀里花园3号04店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "15205002030",
+                "detail": 1,
+                "uid": "04002e6582f37382611c6771",
+                "detail_info": {
+                    "distance": 88,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=04002e6582f37382611c6771&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "红星美凯龙-中瑞国际影城-售票厅",
+                "location": {
+                    "lat": 26.068333,
+                    "lng": 119.299932
+                },
+                "address": "福州市台江区工业路173号红星美凯龙全球家居生活广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "fd5494f7eb4b748b2902e166",
+                "detail": 1,
+                "uid": "fd5494f7eb4b748b2902e166",
+                "detail_info": {
+                    "distance": 378,
+                    "tag": "生活服务;售票处",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fd5494f7eb4b748b2902e166&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "华为客户服务中心(福州台江宝龙广场店)",
+                "location": {
+                    "lat": 26.06745,
+                    "lng": 119.296828
+                },
+                "address": "台江区工业路193号宝龙城市广场一层221-223店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "ed5e9d98ac1b1d5087154131",
+                "telephone": "(0591)88233337",
+                "detail": 1,
+                "uid": "ed5e9d98ac1b1d5087154131",
+                "detail_info": {
+                    "distance": 70,
+                    "tag": "生活服务;维修点",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ed5e9d98ac1b1d5087154131&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "image_num": "7",
+                    "comment_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权服务商(酷动万象城店)",
+                "location": {
+                    "lat": 26.070576,
+                    "lng": 119.296879
+                },
+                "address": "福州市工业路万象城一层1002铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83734358",
+                "detail": 1,
+                "uid": "19163e7082ea50156ca3cc8e",
+                "detail_info": {
+                    "distance": 412,
+                    "tag": "生活服务;维修点",
+                    "navi_location": {
+                        "lng": 119.29635842992,
+                        "lat": 26.070484146464
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=19163e7082ea50156ca3cc8e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.6",
+                    "image_num": "8",
+                    "comment_num": "25",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国移动(福州宝龙广场店)",
+                "location": {
+                    "lat": 26.068398,
+                    "lng": 119.29855
+                },
+                "address": "福州市台江区工业路193号宝龙城市广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "a8c72cad2ac3151b45e27447",
+                "detail_info": {
+                    "distance": 265,
+                    "tag": "生活服务;通讯营业厅",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a8c72cad2ac3151b45e27447&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}

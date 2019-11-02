@@ -1,0 +1,2604 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "那一家(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095541,
+                    "lng": 119.34231
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "89115e4df4e42adf9cf779d9",
+                "telephone": "(0591)87326617",
+                "detail": 1,
+                "uid": "89115e4df4e42adf9cf779d9",
+                "detail_info": {
+                    "distance": 171,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F5",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=89115e4df4e42adf9cf779d9&output=html&source=placeapi_v2",
+                    "price": "59.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "158",
+                    "children": []
+                }
+            },
+            {
+                "name": "T8法式铁板料理品鉴会所(东二环泰禾店)",
+                "location": {
+                    "lat": 26.097784,
+                    "lng": 119.338649
+                },
+                "address": "岳峰镇连江北路与化工路交叉处，保利香槟国际正对面，东二环泰禾城市广场SOHO8号楼21层2118",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "8e61cb1c7e27495b343a716b",
+                "telephone": "13788894117",
+                "detail": 1,
+                "uid": "8e61cb1c7e27495b343a716b",
+                "detail_info": {
+                    "distance": 303,
+                    "tag": "美食;外国餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8e61cb1c7e27495b343a716b&output=html&source=placeapi_v2",
+                    "price": "239.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "200",
+                    "children": []
+                }
+            },
+            {
+                "name": "东方红·老坛剁椒鱼头(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095618,
+                    "lng": 119.343237
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)87313587",
+                "detail": 1,
+                "uid": "a37b59acade194c10089729f",
+                "detail_info": {
+                    "distance": 223,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F5",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a37b59acade194c10089729f&output=html&source=placeapi_v2",
+                    "price": "76.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "82",
+                    "children": []
+                }
+            },
+            {
+                "name": "蛙功夫(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095605,
+                    "lng": 119.343479
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)87759155",
+                "detail": 1,
+                "uid": "5cf0cefe673998552bb97c91",
+                "detail_info": {
+                    "distance": 243,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F5",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5cf0cefe673998552bb97c91&output=html&source=placeapi_v2",
+                    "price": "88.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "34",
+                    "children": []
+                }
+            },
+            {
+                "name": "溜溜转(东二环泰禾店)",
+                "location": {
+                    "lat": 26.097921,
+                    "lng": 119.340759
+                },
+                "address": "东二环泰禾广场8号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "13600850246",
+                "detail": 1,
+                "uid": "19fa501360472ce0c356ac6c",
+                "detail_info": {
+                    "distance": 135,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=19fa501360472ce0c356ac6c&output=html&source=placeapi_v2",
+                    "price": "37.0",
+                    "overall_rating": "4.4",
+                    "comment_num": "26",
+                    "children": []
+                }
+            },
+            {
+                "name": "探鱼(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.097132,
+                    "lng": 119.343568
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "a3bf76f8094f68168d772766",
+                "telephone": "(0591)83800112",
+                "detail": 1,
+                "uid": "a3bf76f8094f68168d772766",
+                "detail_info": {
+                    "distance": 205,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "B1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a3bf76f8094f68168d772766&output=html&source=placeapi_v2",
+                    "price": "88.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "200",
+                    "children": []
+                }
+            },
+            {
+                "name": "马鸣渔粉(东二环泰禾店)",
+                "location": {
+                    "lat": 26.097501,
+                    "lng": 119.342424
+                },
+                "address": "福州市晋安区岳峰镇连江北路与化工路交叉处东二环泰禾城市广场(一期)10号楼1层10商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "a141405aa21cd2897bf7964c",
+                "telephone": "15280053726",
+                "detail": 1,
+                "uid": "a141405aa21cd2897bf7964c",
+                "detail_info": {
+                    "distance": 110,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a141405aa21cd2897bf7964c&output=html&source=placeapi_v2",
+                    "price": "17.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "21",
+                    "children": []
+                }
+            },
+            {
+                "name": "蒙自源(东二环泰禾店)",
+                "location": {
+                    "lat": 26.097606,
+                    "lng": 119.340875
+                },
+                "address": "东二环泰禾广场1期8号楼113",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "13989431000",
+                "detail": 1,
+                "uid": "ce5d14214b777363b5f42fe5",
+                "detail_info": {
+                    "distance": 100,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ce5d14214b777363b5f42fe5&output=html&source=placeapi_v2",
+                    "price": "24.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "40",
+                    "children": []
+                }
+            },
+            {
+                "name": "聚春园(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095773,
+                    "lng": 119.342302
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "8ac85428ca4d45dbf33cba14",
+                "detail": 1,
+                "uid": "8ac85428ca4d45dbf33cba14",
+                "detail_info": {
+                    "distance": 148,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F4",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8ac85428ca4d45dbf33cba14&output=html&source=placeapi_v2",
+                    "price": "153.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "145",
+                    "children": []
+                }
+            },
+            {
+                "name": "赤坂亭(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.098171,
+                    "lng": 119.339483
+                },
+                "address": "连江北路东二环泰禾广场22号楼6楼L617号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "12bf63c3fa9edc21c61b7510",
+                "telephone": "(0591)86391717",
+                "detail": 1,
+                "uid": "12bf63c3fa9edc21c61b7510",
+                "detail_info": {
+                    "distance": 247,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=12bf63c3fa9edc21c61b7510&output=html&source=placeapi_v2",
+                    "price": "339.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "76",
+                    "children": []
+                }
+            },
+            {
+                "name": "蟹皇朝肉蟹煲(东二环泰禾店)",
+                "location": {
+                    "lat": 26.097622,
+                    "lng": 119.340978
+                },
+                "address": "连江北路东二环泰禾广场8号楼115",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "5430ffe55c7fd4d5430245f1",
+                "telephone": "18950211891",
+                "detail": 1,
+                "uid": "5430ffe55c7fd4d5430245f1",
+                "detail_info": {
+                    "distance": 95,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5430ffe55c7fd4d5430245f1&output=html&source=placeapi_v2",
+                    "price": "70.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "80",
+                    "children": []
+                }
+            },
+            {
+                "name": "纯属虾想(东泰禾店)",
+                "location": {
+                    "lat": 26.097317,
+                    "lng": 119.341494
+                },
+                "address": "连江北路泰禾广场15号楼123铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "a400a42552d867ff0f0e6b9a",
+                "telephone": "(0591)83458555,15960196776",
+                "detail": 1,
+                "uid": "a400a42552d867ff0f0e6b9a",
+                "detail_info": {
+                    "distance": 44,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a400a42552d867ff0f0e6b9a&output=html&source=placeapi_v2",
+                    "price": "91.0",
+                    "overall_rating": "3.7",
+                    "comment_num": "38",
+                    "children": []
+                }
+            },
+            {
+                "name": "汉拿山(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096144,
+                    "lng": 119.343286
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)63168689",
+                "detail": 1,
+                "uid": "c5c269e9053f72c5b14c4941",
+                "detail_info": {
+                    "distance": 195,
+                    "tag": "美食;外国餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F5",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c5c269e9053f72c5b14c4941&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "凯宾斯基酒店·凯宾美食廊",
+                "location": {
+                    "lat": 26.098336,
+                    "lng": 119.338775
+                },
+                "address": "晋安区横屿路1号福州泰禾凯宾斯基酒店1F(东二环泰禾广场营销中心旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)86306206,(0591)88999988",
+                "detail": 1,
+                "uid": "d9c241c19b664a6f0869d9b2",
+                "detail_info": {
+                    "distance": 317,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d9c241c19b664a6f0869d9b2&output=html&source=placeapi_v2",
+                    "price": "30.0",
+                    "overall_rating": "4.7",
+                    "comment_num": "29",
+                    "children": []
+                }
+            },
+            {
+                "name": "漫烤自助餐厅(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096858,
+                    "lng": 119.341754
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "d543a62b89679291cd04ef19",
+                "detail_info": {
+                    "distance": 23,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F2",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d543a62b89679291cd04ef19&output=html&source=placeapi_v2",
+                    "overall_rating": "3.2",
+                    "comment_num": "28",
+                    "children": []
+                }
+            },
+            {
+                "name": "西湖印象(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.09633,
+                    "lng": 119.343705
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "61b2bf618d3b46da1f389460",
+                "telephone": "(0591)63168337",
+                "detail": 1,
+                "uid": "572e9ccf516bf038f4e73b6d",
+                "detail_info": {
+                    "distance": 226,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F5",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=572e9ccf516bf038f4e73b6d&output=html&source=placeapi_v2",
+                    "price": "100.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "192",
+                    "children": []
+                }
+            },
+            {
+                "name": "汀洲佬客家鸭肉粥(东二环泰禾店)",
+                "location": {
+                    "lat": 26.095624,
+                    "lng": 119.34304
+                },
+                "address": "晋安区化工路14号大有码头负一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "fdc85bfa6c8c65250bf5eb2e",
+                "detail_info": {
+                    "distance": 208,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fdc85bfa6c8c65250bf5eb2e&output=html&source=placeapi_v2",
+                    "price": "20.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "32",
+                    "children": []
+                }
+            },
+            {
+                "name": "表妹香港靓点餐厅(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096513,
+                    "lng": 119.343346
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)87615858",
+                "detail": 1,
+                "uid": "a04171dcaa77678cb75f1e7f",
+                "detail_info": {
+                    "distance": 187,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F5",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a04171dcaa77678cb75f1e7f&output=html&source=placeapi_v2",
+                    "price": "88.0",
+                    "overall_rating": "3.3",
+                    "comment_num": "96",
+                    "children": []
+                }
+            },
+            {
+                "name": "柴火灶炝肉(东二环泰禾店)",
+                "location": {
+                    "lat": 26.097524,
+                    "lng": 119.343148
+                },
+                "address": "化工路东二环泰禾广场10号楼写字楼底商绝世好馍旁边",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "18950337729,18206080311",
+                "detail": 1,
+                "uid": "c6d5ef8968e7bfbaeddfca6c",
+                "detail_info": {
+                    "distance": 175,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c6d5ef8968e7bfbaeddfca6c&output=html&source=placeapi_v2",
+                    "price": "16.0",
+                    "overall_rating": "3.4",
+                    "comment_num": "24",
+                    "children": []
+                }
+            },
+            {
+                "name": "麦当劳(化工路餐厅)",
+                "location": {
+                    "lat": 26.09598,
+                    "lng": 119.34278
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地B1层128号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)88601091",
+                "detail": 1,
+                "uid": "2f8c193b891b7be50a5cb330",
+                "detail_info": {
+                    "distance": 162,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "B1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2f8c193b891b7be50a5cb330&output=html&source=placeapi_v2",
+                    "price": "21.0",
+                    "overall_rating": "4.4",
+                    "comment_num": "40",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "汉堡王(东二环餐厅)",
+                "location": {
+                    "lat": 26.096266,
+                    "lng": 119.342648
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾城市广场负一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)83676258",
+                "detail": 1,
+                "uid": "9a3ce5c0a1ff7aaf8e772782",
+                "detail_info": {
+                    "distance": 133,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "B1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9a3ce5c0a1ff7aaf8e772782&output=html&source=placeapi_v2",
+                    "price": "28.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "80",
+                    "children": []
+                }
+            },
+            {
+                "name": "淳百味(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.097293,
+                    "lng": 119.341512
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "18760283936",
+                "detail": 1,
+                "uid": "2271dce9eb73c6ca6240a9d2",
+                "detail_info": {
+                    "distance": 41,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2271dce9eb73c6ca6240a9d2&output=html&source=placeapi_v2",
+                    "price": "13.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "28",
+                    "children": []
+                }
+            },
+            {
+                "name": "川魂帽牌货冒菜(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.09723,
+                    "lng": 119.342332
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "15259526952",
+                "detail": 1,
+                "uid": "8702b568e930553d364aaeaf",
+                "detail_info": {
+                    "distance": 87,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8702b568e930553d364aaeaf&output=html&source=placeapi_v2",
+                    "price": "26.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "30",
+                    "children": []
+                }
+            },
+            {
+                "name": "飞竹岭",
+                "location": {
+                    "lat": 26.097347,
+                    "lng": 119.340701
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "15659756121",
+                "detail": 1,
+                "uid": "bd4672ee35a277f507026f3a",
+                "detail_info": {
+                    "distance": 95,
+                    "tag": "美食;小吃快餐店",
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bd4672ee35a277f507026f3a&output=html&source=placeapi_v2",
+                    "price": "27.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "24",
+                    "children": []
+                }
+            },
+            {
+                "name": "沙县小吃(泰禾店)",
+                "location": {
+                    "lat": 26.097738,
+                    "lng": 119.34154
+                },
+                "address": "福州市晋安区横屿路东二环泰禾城市广场9号楼一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "74a2a7696dd68ab78a36ee3b",
+                "telephone": "13959181254",
+                "detail": 1,
+                "uid": "74a2a7696dd68ab78a36ee3b",
+                "detail_info": {
+                    "distance": 91,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=74a2a7696dd68ab78a36ee3b&output=html&source=placeapi_v2",
+                    "overall_rating": "3.6",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "张亮麻辣烫(林小菌店)",
+                "location": {
+                    "lat": 26.097249,
+                    "lng": 119.342483
+                },
+                "address": "福州市晋安区连江北路与化工路交叉处东二环泰禾广场二期第15号楼1层01号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "21bcfe1e23bc9baad13ce38e",
+                "detail": 1,
+                "uid": "21bcfe1e23bc9baad13ce38e",
+                "detail_info": {
+                    "distance": 102,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=21bcfe1e23bc9baad13ce38e&output=html&source=placeapi_v2",
+                    "price": "25.0",
+                    "overall_rating": "3.8",
+                    "comment_num": "29",
+                    "children": []
+                }
+            },
+            {
+                "name": "清真木洒拉面大王(泰禾广场店)",
+                "location": {
+                    "lat": 26.097315,
+                    "lng": 119.340946
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)83255261,13358271612",
+                "detail": 1,
+                "uid": "d6852afa6641da1cb1077df5",
+                "detail_info": {
+                    "distance": 73,
+                    "tag": "美食;小吃快餐店",
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d6852afa6641da1cb1077df5&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "15",
+                    "children": []
+                }
+            },
+            {
+                "name": "清口清汤面(东二环泰禾店)",
+                "location": {
+                    "lat": 26.098128,
+                    "lng": 119.340685
+                },
+                "address": "晋安区东二环泰禾广场周麻婆楼下",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "7e021f3af2cab359ed74f8b5",
+                "telephone": "13809502290",
+                "detail": 1,
+                "uid": "7e021f3af2cab359ed74f8b5",
+                "detail_info": {
+                    "distance": 158,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7e021f3af2cab359ed74f8b5&output=html&source=placeapi_v2",
+                    "price": "15.0",
+                    "overall_rating": "3.8",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "壹品蒸鲜(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.09675,
+                    "lng": 119.343643
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F5",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "0aac49b77a5f2affb25c6af2",
+                "detail_info": {
+                    "distance": 212,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F5",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0aac49b77a5f2affb25c6af2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "18",
+                    "children": []
+                }
+            },
+            {
+                "name": "广芳园(东泰禾店)",
+                "location": {
+                    "lat": 26.096933,
+                    "lng": 119.341024
+                },
+                "address": "福建省福州市晋安区泰禾新天地20-201",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "c450bd3187258e8bc809f0b4",
+                "telephone": "15606940332",
+                "detail": 1,
+                "uid": "c450bd3187258e8bc809f0b4",
+                "detail_info": {
+                    "distance": 50,
+                    "tag": "美食;蛋糕甜品店",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c450bd3187258e8bc809f0b4&output=html&source=placeapi_v2",
+                    "price": "20.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "25",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州泰禾凯宾斯基酒店",
+                "location": {
+                    "lat": 26.098291,
+                    "lng": 119.339411
+                },
+                "address": "福建省福州市晋安区东二环泰禾广场横屿路1号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "bf146d08f759cf660d3ddaae",
+                "telephone": "(0591)88999988",
+                "detail": 1,
+                "uid": "bf146d08f759cf660d3ddaae",
+                "detail_info": {
+                    "distance": 260,
+                    "tag": "酒店;星级酒店",
+                    "navi_location": {
+                        "lng": 119.33930989099,
+                        "lat": 26.098753832757
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bf146d08f759cf660d3ddaae&output=html&source=placeapi_v2",
+                    "price": "655.0",
+                    "overall_rating": "4.8",
+                    "service_rating": "4.8",
+                    "facility_rating": "4.8",
+                    "hygiene_rating": "4.8",
+                    "image_num": "100",
+                    "comment_num": "10",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州泰禾铂尔曼酒店",
+                "location": {
+                    "lat": 26.09611,
+                    "lng": 119.344995
+                },
+                "address": "福建省福州市晋安区岳峰镇洋头尾路3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "ce36a4cb524b788745572644",
+                "telephone": "(0591)88669988",
+                "detail": 1,
+                "uid": "ce36a4cb524b788745572644",
+                "detail_info": {
+                    "distance": 357,
+                    "tag": "酒店;星级酒店",
+                    "navi_location": {
+                        "lng": 119.34539839822,
+                        "lat": 26.096237153486
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ce36a4cb524b788745572644&output=html&source=placeapi_v2",
+                    "price": "599.0",
+                    "overall_rating": "4.8",
+                    "service_rating": "4.8",
+                    "facility_rating": "4.8",
+                    "hygiene_rating": "4.9",
+                    "image_num": "54",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "儒庭连锁酒店(福州东泰禾店)",
+                "location": {
+                    "lat": 26.099207,
+                    "lng": 119.33724
+                },
+                "address": "福建省福州市晋安区连江北路82号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "9a3fc9561f8b102efbf0cb63",
+                "telephone": "(0591)83365111",
+                "detail": 1,
+                "uid": "9a3fc9561f8b102efbf0cb63",
+                "detail_info": {
+                    "distance": 498,
+                    "tag": "酒店;快捷酒店",
+                    "navi_location": {
+                        "lng": 119.33741090188,
+                        "lat": 26.099244844188
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9a3fc9561f8b102efbf0cb63&output=html&source=placeapi_v2",
+                    "price": "172.0",
+                    "overall_rating": "3.4",
+                    "service_rating": "3.9",
+                    "facility_rating": "3.7",
+                    "hygiene_rating": "3.9",
+                    "image_num": "58",
+                    "comment_num": "91",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "唯洛娜主题酒店",
+                "location": {
+                    "lat": 26.098404,
+                    "lng": 119.340021
+                },
+                "address": "福建省福州市晋安区东二环泰禾广场5号写字楼7层707室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "031e8583cb5e3df7471a329e",
+                "telephone": "(0591)83656811",
+                "detail": 1,
+                "uid": "031e8583cb5e3df7471a329e",
+                "detail_info": {
+                    "distance": 223,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=031e8583cb5e3df7471a329e&output=html&source=placeapi_v2",
+                    "price": "115.0",
+                    "overall_rating": "5.0",
+                    "service_rating": "5.0",
+                    "facility_rating": "5.0",
+                    "hygiene_rating": "5.0",
+                    "image_num": "16",
+                    "comment_num": "9",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州首选优品影院酒店",
+                "location": {
+                    "lat": 26.097808,
+                    "lng": 119.343749
+                },
+                "address": "福建省福州市晋安区东二环泰禾广场11号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "a2aa894cf55a60f9593ac889",
+                "detail_info": {
+                    "distance": 242,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a2aa894cf55a60f9593ac889&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "service_rating": "4.7",
+                    "facility_rating": "4.7",
+                    "hygiene_rating": "4.8",
+                    "image_num": "1",
+                    "comment_num": "5",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州公爵别墅轰趴馆泰禾广场店",
+                "location": {
+                    "lat": 26.098404,
+                    "lng": 119.340021
+                },
+                "address": "福建省福州市晋安区东二环泰禾广场1号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "026d9d44b809b72f09b93ada",
+                "telephone": "15280161289",
+                "detail": 1,
+                "uid": "026d9d44b809b72f09b93ada",
+                "detail_info": {
+                    "distance": 223,
+                    "tag": "酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=026d9d44b809b72f09b93ada&output=html&source=placeapi_v2",
+                    "price": "665.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "11",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州逐舟客普通公寓",
+                "location": {
+                    "lat": 26.098614,
+                    "lng": 119.340071
+                },
+                "address": "福建省福州市晋安区东二环泰禾广场11号楼921",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "098494bfd53099c46b49f361",
+                "detail": 1,
+                "uid": "098494bfd53099c46b49f361",
+                "detail_info": {
+                    "distance": 238,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=098494bfd53099c46b49f361&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "service_rating": "4.3",
+                    "facility_rating": "4.3",
+                    "hygiene_rating": "5.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州美式风情屋酒店式公寓保利香槟国际店",
+                "location": {
+                    "lat": 26.100186,
+                    "lng": 119.338297
+                },
+                "address": "福建省福州市晋安区保利香槟国际4栋804",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "4721e85f4440f8168b2fb5d7",
+                "detail_info": {
+                    "distance": 486,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4721e85f4440f8168b2fb5d7&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "尺岸酒店",
+                "location": {
+                    "lat": 26.09769,
+                    "lng": 119.343727
+                },
+                "address": "福建省福州市晋安区岳峰镇前横路23号东二环泰禾广场(一期)10号楼22层25办公室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "17750211313",
+                "detail": 1,
+                "uid": "d084e9bd907c5ba203ff2d0e",
+                "detail_info": {
+                    "distance": 235,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d084e9bd907c5ba203ff2d0e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.8",
+                    "service_rating": "4.3",
+                    "facility_rating": "4.4",
+                    "hygiene_rating": "4.4",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "泰禾广场(东二环店)",
+                "location": {
+                    "lat": 26.09566,
+                    "lng": 119.343081
+                },
+                "address": "福建省福州市晋安区岳峰镇竹屿路6号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "003d9e38071e802da8f0cdb4",
+                "telephone": "(0591)63169999",
+                "detail": 1,
+                "uid": "003d9e38071e802da8f0cdb4",
+                "detail_info": {
+                    "distance": 208,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=003d9e38071e802da8f0cdb4&output=html&source=placeapi_v2",
+                    "overall_rating": "4.6",
+                    "comment_num": "50",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "Apple授权服务商(天音东泰禾广场店)",
+                "location": {
+                    "lat": 26.098158,
+                    "lng": 119.34059
+                },
+                "address": "连江北路泰禾广场3号楼1320-1322单元",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "9ca583470aa752c83586f49f",
+                "telephone": "(0591)83364240",
+                "detail": 1,
+                "uid": "9ca583470aa752c83586f49f",
+                "detail_info": {
+                    "distance": 166,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9ca583470aa752c83586f49f&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "永辉超市(东二环泰禾店)",
+                "location": {
+                    "lat": 26.095558,
+                    "lng": 119.343004
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾城市广场负一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "fd288685b1d4f7451c389425",
+                "telephone": "(0591)83585131",
+                "detail": 1,
+                "uid": "fd288685b1d4f7451c389425",
+                "detail_info": {
+                    "distance": 211,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.33957618198,
+                        "lat": 26.097489575213
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fd288685b1d4f7451c389425&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "33",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝岛眼镜(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095741,
+                    "lng": 119.343085
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)87315753",
+                "detail": 1,
+                "uid": "6f26318e488d991e90114c93",
+                "detail_info": {
+                    "distance": 203,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6f26318e488d991e90114c93&output=html&source=placeapi_v2",
+                    "price": "603.5",
+                    "overall_rating": "4.9",
+                    "comment_num": "26",
+                    "children": []
+                }
+            },
+            {
+                "name": "华为授权体验店(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096623,
+                    "lng": 119.342065
+                },
+                "address": "晋安区东二环泰禾广场二期19号楼1层15商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "4928d1f8d48ca708f942b29e",
+                "detail_info": {
+                    "distance": 62,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4928d1f8d48ca708f942b29e&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "1.0",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "小米之家(泰禾广场店)",
+                "location": {
+                    "lat": 26.095797,
+                    "lng": 119.342738
+                },
+                "address": "福州市晋安区竹屿路6号泰禾城市广场2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)87300696",
+                "detail": 1,
+                "uid": "518e72f99493b4f401897207",
+                "detail_info": {
+                    "distance": 173,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=518e72f99493b4f401897207&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "26",
+                    "children": []
+                }
+            },
+            {
+                "name": "优衣库(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095894,
+                    "lng": 119.342465
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "3c55796ad7059730c51e51f0",
+                "telephone": "(0591)87933350",
+                "detail": 1,
+                "uid": "3c55796ad7059730c51e51f0",
+                "detail_info": {
+                    "distance": 147,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3c55796ad7059730c51e51f0&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "35",
+                    "children": []
+                }
+            },
+            {
+                "name": "屈臣氏(东二环泰禾店)",
+                "location": {
+                    "lat": 26.096677,
+                    "lng": 119.342823
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地B1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "3da2dd30f38630f752e5c5dc",
+                "telephone": "(0591)87577572",
+                "detail": 1,
+                "uid": "3da2dd30f38630f752e5c5dc",
+                "detail_info": {
+                    "distance": 131,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3da2dd30f38630f752e5c5dc&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "西西弗书店(东二环泰禾店)",
+                "location": {
+                    "lat": 26.095893,
+                    "lng": 119.342561
+                },
+                "address": "福州市晋安区竹屿路6号泰禾广场4层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)83811760",
+                "detail": 1,
+                "uid": "4a50b98ac82db752f5e73bbf",
+                "detail_info": {
+                    "distance": 153,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F4",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4a50b98ac82db752f5e73bbf&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "48",
+                    "children": []
+                }
+            },
+            {
+                "name": "老凤祥银楼(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.097389,
+                    "lng": 119.343051
+                },
+                "address": "连江北路126号东二环泰禾广场7号楼1层泰禾soho",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "194165409afb4bdec81b95c5",
+                "detail_info": {
+                    "distance": 160,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=194165409afb4bdec81b95c5&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "7",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple官方零售店(泰禾广场店)",
+                "location": {
+                    "lat": 26.095831,
+                    "lng": 119.343436
+                },
+                "address": "福州市晋安区竹屿路6号泰禾城市广场一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "7ded5b6f7464edfd52e5c52b",
+                "detail": 1,
+                "uid": "7ded5b6f7464edfd52e5c52b",
+                "detail_info": {
+                    "distance": 225,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.33952707072,
+                        "lat": 26.097531897257
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7ded5b6f7464edfd52e5c52b&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "Air Jordan",
+                "location": {
+                    "lat": 26.097068,
+                    "lng": 119.341659
+                },
+                "address": "福州市晋安区东二环泰禾广场一层L130",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "e10cb862fb624f1ca10464e0",
+                "detail_info": {
+                    "distance": 21,
+                    "tag": "购物;商铺",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e10cb862fb624f1ca10464e0&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "耐克(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095783,
+                    "lng": 119.342584
+                },
+                "address": "连江北路126号东二环泰禾广场22号楼泰禾广场购物中心4层L401-1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "751ef6c2b54d2c34f4e73b6e",
+                "detail": 1,
+                "uid": "751ef6c2b54d2c34f4e73b6e",
+                "detail_info": {
+                    "distance": 164,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=751ef6c2b54d2c34f4e73b6e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.1",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国移动手机专卖店(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.097008,
+                    "lng": 119.342438
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "5c948ab6fc0e1d1272455b25",
+                "detail_info": {
+                    "distance": 91,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5c948ab6fc0e1d1272455b25&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "美宜佳(泰禾店)",
+                "location": {
+                    "lat": 26.097931,
+                    "lng": 119.340577
+                },
+                "address": "福州市晋安区泰禾广场3a102",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "4923f056823cebf91b11d5a5",
+                "detail": 1,
+                "uid": "4923f056823cebf91b11d5a5",
+                "detail_info": {
+                    "distance": 147,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4923f056823cebf91b11d5a5&output=html&source=placeapi_v2",
+                    "price": "39.0",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "都市丽人(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.0969,
+                    "lng": 119.341993
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "a37b75afee04f91648cc4a07",
+                "detail_info": {
+                    "distance": 46,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a37b75afee04f91648cc4a07&output=html&source=placeapi_v2",
+                    "overall_rating": "3.4",
+                    "comment_num": "7",
+                    "children": []
+                }
+            },
+            {
+                "name": "福建鑫天地家具城",
+                "location": {
+                    "lat": 26.094128,
+                    "lng": 119.344065
+                },
+                "address": "喜盈门路1号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "ba9ca4bf7eb720b3bfa2408a",
+                "telephone": "(0591)28066385",
+                "detail": 1,
+                "uid": "ba9ca4bf7eb720b3bfa2408a",
+                "detail_info": {
+                    "distance": 400,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.34436052568,
+                        "lat": 26.094166877829
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ba9ca4bf7eb720b3bfa2408a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "爱婴室",
+                "location": {
+                    "lat": 26.095839,
+                    "lng": 119.345909
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)83545258",
+                "detail": 1,
+                "uid": "18b60ddb6d99acfc0accdd9f",
+                "detail_info": {
+                    "distance": 453,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=18b60ddb6d99acfc0accdd9f&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "ACD王牌嘻帝街舞连锁品牌(泰禾校区)",
+                "location": {
+                    "lat": 26.096609,
+                    "lng": 119.341118
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "9acd05758c863d5f9d9d683a",
+                "telephone": "(0591)83578890",
+                "detail": 1,
+                "uid": "136686faafe984a617948e44",
+                "detail_info": {
+                    "distance": 53,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=136686faafe984a617948e44&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "欧米茄(欧米茄泰禾城市广场旗舰店)",
+                "location": {
+                    "lat": 26.096472,
+                    "lng": 119.34154
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾城市广场一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)87318891",
+                "detail": 1,
+                "uid": "7756639fde9f8f6b95ca07b3",
+                "detail_info": {
+                    "distance": 49,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7756639fde9f8f6b95ca07b3&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "潘多拉",
+                "location": {
+                    "lat": 26.09628,
+                    "lng": 119.341631
+                },
+                "address": "竹屿路东二环泰禾广场22座购物中心L102",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "16ccea41b99be5de4afd3fe2",
+                "telephone": "(0591)87312519",
+                "detail": 1,
+                "uid": "16ccea41b99be5de4afd3fe2",
+                "detail_info": {
+                    "distance": 71,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=16ccea41b99be5de4afd3fe2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.1",
+                    "comment_num": "16",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "百信眼镜超市(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096513,
+                    "lng": 119.341845
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)83579992",
+                "detail": 1,
+                "uid": "2e54b98fc7506f501fe999d4",
+                "detail_info": {
+                    "distance": 54,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2e54b98fc7506f501fe999d4&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "DR钻戒(福州泰禾广场店)",
+                "location": {
+                    "lat": 26.096773,
+                    "lng": 119.34336
+                },
+                "address": "竹屿路6号东二环泰禾城市广场商业中心22号楼负一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "f6d2333894910aa41de999b8",
+                "telephone": "(0591)83549520",
+                "detail": 1,
+                "uid": "f6d2333894910aa41de999b8",
+                "detail_info": {
+                    "distance": 183,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f6d2333894910aa41de999b8&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "匡威(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.09559,
+                    "lng": 119.343839
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心4楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "2f0b2e7644e6093fd518b73e",
+                "detail_info": {
+                    "distance": 273,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F4",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2f0b2e7644e6093fd518b73e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "索佳艺陶瓷生活馆(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095535,
+                    "lng": 119.345138
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "b9290cc0e1fbc12ce6e96544",
+                "telephone": "(0591)87313801,18960725815",
+                "detail": 1,
+                "uid": "b9290cc0e1fbc12ce6e96544",
+                "detail_info": {
+                    "distance": 391,
+                    "tag": "购物;家居建材",
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b9290cc0e1fbc12ce6e96544&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "笨熊便利(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.097133,
+                    "lng": 119.341122
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "15880067811,18695708785",
+                "detail": 1,
+                "uid": "6d00c08d916062422902e18e",
+                "detail_info": {
+                    "distance": 47,
+                    "tag": "购物;便利店",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6d00c08d916062422902e18e&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "周大福(泰禾广场西区)",
+                "location": {
+                    "lat": 26.096049,
+                    "lng": 119.343196
+                },
+                "address": "福州市晋安区竹屿路6号泰禾广场西区B1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "fb78bd70c623d48e9c09f710",
+                "detail_info": {
+                    "distance": 192,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fb78bd70c623d48e9c09f710&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "周六福(泰禾广场店)",
+                "location": {
+                    "lat": 26.096344,
+                    "lng": 119.341846
+                },
+                "address": "连江北路126号东二环泰禾广场西区步行街21号楼1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "a82b5ff40d229e85df1e5238",
+                "detail_info": {
+                    "distance": 71,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a82b5ff40d229e85df1e5238&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "亮视点(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095573,
+                    "lng": 119.343107
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "010e74e2acae943148cc4af6",
+                "detail_info": {
+                    "distance": 217,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=010e74e2acae943148cc4af6&output=html&source=placeapi_v2",
+                    "price": "2345.5",
+                    "overall_rating": "4.8",
+                    "comment_num": "19",
+                    "children": []
+                }
+            },
+            {
+                "name": "雅诗兰黛(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095906,
+                    "lng": 119.34311
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "59e6f4cfe754ebddc72ba1b9",
+                "detail_info": {
+                    "distance": 193,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=59e6f4cfe754ebddc72ba1b9&output=html&source=placeapi_v2",
+                    "overall_rating": "3.9",
+                    "comment_num": "27",
+                    "children": []
+                }
+            },
+            {
+                "name": "泰禾福州湾样板体验中心",
+                "location": {
+                    "lat": 26.098252,
+                    "lng": 119.343017
+                },
+                "address": "横屿路南50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "893049a40c3b19450782c2ab",
+                "detail_info": {
+                    "distance": 210,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=893049a40c3b19450782c2ab&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "爱黛内衣(晋安区泰禾广场店)",
+                "location": {
+                    "lat": 26.098077,
+                    "lng": 119.341394
+                },
+                "address": "福建省福州市晋安区五四路泰禾广场内",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "ce2a4149c92702a26f4760db",
+                "detail_info": {
+                    "distance": 129,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ce2a4149c92702a26f4760db&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "朗朗花艺(东泰禾店)",
+                "location": {
+                    "lat": 26.097616,
+                    "lng": 119.34049
+                },
+                "address": "福建省福州市晋安区连江北路东二环泰禾8号109",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "4c917e4d7a245abe7602690e",
+                "detail_info": {
+                    "distance": 129,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4c917e4d7a245abe7602690e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.9",
+                    "comment_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国珠宝(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096192,
+                    "lng": 119.341695
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "785e26aa61721654d3ff23c2",
+                "detail": 1,
+                "uid": "785e26aa61721654d3ff23c2",
+                "detail_info": {
+                    "distance": 82,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=785e26aa61721654d3ff23c2&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "LANCOME(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096078,
+                    "lng": 119.343224
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "c20f776c4fca3184f942b206",
+                "detail_info": {
+                    "distance": 193,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c20f776c4fca3184f942b206&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "21",
+                    "children": []
+                }
+            },
+            {
+                "name": "彪马(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.098169,
+                    "lng": 119.339552
+                },
+                "address": "福州市晋安区连江北路126号东二环泰禾广场22号楼4层泰禾广场购物中心",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "b074bd0cc2c7c10d9de32102",
+                "detail_info": {
+                    "distance": 241,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b074bd0cc2c7c10d9de32102&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "百视通眼镜超市",
+                "location": {
+                    "lat": 26.097268,
+                    "lng": 119.34197
+                },
+                "address": "岳峰镇东二环泰禾广场15号楼117号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "fcba96b4489f27e10f0e6b9e",
+                "detail_info": {
+                    "distance": 59,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fcba96b4489f27e10f0e6b9e&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "The Green Party(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095487,
+                    "lng": 119.342318
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "f9121e3cf5490623b13c8172",
+                "detail_info": {
+                    "distance": 177,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f9121e3cf5490623b13c8172&output=html&source=placeapi_v2",
+                    "overall_rating": "3.7",
+                    "comment_num": "21",
+                    "children": []
+                }
+            },
+            {
+                "name": "喜禾杂物铺",
+                "location": {
+                    "lat": 26.096654,
+                    "lng": 119.341851
+                },
+                "address": "福建省福州市晋安区泰禾广场19号楼1层110号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "18120849404",
+                "detail": 1,
+                "uid": "ac2465cc717b7385601c6776",
+                "detail_info": {
+                    "distance": 43,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ac2465cc717b7385601c6776&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "七匹狼(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095844,
+                    "lng": 119.34262
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "e19a8607034b0936d8d891fd",
+                "detail_info": {
+                    "distance": 161,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e19a8607034b0936d8d891fd&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "六福珠宝",
+                "location": {
+                    "lat": 26.095598,
+                    "lng": 119.343124
+                },
+                "address": "福州市晋安区五四北坂中路泰禾广场1楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "413cae37a93b49bc6f3e1b10",
+                "detail_info": {
+                    "distance": 216,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=413cae37a93b49bc6f3e1b10&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "4",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "世界梦·乳胶枕&蚕丝被(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095594,
+                    "lng": 119.342512
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "aee07a1ab98b91ca3b04b184",
+                "detail_info": {
+                    "distance": 176,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F4",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=aee07a1ab98b91ca3b04b184&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "楷模家居生活馆",
+                "location": {
+                    "lat": 26.094146,
+                    "lng": 119.344919
+                },
+                "address": "岳峰镇化工路13号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "c9d08b8a45358250e812e403",
+                "detail": 1,
+                "uid": "c9d08b8a45358250e812e403",
+                "detail_info": {
+                    "distance": 457,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c9d08b8a45358250e812e403&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "元福建材街",
+                "location": {
+                    "lat": 26.094418,
+                    "lng": 119.345582
+                },
+                "address": "化工路38号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "ddc9433bc9271610f23cba71",
+                "telephone": "(0591)83547599,13635288798",
+                "detail": 1,
+                "uid": "ddc9433bc9271610f23cba71",
+                "detail_info": {
+                    "distance": 490,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.34560687068,
+                        "lat": 26.094567785468
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ddc9433bc9271610f23cba71&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "卡西欧",
+                "location": {
+                    "lat": 26.095595,
+                    "lng": 119.343123
+                },
+                "address": "岳峰镇竹屿路6号东二环泰禾广场2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "b76bdff01cfaa9550c0a70a0",
+                "detail_info": {
+                    "distance": 216,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b76bdff01cfaa9550c0a70a0&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "米洛西精工大理石(连江北路店)",
+                "location": {
+                    "lat": 26.097354,
+                    "lng": 119.338175
+                },
+                "address": "连江北路112东方银座1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "a8ab6f51ea0cbab4c27da225",
+                "detail_info": {
+                    "distance": 338,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a8ab6f51ea0cbab4c27da225&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "视野联行眼镜(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.098094,
+                    "lng": 119.343008
+                },
+                "address": "福建省福州市晋安区岳峰镇东二环泰禾广场7号楼1416",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "13107923338",
+                "detail": 1,
+                "uid": "f96781a35efaa10b601c6746",
+                "detail_info": {
+                    "distance": 197,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f96781a35efaa10b601c6746&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "凌美LAMY(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.095783,
+                    "lng": 119.342584
+                },
+                "address": "连江北路126号东二环泰禾广场西区B1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "a5e772748e80f6bd29fc48e7",
+                "detail_info": {
+                    "distance": 164,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a5e772748e80f6bd29fc48e7&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "波士顿石山水",
+                "location": {
+                    "lat": 26.097068,
+                    "lng": 119.341652
+                },
+                "address": "福州市晋安区岳峰镇泰禾广场五楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "83abdeafb1be563043ab9a3d",
+                "detail_info": {
+                    "distance": 20,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=83abdeafb1be563043ab9a3d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "红蜻蜓(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096915,
+                    "lng": 119.341763
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "9952ba5ef0200cf44d2fdfa4",
+                "detail": 1,
+                "uid": "9952ba5ef0200cf44d2fdfa4",
+                "detail_info": {
+                    "distance": 23,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.339539,
+                        "lat": 26.097504988671
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9952ba5ef0200cf44d2fdfa4&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "海马体照相馆(东二环泰禾广场店)",
+                "location": {
+                    "lat": 26.096013,
+                    "lng": 119.342602
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "(0591)87955357",
+                "detail": 1,
+                "uid": "6c3cd185ca3839759ee321c7",
+                "detail_info": {
+                    "distance": 146,
+                    "tag": "生活服务;照相馆",
+                    "navi_location": {
+                        "lng": 119.3438827574,
+                        "lat": 26.096020955799
+                    },
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6c3cd185ca3839759ee321c7&output=html&source=placeapi_v2",
+                    "overall_rating": "4.1",
+                    "image_num": "2",
+                    "comment_num": "35",
+                    "children": []
+                }
+            },
+            {
+                "name": "苹果维修服务中心(东二环泰禾店)",
+                "location": {
+                    "lat": 26.097587,
+                    "lng": 119.342748
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号泰禾新天地一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "abf4954a6123e33a2d4733c5",
+                "detail_info": {
+                    "distance": 142,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=abf4954a6123e33a2d4733c5&output=html&source=placeapi_v2",
+                    "overall_rating": "3.2",
+                    "image_num": "1",
+                    "comment_num": "12",
+                    "children": []
+                }
+            },
+            {
+                "name": "卡夫HOUSE(东泰禾店)",
+                "location": {
+                    "lat": 26.096974,
+                    "lng": 119.340316
+                },
+                "address": "福建省福州市晋安区连江北路247号东北90米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "18960918211",
+                "detail": 1,
+                "uid": "c38a8a296eee979bc9e33ca1",
+                "detail_info": {
+                    "distance": 121,
+                    "tag": "生活服务;宠物服务",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c38a8a296eee979bc9e33ca1&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "1",
+                    "comment_num": "42",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权服务商(天音东泰禾广场店)",
+                "location": {
+                    "lat": 26.098158,
+                    "lng": 119.34059
+                },
+                "address": "连江北路泰禾广场3号楼1320-1322单元",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "9ca583470aa752c83586f49f",
+                "telephone": "(0591)83364240",
+                "detail": 1,
+                "uid": "9ca583470aa752c83586f49f",
+                "detail_info": {
+                    "distance": 166,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9ca583470aa752c83586f49f&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "公共厕所",
+                "location": {
+                    "lat": 26.097823,
+                    "lng": 119.342901
+                },
+                "address": "福建省福州市晋安区横屿路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "street_id": "f4939e6dd5f9dc00d8d8910e",
+                "detail": 1,
+                "uid": "f4939e6dd5f9dc00d8d8910e",
+                "detail_info": {
+                    "distance": 170,
+                    "tag": "生活服务;公共厕所",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f4939e6dd5f9dc00d8d8910e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "image_num": "2",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "男洗手间",
+                "location": {
+                    "lat": 26.097373,
+                    "lng": 119.340984
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场购物中心B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "0de1f0b54b79590a940319b4",
+                "detail_info": {
+                    "distance": 74,
+                    "tag": "生活服务;公共厕所",
+                    "indoor_floor": "B1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0de1f0b54b79590a940319b4&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国体育彩票",
+                "location": {
+                    "lat": 26.09773,
+                    "lng": 119.341531
+                },
+                "address": "福州市晋安区岳峰镇东二环泰禾广场9号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "56227f87907a962e58f6be84",
+                "detail_info": {
+                    "distance": 90,
+                    "tag": "生活服务;彩票销售点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=56227f87907a962e58f6be84&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "若雁照相馆",
+                "location": {
+                    "lat": 26.098065,
+                    "lng": 119.342056
+                },
+                "address": "晋安区横屿路东二环泰禾广场6号楼408室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "15859104638",
+                "detail": 1,
+                "uid": "ea4f26138c116568afee7afe",
+                "detail_info": {
+                    "distance": 138,
+                    "tag": "生活服务;照相馆",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ea4f26138c116568afee7afe&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "image_num": "9",
+                    "comment_num": "13",
+                    "children": []
+                }
+            },
+            {
+                "name": "后古婚纱摄影(泰禾广场店)",
+                "location": {
+                    "lat": 26.096726,
+                    "lng": 119.340927
+                },
+                "address": "东二环泰禾广场21栋112(晋安区岳峰镇竹屿路6号)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "telephone": "13720830272",
+                "detail": 1,
+                "uid": "87a7d0c8743c1f0c79dbd2d9",
+                "detail_info": {
+                    "distance": 63,
+                    "tag": "生活服务;照相馆",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=87a7d0c8743c1f0c79dbd2d9&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "2",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "东二环泰禾广场西区2期新天地",
+                "location": {
+                    "lat": 26.097186,
+                    "lng": 119.340394
+                },
+                "address": "横屿路5号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "2a1a5563552bff39c51e51e8",
+                "detail_info": {
+                    "distance": 117,
+                    "tag": "房地产;其他",
+                    "type": "house",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2a1a5563552bff39c51e51e8&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "怪兽充电(ei mio爱咪欧冻酸奶东泰禾店)",
+                "location": {
+                    "lat": 26.097068,
+                    "lng": 119.341652
+                },
+                "address": "福州市晋安区岳峰镇竹屿路6号东二环泰禾广场22号楼5层的编号为L524的商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "晋安区",
+                "detail": 1,
+                "uid": "15e2b0c560379b829f09f7c7",
+                "detail_info": {
+                    "distance": 20,
+                    "tag": "生活服务;其他",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=15e2b0c560379b829f09f7c7&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}
