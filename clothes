@@ -1,0 +1,23 @@
+
+ !/usr/bin/env python
+ -*- coding:utf-8 -*-
+import json
+
+with open('仓山万达服饰.json', 'r', encoding='utf-8') as f:
+    t = json.load(f)
+
+date = t["shop_list"]
+sum = 0
+for i in date:
+    for 
+    item=i["detail_info"]
+    if("overall_rating" in item ):
+        print(item["overall_rating"])
+        sum = int(sum) + int(item["overall_rating"])
+    else:
+        print("无评分")
+title = "统计"
+f = open('%s.txt' % title, 'w', encoding='utf-8')
+f.writelines("仓山万达服饰");
+f.writelines(str(sum));
+f.write("\n")
