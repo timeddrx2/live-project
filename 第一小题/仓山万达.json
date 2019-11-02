@@ -1,0 +1,2624 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "茶与花间(仓山万达店)",
+                "location": {
+                    "lat": 26.042312,
+                    "lng": 119.278799
+                },
+                "address": "福建省福州市仓山区浦上大道272号万达广场金街A7-122铺(3号门斜对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "18815011312",
+                "detail": 1,
+                "uid": "8908671b78aee4d275e5b660",
+                "detail_info": {
+                    "distance": 190,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8908671b78aee4d275e5b660&output=html&source=placeapi_v2",
+                    "price": "14.0",
+                    "overall_rating": "4.4",
+                    "image_num": "2",
+                    "comment_num": "63",
+                    "children": []
+                }
+            },
+            {
+                "name": "厝内小眷村(仓山万达店)",
+                "location": {
+                    "lat": 26.042354,
+                    "lng": 119.27956
+                },
+                "address": "仓山区浦上大道272号万达金街103号(万达金街4号门与3号门中间)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "18105022791",
+                "detail": 1,
+                "uid": "6284241d15c71c79a2d2303e",
+                "detail_info": {
+                    "distance": 115,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6284241d15c71c79a2d2303e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "107",
+                    "children": []
+                }
+            },
+            {
+                "name": "匠私会",
+                "location": {
+                    "lat": 26.044114,
+                    "lng": 119.282085
+                },
+                "address": "仓山万达广场C区1号楼1层39商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "38ac2d57e1f110d53a13fdfd",
+                "telephone": "18860120333",
+                "detail": 1,
+                "uid": "99d2855149e72e97c71e51a7",
+                "detail_info": {
+                    "distance": 218,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=99d2855149e72e97c71e51a7&output=html&source=placeapi_v2",
+                    "price": "26.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "古航肠粉王(万达店)",
+                "location": {
+                    "lat": 26.043201,
+                    "lng": 119.28043
+                },
+                "address": "仓山区金山街道浦上大道272号仓山万达广场A8(原浦上大道北侧与金洲南路东侧交叉处)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "18859114629",
+                "detail": 1,
+                "uid": "ffb10bf130970e4f00ff2d3c",
+                "detail_info": {
+                    "distance": 70,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ffb10bf130970e4f00ff2d3c&output=html&source=placeapi_v2",
+                    "price": "22.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "32",
+                    "children": []
+                }
+            },
+            {
+                "name": "玛格利塔(浦上店)",
+                "location": {
+                    "lat": 26.039408,
+                    "lng": 119.280554
+                },
+                "address": "仓山区金山片区金洲南路685号(金港路口公交车站旁)(振源大厦斜对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "ca6d32fea69afb862cb9089d",
+                "telephone": "(0591)83217667",
+                "detail": 1,
+                "uid": "ca6d32fea69afb862cb9089d",
+                "detail_info": {
+                    "distance": 356,
+                    "tag": "美食;外国餐厅",
+                    "navi_location": {
+                        "lng": 119.28043632588,
+                        "lat": 26.039201129936
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ca6d32fea69afb862cb9089d&output=html&source=placeapi_v2",
+                    "price": "22.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "177",
+                    "children": []
+                }
+            },
+            {
+                "name": "莫闻味臭豆腐(仓山万达店)",
+                "location": {
+                    "lat": 26.043537,
+                    "lng": 119.279508
+                },
+                "address": "浦上大道209号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "13512797699",
+                "detail": 1,
+                "uid": "107e21794233b386bd4842c6",
+                "detail_info": {
+                    "distance": 155,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=107e21794233b386bd4842c6&output=html&source=placeapi_v2",
+                    "price": "12.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "巨厨牛排(仓山店)",
+                "location": {
+                    "lat": 26.042842,
+                    "lng": 119.284257
+                },
+                "address": "浦上大道金山桔园二期景园(浦上大道与金榕南路交叉口)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "43d522b794f2fbe5ddee8b6d",
+                "detail": 1,
+                "uid": "43d522b794f2fbe5ddee8b6d",
+                "detail_info": {
+                    "distance": 358,
+                    "tag": "美食;外国餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=43d522b794f2fbe5ddee8b6d&output=html&source=placeapi_v2",
+                    "price": "62.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "46",
+                    "children": []
+                }
+            },
+            {
+                "name": "啤酒先生音乐餐吧(仓山万达店)",
+                "location": {
+                    "lat": 26.045449,
+                    "lng": 119.281478
+                },
+                "address": "福建省福州市仓山区金山金榕南路550-17号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "3253bd20a5c1b5281ce999cf",
+                "telephone": "13950367697",
+                "detail": 1,
+                "uid": "3253bd20a5c1b5281ce999cf",
+                "detail_info": {
+                    "distance": 325,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3253bd20a5c1b5281ce999cf&output=html&source=placeapi_v2",
+                    "price": "120.0",
+                    "overall_rating": "3.5",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "味千拉面(仓山万达店)",
+                "location": {
+                    "lat": 26.04164,
+                    "lng": 119.279536
+                },
+                "address": "福州市仓山区浦上大道274号福州仓山万达广场3层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "251374c96e2eb026a11de927",
+                "telephone": "(0591)88257499",
+                "detail": 1,
+                "uid": "251374c96e2eb026a11de927",
+                "detail_info": {
+                    "distance": 156,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.27839168732,
+                        "lat": 26.041370532375
+                    },
+                    "indoor_floor": "F3",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=251374c96e2eb026a11de927&output=html&source=placeapi_v2",
+                    "price": "44.0",
+                    "overall_rating": "3.7",
+                    "comment_num": "73",
+                    "children": []
+                }
+            },
+            {
+                "name": "毛记秘制烤鸭肠(仓山万达店)",
+                "location": {
+                    "lat": 26.041582,
+                    "lng": 119.278756
+                },
+                "address": "金山街道浦上大道272号仓山万达广场A6号楼2层152商铺辅助用房,1层152商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "18105099019",
+                "detail": 1,
+                "uid": "dd831f541ff9fb89df1e5287",
+                "detail_info": {
+                    "distance": 223,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dd831f541ff9fb89df1e5287&output=html&source=placeapi_v2",
+                    "price": "16.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "15",
+                    "children": []
+                }
+            },
+            {
+                "name": "壹顿牛排(万达店)",
+                "location": {
+                    "lat": 26.041952,
+                    "lng": 119.279014
+                },
+                "address": "浦上大道272号仓山万达金街3号门01店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "6f3981a650dda6d5d518b77f",
+                "telephone": "18065418777",
+                "detail": 1,
+                "uid": "6f3981a650dda6d5d518b77f",
+                "detail_info": {
+                    "distance": 181,
+                    "tag": "美食;外国餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6f3981a650dda6d5d518b77f&output=html&source=placeapi_v2",
+                    "price": "32.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "72",
+                    "children": []
+                }
+            },
+            {
+                "name": "相逢客(仓山万达店)",
+                "location": {
+                    "lat": 26.042805,
+                    "lng": 119.279607
+                },
+                "address": "仓山万达广场A7#楼1层095商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "49b92d92461ea887f7231012",
+                "telephone": "13696861231",
+                "detail": 1,
+                "uid": "49b92d92461ea887f7231012",
+                "detail_info": {
+                    "distance": 109,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=49b92d92461ea887f7231012&output=html&source=placeapi_v2",
+                    "price": "65.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "63",
+                    "children": []
+                }
+            },
+            {
+                "name": "美珍香(万达广场)",
+                "location": {
+                    "lat": 26.04247,
+                    "lng": 119.280266
+                },
+                "address": "浦上大道157号仓山万达广场室内步行街三层连廊通道固定点位302号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)83303295",
+                "detail": 1,
+                "uid": "1801e09bfc5c707995f08ca8",
+                "detail_info": {
+                    "distance": 43,
+                    "tag": "美食",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1801e09bfc5c707995f08ca8&output=html&source=placeapi_v2",
+                    "price": "60.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "24",
+                    "children": []
+                }
+            },
+            {
+                "name": "牛门小将(万达广场店)",
+                "location": {
+                    "lat": 26.041819,
+                    "lng": 119.279567
+                },
+                "address": "福州市仓山区浦上大道274号福州仓山万达广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "a8dbfbc8b568fe0c32f71dfc",
+                "telephone": "(0591)87815005",
+                "detail": 1,
+                "uid": "a8dbfbc8b568fe0c32f71dfc",
+                "detail_info": {
+                    "distance": 141,
+                    "tag": "美食;中餐厅",
+                    "indoor_floor": "F3",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a8dbfbc8b568fe0c32f71dfc&output=html&source=placeapi_v2",
+                    "price": "88.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "25",
+                    "children": []
+                }
+            },
+            {
+                "name": "巴蜀人家(金州南路店)",
+                "location": {
+                    "lat": 26.038823,
+                    "lng": 119.28147
+                },
+                "address": "建新镇金港路35号金山桔园二期嘉园10号楼一层,二层03店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "2ae2fab7e68409df3b221c23",
+                "telephone": "(0591)88202980",
+                "detail": 1,
+                "uid": "2ae2fab7e68409df3b221c23",
+                "detail_info": {
+                    "distance": 428,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.28108020163,
+                        "lat": 26.038888070528
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2ae2fab7e68409df3b221c23&output=html&source=placeapi_v2",
+                    "price": "101.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "94",
+                    "children": []
+                }
+            },
+            {
+                "name": "鑫记汕头牛肉火锅",
+                "location": {
+                    "lat": 26.04503,
+                    "lng": 119.28105
+                },
+                "address": "亭头路万达后面(仓山万达广场后门)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "78c031c5dffcf20bf7231078",
+                "telephone": "(0591)88078861",
+                "detail": 1,
+                "uid": "78c031c5dffcf20bf7231078",
+                "detail_info": {
+                    "distance": 271,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=78c031c5dffcf20bf7231078&output=html&source=placeapi_v2",
+                    "price": "76.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "19",
+                    "children": []
+                }
+            },
+            {
+                "name": "学军盛记炖品(万达店)",
+                "location": {
+                    "lat": 26.041821,
+                    "lng": 119.276391
+                },
+                "address": "福州市仓山区金洲南路550",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "3394f88e6440dbff843304cb",
+                "detail_info": {
+                    "distance": 436,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3394f88e6440dbff843304cb&output=html&source=placeapi_v2",
+                    "price": "32.0",
+                    "overall_rating": "3.3",
+                    "comment_num": "23",
+                    "children": []
+                }
+            },
+            {
+                "name": "钢管厂五区小君肝",
+                "location": {
+                    "lat": 26.043164,
+                    "lng": 119.281281
+                },
+                "address": "浦上大道276号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)83051929",
+                "detail": 1,
+                "uid": "182cc0005e23a33cf90cadf6",
+                "detail_info": {
+                    "distance": 86,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=182cc0005e23a33cf90cadf6&output=html&source=placeapi_v2",
+                    "price": "86.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "熊猫餐厅(金山红星店)",
+                "location": {
+                    "lat": 26.045904,
+                    "lng": 119.283491
+                },
+                "address": "福州市福州市浦上大道208号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "a7ce9ff0011495a8b6f42f0c",
+                "telephone": "(0591)28306515",
+                "detail": 1,
+                "uid": "a7ce9ff0011495a8b6f42f0c",
+                "detail_info": {
+                    "distance": 461,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a7ce9ff0011495a8b6f42f0c&output=html&source=placeapi_v2",
+                    "price": "37.0",
+                    "overall_rating": "3.8",
+                    "comment_num": "17",
+                    "children": []
+                }
+            },
+            {
+                "name": "徐彪板栗(仓山万达店)",
+                "location": {
+                    "lat": 26.042738,
+                    "lng": 119.279379
+                },
+                "address": "仓山区金山街道亭头路253号福州仓山万达广场B区B2区(含B8号-B13号楼、B20号-B24号1层32商铺、2层32商铺辅助用房)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "1261187850a3725dd5b74eff",
+                "telephone": "15750800117",
+                "detail": 1,
+                "uid": "1261187850a3725dd5b74eff",
+                "detail_info": {
+                    "distance": 130,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1261187850a3725dd5b74eff&output=html&source=placeapi_v2",
+                    "price": "21.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "11",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "潭锦记(仓山万达店)",
+                "location": {
+                    "lat": 26.038787,
+                    "lng": 119.281347
+                },
+                "address": "建新镇金港路35号金山桔园二期嘉园10号楼1层06店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "0b565ffc6140cdd56c47601f",
+                "telephone": "18659162789",
+                "detail": 1,
+                "uid": "0b565ffc6140cdd56c47601f",
+                "detail_info": {
+                    "distance": 430,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.28115844493,
+                        "lat": 26.038926714144
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0b565ffc6140cdd56c47601f&output=html&source=placeapi_v2",
+                    "overall_rating": "3.9",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "坛烧八味(仓山万达店)",
+                "location": {
+                    "lat": 26.043345,
+                    "lng": 119.280675
+                },
+                "address": "福州市仓山区铺上大道272号仓山万达广场A8号楼2层68商铺辅助用房1层68铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "aa3f3fded57cbba1841541bf",
+                "telephone": "15391835538",
+                "detail": 1,
+                "uid": "aa3f3fded57cbba1841541bf",
+                "detail_info": {
+                    "distance": 81,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=aa3f3fded57cbba1841541bf&output=html&source=placeapi_v2",
+                    "price": "24.0",
+                    "overall_rating": "3.6",
+                    "comment_num": "54",
+                    "children": []
+                }
+            },
+            {
+                "name": "肯德基(福州浦上餐厅)",
+                "location": {
+                    "lat": 26.041325,
+                    "lng": 119.278926
+                },
+                "address": "浦上大道274号福州仓山万达广场A5号1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "79ad6771ca8360412a02e1d1",
+                "telephone": "(0591)87717062",
+                "detail": 1,
+                "uid": "79ad6771ca8360412a02e1d1",
+                "detail_info": {
+                    "distance": 225,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.27914921039,
+                        "lat": 26.041105022218
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=79ad6771ca8360412a02e1d1&output=html&source=placeapi_v2",
+                    "price": "26.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "63",
+                    "children": []
+                }
+            },
+            {
+                "name": "爱生酒店(旅程餐厅)",
+                "location": {
+                    "lat": 26.044199,
+                    "lng": 119.282613
+                },
+                "address": "福建省福州市仓山区浦上大道216号万达广场sohoC区C3楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "57e5967581c2596a8f55ece6",
+                "telephone": "(0591)38505555",
+                "detail": 1,
+                "uid": "57e5967581c2596a8f55ece6",
+                "detail_info": {
+                    "distance": 262,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28297032715,
+                        "lat": 26.044504055974
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=57e5967581c2596a8f55ece6&output=html&source=placeapi_v2",
+                    "price": "103.0",
+                    "overall_rating": "4.0",
+                    "service_rating": "4.3",
+                    "facility_rating": "4.3",
+                    "hygiene_rating": "4.3",
+                    "image_num": "56",
+                    "comment_num": "35",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "不二斋(仓山万达店)",
+                "location": {
+                    "lat": 26.043103,
+                    "lng": 119.281052
+                },
+                "address": "福建省福州市仓山区浦上大道274号万达广场一层金街5号门旁边",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b01ae7d79efac57dfbdc8507",
+                "telephone": "(0591)87931282",
+                "detail": 1,
+                "uid": "b01ae7d79efac57dfbdc8507",
+                "detail_info": {
+                    "distance": 66,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b01ae7d79efac57dfbdc8507&output=html&source=placeapi_v2",
+                    "price": "35.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "34",
+                    "children": []
+                }
+            },
+            {
+                "name": "闽南猪脚饭(仓山万达金街店)",
+                "location": {
+                    "lat": 26.043229,
+                    "lng": 119.280859
+                },
+                "address": "浦上大道270号万达广场金街A8号楼47号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "8a22a0ac62117376c7f50dba",
+                "detail_info": {
+                    "distance": 71,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8a22a0ac62117376c7f50dba&output=html&source=placeapi_v2",
+                    "price": "28.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "49",
+                    "children": []
+                }
+            },
+            {
+                "name": "鸡排风云(仓山万达店)",
+                "location": {
+                    "lat": 26.040408,
+                    "lng": 119.280485
+                },
+                "address": "福州市仓山区建新镇金港路36号和园(原金山桔园二期)1号楼1层05店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "0e4c29ee3aec39352ce67b3b",
+                "telephone": "17750277262",
+                "detail": 1,
+                "uid": "0e4c29ee3aec39352ce67b3b",
+                "detail_info": {
+                    "distance": 245,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0e4c29ee3aec39352ce67b3b&output=html&source=placeapi_v2",
+                    "price": "15.5",
+                    "overall_rating": "4.6",
+                    "comment_num": "12",
+                    "children": []
+                }
+            },
+            {
+                "name": "天久王炝面卤面",
+                "location": {
+                    "lat": 26.044047,
+                    "lng": 119.282121
+                },
+                "address": "福州市仓山区万达广场C区1层41号店铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "eb5ed6562f2401d0c9fa5f44",
+                "detail_info": {
+                    "distance": 215,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=eb5ed6562f2401d0c9fa5f44&output=html&source=placeapi_v2",
+                    "price": "24.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "拉面大王(金山万达店)",
+                "location": {
+                    "lat": 26.042955,
+                    "lng": 119.280061
+                },
+                "address": "金山街道浦上大道272号仓山万达广场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c977fcbbc38898a9fbf0cbb7",
+                "telephone": "(0591)83461225,13067201422",
+                "detail": 1,
+                "uid": "c977fcbbc38898a9fbf0cbb7",
+                "detail_info": {
+                    "distance": 72,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c977fcbbc38898a9fbf0cbb7&output=html&source=placeapi_v2",
+                    "price": "17.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "39",
+                    "children": []
+                }
+            },
+            {
+                "name": "牛博士重庆小面(金港路店)",
+                "location": {
+                    "lat": 26.039288,
+                    "lng": 119.281458
+                },
+                "address": "建新镇金港路36号和园(原金山桔园二期)17号楼1层12店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "10e17f2e450cd01f6018098f",
+                "telephone": "15984499986",
+                "detail": 1,
+                "uid": "10e17f2e450cd01f6018098f",
+                "detail_info": {
+                    "distance": 377,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=10e17f2e450cd01f6018098f&output=html&source=placeapi_v2",
+                    "price": "15.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "宏亮花园酒店",
+                "location": {
+                    "lat": 26.044592,
+                    "lng": 119.283353
+                },
+                "address": "福建省福州市仓山区浦上大道208号红星美凯龙",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e160f0f9cdb7c7fd6d3e1bc3",
+                "telephone": "(0591)38296666",
+                "detail": 1,
+                "uid": "e160f0f9cdb7c7fd6d3e1bc3",
+                "detail_info": {
+                    "distance": 346,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28330206688,
+                        "lat": 26.044534653802
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e160f0f9cdb7c7fd6d3e1bc3&output=html&source=placeapi_v2",
+                    "price": "280.0",
+                    "overall_rating": "5.0",
+                    "service_rating": "4.7",
+                    "facility_rating": "4.7",
+                    "hygiene_rating": "4.7",
+                    "image_num": "100",
+                    "comment_num": "11",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "锦江都城酒店(仓山万达广场店)",
+                "location": {
+                    "lat": 26.041428,
+                    "lng": 119.278838
+                },
+                "address": "福州市仓山区金洲南路万达广场A6幢",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "da5dd97d90fe896603ec012a",
+                "telephone": "(0591)87919966",
+                "detail": 1,
+                "uid": "da5dd97d90fe896603ec012a",
+                "detail_info": {
+                    "distance": 225,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.27855912338,
+                        "lat": 26.041080742533
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=da5dd97d90fe896603ec012a&output=html&source=placeapi_v2",
+                    "price": "373.0",
+                    "overall_rating": "4.7",
+                    "service_rating": "4.6",
+                    "facility_rating": "4.6",
+                    "hygiene_rating": "4.6",
+                    "image_num": "100",
+                    "comment_num": "36",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "良筑酒店式公寓",
+                "location": {
+                    "lat": 26.043729,
+                    "lng": 119.279968
+                },
+                "address": "福建省福州市仓山区万达广场A6座",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "0798128203d3fdccc056ace2",
+                "telephone": "18559165046",
+                "detail": 1,
+                "uid": "0798128203d3fdccc056ace2",
+                "detail_info": {
+                    "distance": 143,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0798128203d3fdccc056ace2&output=html&source=placeapi_v2",
+                    "price": "129.0",
+                    "overall_rating": "3.4",
+                    "service_rating": "3.0",
+                    "facility_rating": "3.0",
+                    "hygiene_rating": "3.0",
+                    "image_num": "19",
+                    "comment_num": "12",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "维也纳国际酒店(仓山万达店)",
+                "location": {
+                    "lat": 26.045679,
+                    "lng": 119.28417
+                },
+                "address": "福州市仓山区浦上大道208号点金财富中心2号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c07b6abfefc0a65315c9057f",
+                "telephone": "(0591)28379999",
+                "detail": 1,
+                "uid": "c07b6abfefc0a65315c9057f",
+                "detail_info": {
+                    "distance": 488,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28431983714,
+                        "lat": 26.045850545488
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c07b6abfefc0a65315c9057f&output=html&source=placeapi_v2",
+                    "price": "154.0",
+                    "overall_rating": "4.6",
+                    "service_rating": "4.8",
+                    "facility_rating": "4.8",
+                    "hygiene_rating": "4.8",
+                    "image_num": "100",
+                    "comment_num": "20",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州摩登假日连锁酒店公寓(万达店)",
+                "location": {
+                    "lat": 26.043696,
+                    "lng": 119.282237
+                },
+                "address": "福建省福州市仓山区万达广场SOHO写字楼C区C4楼56号店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b3f77e44eedb5847ab175afe",
+                "telephone": "(0591)86398180",
+                "detail": 1,
+                "uid": "b3f77e44eedb5847ab175afe",
+                "detail_info": {
+                    "distance": 197,
+                    "tag": "酒店;快捷酒店",
+                    "navi_location": {
+                        "lng": 119.28341528841,
+                        "lat": 26.043839840971
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b3f77e44eedb5847ab175afe&output=html&source=placeapi_v2",
+                    "price": "86.0",
+                    "overall_rating": "4.4",
+                    "service_rating": "4.2",
+                    "facility_rating": "4.2",
+                    "hygiene_rating": "4.2",
+                    "image_num": "93",
+                    "comment_num": "49",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州摩登之冠酒店(仓山万达店)",
+                "location": {
+                    "lat": 26.043683,
+                    "lng": 119.283114
+                },
+                "address": "福建省福州市仓山区仓山万达广场C区C2-186商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "505d11373c144a17f90cadfb",
+                "telephone": "(0591)83298998",
+                "detail": 1,
+                "uid": "505d11373c144a17f90cadfb",
+                "detail_info": {
+                    "distance": 271,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28207395749,
+                        "lat": 26.043457944972
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=505d11373c144a17f90cadfb&output=html&source=placeapi_v2",
+                    "price": "60.0",
+                    "overall_rating": "4.5",
+                    "service_rating": "4.4",
+                    "facility_rating": "4.4",
+                    "hygiene_rating": "4.4",
+                    "image_num": "100",
+                    "comment_num": "21",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州爱生酒店",
+                "location": {
+                    "lat": 26.044147,
+                    "lng": 119.282683
+                },
+                "address": "福建省福州市仓山区万达C区C3号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)38505555",
+                "detail": 1,
+                "uid": "37f30b840bc527e6cc06a433",
+                "detail_info": {
+                    "distance": 263,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28301834427,
+                        "lat": 26.044343525687
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=37f30b840bc527e6cc06a433&output=html&source=placeapi_v2",
+                    "price": "347.0",
+                    "overall_rating": "4.3",
+                    "service_rating": "4.4",
+                    "facility_rating": "4.4",
+                    "hygiene_rating": "4.4",
+                    "image_num": "100",
+                    "comment_num": "19",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "华居宾馆(浦上分店)",
+                "location": {
+                    "lat": 26.040141,
+                    "lng": 119.280282
+                },
+                "address": "福建省福州市仓山区建新镇金港路36号和园1号楼2层01店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "eb367503705ac46500ec016c",
+                "telephone": "(0591)88193385",
+                "detail": 1,
+                "uid": "eb367503705ac46500ec016c",
+                "detail_info": {
+                    "distance": 277,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.27974918325,
+                        "lat": 26.039891822442
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=eb367503705ac46500ec016c&output=html&source=placeapi_v2",
+                    "price": "76.0",
+                    "overall_rating": "3.6",
+                    "service_rating": "4.3",
+                    "facility_rating": "4.3",
+                    "hygiene_rating": "4.3",
+                    "image_num": "26",
+                    "comment_num": "17",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "花界爱情酒店(福州仓山万达店)",
+                "location": {
+                    "lat": 26.045915,
+                    "lng": 119.283221
+                },
+                "address": "福建省福州市仓山区浦上大道点金财富中心一号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "a607288d1fd54512cae33c9f",
+                "telephone": "(0591)86217776",
+                "detail": 1,
+                "uid": "a607288d1fd54512cae33c9f",
+                "detail_info": {
+                    "distance": 447,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28350452967,
+                        "lat": 26.046098595605
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a607288d1fd54512cae33c9f&output=html&source=placeapi_v2",
+                    "price": "156.0",
+                    "overall_rating": "4.3",
+                    "service_rating": "4.2",
+                    "facility_rating": "4.2",
+                    "hygiene_rating": "4.2",
+                    "image_num": "100",
+                    "comment_num": "19",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州友善商务酒店",
+                "location": {
+                    "lat": 26.044012,
+                    "lng": 119.283031
+                },
+                "address": "福建省福州市仓山区浦上大道216号仓山万达广场C区2座4层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "5eba055ebee0588a38221c91",
+                "telephone": "(0591)86291351",
+                "detail": 1,
+                "uid": "5eba055ebee0588a38221c91",
+                "detail_info": {
+                    "distance": 282,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5eba055ebee0588a38221c91&output=html&source=placeapi_v2",
+                    "price": "258.0",
+                    "overall_rating": "4.0",
+                    "service_rating": "3.7",
+                    "facility_rating": "3.6",
+                    "hygiene_rating": "3.7",
+                    "image_num": "17",
+                    "comment_num": "59",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "福州沐幕精品酒店",
+                "location": {
+                    "lat": 26.045841,
+                    "lng": 119.283301
+                },
+                "address": "福建省福州市仓山区点金财富中心1号楼4楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e7dc0af84252958688b988f2",
+                "telephone": "17859556831",
+                "detail": 1,
+                "uid": "e7dc0af84252958688b988f2",
+                "detail_info": {
+                    "distance": 444,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e7dc0af84252958688b988f2&output=html&source=placeapi_v2",
+                    "price": "303.0",
+                    "overall_rating": "4.3",
+                    "service_rating": "4.4",
+                    "facility_rating": "4.4",
+                    "hygiene_rating": "4.4",
+                    "image_num": "29",
+                    "comment_num": "31",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州东辉酒店",
+                "location": {
+                    "lat": 26.043724,
+                    "lng": 119.282752
+                },
+                "address": "福建省福州市仓山区万达广场C2座186室(浦上大道与金榕南路交汇处)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "816232442ddc14f0283a9f0c",
+                "telephone": "(0591)83298998",
+                "detail": 1,
+                "uid": "816232442ddc14f0283a9f0c",
+                "detail_info": {
+                    "distance": 241,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28349633353,
+                        "lat": 26.043935096858
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=816232442ddc14f0283a9f0c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "service_rating": "3.6",
+                    "facility_rating": "3.7",
+                    "hygiene_rating": "3.8",
+                    "image_num": "29",
+                    "comment_num": "12",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州仓山万达旁温馨三居室普通公寓(金港路口店)",
+                "location": {
+                    "lat": 26.040516,
+                    "lng": 119.281415
+                },
+                "address": "福州仓山区福州仓山区金港路36号和园5幢2单元404室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "c445485d4409611e6849f3ae",
+                "detail_info": {
+                    "distance": 244,
+                    "tag": "酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c445485d4409611e6849f3ae&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.5",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "10",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州近西湖公园左海公园普通公寓(亭洲路店)",
+                "location": {
+                    "lat": 26.045178,
+                    "lng": 119.278379
+                },
+                "address": "福州市仓山区鼓楼亭头支路与亭头路交叉口东150米仓山万达广场-B2区",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "23447ee931b2548abd484237",
+                "detail_info": {
+                    "distance": 366,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=23447ee931b2548abd484237&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "爱生酒店(旅程餐厅)",
+                "location": {
+                    "lat": 26.044199,
+                    "lng": 119.282613
+                },
+                "address": "福建省福州市仓山区浦上大道216号万达广场sohoC区C3楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "57e5967581c2596a8f55ece6",
+                "telephone": "(0591)38505555",
+                "detail": 1,
+                "uid": "57e5967581c2596a8f55ece6",
+                "detail_info": {
+                    "distance": 262,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.28297032715,
+                        "lat": 26.044504055974
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=57e5967581c2596a8f55ece6&output=html&source=placeapi_v2",
+                    "price": "103.0",
+                    "overall_rating": "4.0",
+                    "service_rating": "4.3",
+                    "facility_rating": "4.3",
+                    "hygiene_rating": "4.3",
+                    "image_num": "56",
+                    "comment_num": "35",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州美伦美家向阳轩公寓",
+                "location": {
+                    "lat": 26.042136,
+                    "lng": 119.280409
+                },
+                "address": "福建省福州市仓山区仓山万达广场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "b958a37d14a90808dbeced3e",
+                "detail_info": {
+                    "distance": 58,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b958a37d14a90808dbeced3e&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "26",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州城市个性公寓酒店",
+                "location": {
+                    "lat": 26.044002,
+                    "lng": 119.282808
+                },
+                "address": "福州仓山区浦上大道216号仓山万达广场C区",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "314ab1a292b48b770869d971",
+                "detail": 1,
+                "uid": "314ab1a292b48b770869d971",
+                "detail_info": {
+                    "distance": 263,
+                    "tag": "酒店;公寓式酒店",
+                    "navi_location": {
+                        "lng": 119.28341629271,
+                        "lat": 26.043844844945
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=314ab1a292b48b770869d971&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0",
+                    "facility_rating": "0",
+                    "hygiene_rating": "0",
+                    "image_num": "25",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州仓山万达旁温馨三居室普通公寓",
+                "location": {
+                    "lat": 26.038569,
+                    "lng": 119.282394
+                },
+                "address": "福建省福州市仓山区金港路35号嘉园12幢107室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "7b274cdca8b95469e81e97f4",
+                "telephone": "4006061230-92618",
+                "detail": 1,
+                "uid": "7b274cdca8b95469e81e97f4",
+                "detail_info": {
+                    "distance": 480,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7b274cdca8b95469e81e97f4&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "51",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州墨林普通公寓(亭洲路店)",
+                "location": {
+                    "lat": 26.044597,
+                    "lng": 119.279208
+                },
+                "address": "福州仓山区杉林·悦榕公馆-正门",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "e0cd3f862a7414c221026261",
+                "detail_info": {
+                    "distance": 265,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e0cd3f862a7414c221026261&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州小范之家酒店式公寓",
+                "location": {
+                    "lat": 26.044529,
+                    "lng": 119.278999
+                },
+                "address": "杉林悦榕公馆(地块)-2号楼1408",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "4fedb35b5b274dc4213bf293",
+                "telephone": "4006061230-142760",
+                "detail": 1,
+                "uid": "4fedb35b5b274dc4213bf293",
+                "detail_info": {
+                    "distance": 271,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4fedb35b5b274dc4213bf293&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州王小海公寓",
+                "location": {
+                    "lat": 26.045765,
+                    "lng": 119.28082
+                },
+                "address": "福建省福州市仓山区金榕南路550",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "981bb84a575b2d6ac9c3dba7",
+                "detail_info": {
+                    "distance": 351,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=981bb84a575b2d6ac9c3dba7&output=html&source=placeapi_v2",
+                    "price": "454.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "38",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "国美电器(福州仓山万达店)",
+                "location": {
+                    "lat": 26.041954,
+                    "lng": 119.280391
+                },
+                "address": "福州市仓山区金山街道浦上大道万达一区3号楼2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "2145bb3c673bce74a1a9349c",
+                "telephone": "(0591)28051295",
+                "detail": 1,
+                "uid": "2145bb3c673bce74a1a9349c",
+                "detail_info": {
+                    "distance": 78,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.27840567034,
+                        "lat": 26.041376640728
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2145bb3c673bce74a1a9349c&output=html&source=placeapi_v2",
+                    "price": "3755.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "万达百货(福州仓山店)",
+                "location": {
+                    "lat": 26.042298,
+                    "lng": 119.280956
+                },
+                "address": "福建省福州市仓山区浦上大道274号万达广场1-6层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "455d06029175d3815e0d02a7",
+                "telephone": "(0591)88255525",
+                "detail": 1,
+                "uid": "455d06029175d3815e0d02a7",
+                "detail_info": {
+                    "distance": 44,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.27839168373,
+                        "lat": 26.041366531528
+                    },
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=455d06029175d3815e0d02a7&output=html&source=placeapi_v2",
+                    "price": "444.5",
+                    "overall_rating": "4.8",
+                    "comment_num": "44",
+                    "children": []
+                }
+            },
+            {
+                "name": "红星美凯龙(福州金山商场)",
+                "location": {
+                    "lat": 26.044526,
+                    "lng": 119.284096
+                },
+                "address": "福建省福州市仓山区浦上大道与金榕南路交汇处",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c8857db2eb6b2336a21de905",
+                "telephone": "(0591)38252666",
+                "detail": 1,
+                "uid": "db7fc2dcdd4fda2126e0a09b",
+                "detail_info": {
+                    "distance": 402,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.28513428583,
+                        "lat": 26.045600844862
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=db7fc2dcdd4fda2126e0a09b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "28",
+                    "children": []
+                }
+            },
+            {
+                "name": "金山万达店",
+                "location": {
+                    "lat": 26.039093,
+                    "lng": 119.281198
+                },
+                "address": "金港路2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "57cd9a305c7246980869d93b",
+                "detail": 1,
+                "uid": "57cd9a305c7246980869d93b",
+                "detail_info": {
+                    "distance": 394,
+                    "tag": "购物",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=57cd9a305c7246980869d93b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "无印良品(福州万达仓山店)",
+                "location": {
+                    "lat": 26.041562,
+                    "lng": 119.279921
+                },
+                "address": "福州市仓山区浦上大道276号万达广场1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "6e2a194602d3b6945bf6be1b",
+                "telephone": "(0591)88257481",
+                "detail": 1,
+                "uid": "6e2a194602d3b6945bf6be1b",
+                "detail_info": {
+                    "distance": 138,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6e2a194602d3b6945bf6be1b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "37",
+                    "children": []
+                }
+            },
+            {
+                "name": "H&M(仓山万达广场店)",
+                "location": {
+                    "lat": 26.041978,
+                    "lng": 119.28033
+                },
+                "address": "福建省福州市仓山区浦上大道276号万达广场F1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "32625641bd756cee71455ba9",
+                "telephone": "(0591)88257031",
+                "detail": 1,
+                "uid": "32625641bd756cee71455ba9",
+                "detail_info": {
+                    "distance": 78,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=32625641bd756cee71455ba9&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "屈臣氏(仓山万达店)",
+                "location": {
+                    "lat": 26.041397,
+                    "lng": 119.279573
+                },
+                "address": "福州市仓山区浦上大道274号仓山万达广场2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e8b2509ff43803a328201a71",
+                "telephone": "(0591)83891265",
+                "detail": 1,
+                "uid": "e8b2509ff43803a328201a71",
+                "detail_info": {
+                    "distance": 174,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.27838270427,
+                        "lat": 26.041372463857
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e8b2509ff43803a328201a71&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "3.5",
+                    "comment_num": "22",
+                    "children": []
+                }
+            },
+            {
+                "name": "ZARA(仓山万达广场店)",
+                "location": {
+                    "lat": 26.041792,
+                    "lng": 119.279779
+                },
+                "address": "福州市仓山区浦上大道276号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "325eac151a90408541d63e55",
+                "telephone": "(0591)88257311",
+                "detail": 1,
+                "uid": "325eac151a90408541d63e55",
+                "detail_info": {
+                    "distance": 127,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=325eac151a90408541d63e55&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "3.7",
+                    "comment_num": "39",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权经销商(国美仓山店)",
+                "location": {
+                    "lat": 26.041954,
+                    "lng": 119.280391
+                },
+                "address": "仓山区浦上大道274号仓山万达2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)28051295",
+                "detail": 1,
+                "uid": "6735edf30b00dbcb8433044b",
+                "detail_info": {
+                    "distance": 78,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6735edf30b00dbcb8433044b&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "超级物种(仓山万达店)",
+                "location": {
+                    "lat": 26.042824,
+                    "lng": 119.281407
+                },
+                "address": "福建省福州市仓山区浦上大道仓山万达金街(1号门旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "643d29cb01243f81d42ce25a",
+                "detail_info": {
+                    "distance": 76,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=643d29cb01243f81d42ce25a&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "小米授权体验店(福州正冠仓山万达百货店)",
+                "location": {
+                    "lat": 26.042197,
+                    "lng": 119.281061
+                },
+                "address": "福州市仓山区仓山万达广场百货入口左侧店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "adcb68f4d9cb36e2c1f1cfbb",
+                "detail": 1,
+                "uid": "adcb68f4d9cb36e2c1f1cfbb",
+                "detail_info": {
+                    "distance": 59,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=adcb68f4d9cb36e2c1f1cfbb&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝岛眼镜(福州仓山万达店)",
+                "location": {
+                    "lat": 26.041538,
+                    "lng": 119.279355
+                },
+                "address": "福州市仓山区浦上大道仓山万达广场1楼171商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c5da2eeaf446e0b288fc06b8",
+                "telephone": "(0591)83515783",
+                "detail": 1,
+                "uid": "c5da2eeaf446e0b288fc06b8",
+                "detail_info": {
+                    "distance": 177,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c5da2eeaf446e0b288fc06b8&output=html&source=placeapi_v2",
+                    "price": "603.5",
+                    "overall_rating": "4.6",
+                    "comment_num": "35",
+                    "children": []
+                }
+            },
+            {
+                "name": "耐克(浦上大道爱琴海一店)",
+                "location": {
+                    "lat": 26.042118,
+                    "lng": 119.280408
+                },
+                "address": "浦上大道万达广场4楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "55aedf09cf1770d3601c6766",
+                "telephone": "(0591)83960773",
+                "detail": 1,
+                "uid": "55aedf09cf1770d3601c6766",
+                "detail_info": {
+                    "distance": 60,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.28118000427,
+                        "lat": 26.041793529746
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=55aedf09cf1770d3601c6766&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "2.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "匡威(福州万达百货店)",
+                "location": {
+                    "lat": 26.042072,
+                    "lng": 119.280623
+                },
+                "address": "浦上大道276号万达百货5层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "7c25f8d25af7cb189cf7798b",
+                "detail_info": {
+                    "distance": 59,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7c25f8d25af7cb189cf7798b&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "苏宁易购广场(福州仓山店)",
+                "location": {
+                    "lat": 26.041723,
+                    "lng": 119.281236
+                },
+                "address": "福州市仓山区浦上大道274号仓山万达广场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "23a7fa08959d34a8be484286",
+                "detail_info": {
+                    "distance": 113,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=23a7fa08959d34a8be484286&output=html&source=placeapi_v2",
+                    "overall_rating": "3.9",
+                    "comment_num": "32",
+                    "children": []
+                }
+            },
+            {
+                "name": "得力文具(德格办公用品店)",
+                "location": {
+                    "lat": 26.045743,
+                    "lng": 119.282002
+                },
+                "address": "金榕南路锦绣闽江12号楼店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "534f77c898892fc9932ca397",
+                "telephone": "13950464167",
+                "detail": 1,
+                "uid": "534f77c898892fc9932ca397",
+                "detail_info": {
+                    "distance": 372,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=534f77c898892fc9932ca397&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "阿迪达斯(万达广场店)",
+                "location": {
+                    "lat": 26.042069,
+                    "lng": 119.28065
+                },
+                "address": "福建省福州市仓山区浦上大道尤溪洲大桥南下桥200米万达广场5F层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "d234debd8c8f2f30e856faa6",
+                "telephone": "(0591)88257121",
+                "detail": 1,
+                "uid": "d234debd8c8f2f30e856faa6",
+                "detail_info": {
+                    "distance": 59,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.28118000427,
+                        "lat": 26.041793529746
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d234debd8c8f2f30e856faa6&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权经销商(新联仓山万达店)",
+                "location": {
+                    "lat": 26.042326,
+                    "lng": 119.281422
+                },
+                "address": "福州市仓山区浦上大道276号万达广场室内步行街1层56-57号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "611368dd4bf0cf8401294f50",
+                "telephone": "(0591)88257356",
+                "detail": 1,
+                "uid": "611368dd4bf0cf8401294f50",
+                "detail_info": {
+                    "distance": 80,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=611368dd4bf0cf8401294f50&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权经销商(沃尔玛浦上大道店)",
+                "location": {
+                    "lat": 26.041915,
+                    "lng": 119.2799
+                },
+                "address": "福州市仓山区浦上大道276号仓山万达广场负一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)86392524",
+                "detail": 1,
+                "uid": "61afb2650aad085314c8f6fe",
+                "detail_info": {
+                    "distance": 109,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=61afb2650aad085314c8f6fe&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "小米授权体验店(福州国美仓山万达店)",
+                "location": {
+                    "lat": 26.041984,
+                    "lng": 119.280357
+                },
+                "address": "福州市仓山区万达广场二楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "1a4ec02b809bc36dfea77865",
+                "detail": 1,
+                "uid": "1a4ec02b809bc36dfea77865",
+                "detail_info": {
+                    "distance": 76,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a4ec02b809bc36dfea77865&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "nike kicks lounge(万达广场店)",
+                "location": {
+                    "lat": 26.042583,
+                    "lng": 119.281429
+                },
+                "address": "福州市仓山区浦上大道274号福州仓山万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e4d5bfa01f77f7f9ebe582e4",
+                "detail": 1,
+                "uid": "e4d5bfa01f77f7f9ebe582e4",
+                "detail_info": {
+                    "distance": 75,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e4d5bfa01f77f7f9ebe582e4&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "李宁(浦上大道店)",
+                "location": {
+                    "lat": 26.041823,
+                    "lng": 119.279595
+                },
+                "address": "浦上大道282号万达百货5层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "8dc63372af6ddb180d3dda20",
+                "detail": 1,
+                "uid": "8dc63372af6ddb180d3dda20",
+                "detail_info": {
+                    "distance": 138,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8dc63372af6ddb180d3dda20&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "BOLON(万达广场店)",
+                "location": {
+                    "lat": 26.042105,
+                    "lng": 119.279929
+                },
+                "address": "福州市仓山区浦上大道274号福州仓山万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)63102957",
+                "detail": 1,
+                "uid": "d01e0cdbafa020bfacee7a6d",
+                "detail_info": {
+                    "distance": 93,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d01e0cdbafa020bfacee7a6d&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "八马茶业(万达店)",
+                "location": {
+                    "lat": 26.044399,
+                    "lng": 119.282705
+                },
+                "address": "浦上大道276号万达广场C区19-20号商铺也(金榕南路)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "d317992302e133b62811d125",
+                "telephone": "(0591)83381717",
+                "detail": 1,
+                "uid": "d317992302e133b62811d125",
+                "detail_info": {
+                    "distance": 284,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d317992302e133b62811d125&output=html&source=placeapi_v2",
+                    "overall_rating": "3.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "永辉生活(金港路店)",
+                "location": {
+                    "lat": 26.039043,
+                    "lng": 119.281896
+                },
+                "address": "建新镇金港路35-11金山桔园二期嘉园1号楼一层03店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "7ef5b37fc6e664916b49f365",
+                "detail_info": {
+                    "distance": 414,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7ef5b37fc6e664916b49f365&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "正冠通讯(万达广场店)",
+                "location": {
+                    "lat": 26.042298,
+                    "lng": 119.280955
+                },
+                "address": "浦上大道272号万达百货1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "9b0200cdcdcb4365c7f50ddf",
+                "detail_info": {
+                    "distance": 44,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9b0200cdcdcb4365c7f50ddf&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "天梭授权专卖店(福州仓山万达百货店)",
+                "location": {
+                    "lat": 26.04202,
+                    "lng": 119.280549
+                },
+                "address": "福州市仓山区浦上大道北侧与金洲南路东侧福州仓山万达广场万千百货一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)88257080",
+                "detail": 1,
+                "uid": "86e82891584ecfa282288ad9",
+                "detail_info": {
+                    "distance": 66,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=86e82891584ecfa282288ad9&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "We Style Hair Salon(仓山万达店)",
+                "location": {
+                    "lat": 26.043837,
+                    "lng": 119.28325
+                },
+                "address": "仓山万达SOHO写字楼C区2座1003室(厦门国际银行旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)83741006",
+                "detail": 1,
+                "uid": "a2f0fdcd7f8223cea1d23010",
+                "detail_info": {
+                    "distance": 291,
+                    "tag": "购物;其他",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a2f0fdcd7f8223cea1d23010&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "熹茗茶业(福州金洲店)",
+                "location": {
+                    "lat": 26.041045,
+                    "lng": 119.278066
+                },
+                "address": "福建省福州市仓山区金洲南路正祥一品新筑13号一层03店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "7b50f4692b3e99d73b221c39",
+                "telephone": "13809541282",
+                "detail": 1,
+                "uid": "7b50f4692b3e99d73b221c39",
+                "detail_info": {
+                    "distance": 313,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7b50f4692b3e99d73b221c39&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "百信眼镜超市(仓山万达店)",
+                "location": {
+                    "lat": 26.042995,
+                    "lng": 119.279584
+                },
+                "address": "浦上大道仓山万达广场B区1层05商铺(万达广场4号门正对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "6b5b4d332883a6f5eddfca61",
+                "telephone": "(0591)88263780",
+                "detail": 1,
+                "uid": "6b5b4d332883a6f5eddfca61",
+                "detail_info": {
+                    "distance": 117,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6b5b4d332883a6f5eddfca61&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州市仓山区海西眼镜店",
+                "location": {
+                    "lat": 26.039322,
+                    "lng": 119.282308
+                },
+                "address": "金港路嘉园海西眼镜店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "6203db409bacf7e4abf0cd19",
+                "detail_info": {
+                    "distance": 400,
+                    "tag": "购物;商铺",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6203db409bacf7e4abf0cd19&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "周生生(万达广场仓山店)",
+                "location": {
+                    "lat": 26.042102,
+                    "lng": 119.280979
+                },
+                "address": "浦上大道272号万达广场万达百货1楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "30edf592c360b940a8175ac0",
+                "detail": 1,
+                "uid": "30edf592c360b940a8175ac0",
+                "detail_info": {
+                    "distance": 63,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.28124944328,
+                        "lat": 26.04210280886
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=30edf592c360b940a8175ac0&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "美宜佳(仓山万达店)",
+                "location": {
+                    "lat": 26.043813,
+                    "lng": 119.281975
+                },
+                "address": "金山街道浦上大道290号仓山万达广场SOHO区摩登假日酒店旁边",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "723f5c0d75191835a21de9d4",
+                "telephone": "(0591)83530157",
+                "detail": 1,
+                "uid": "723f5c0d75191835a21de9d4",
+                "detail_info": {
+                    "distance": 186,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=723f5c0d75191835a21de9d4&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "新百伦(万达广场仓山店)",
+                "location": {
+                    "lat": 26.042378,
+                    "lng": 119.280881
+                },
+                "address": "浦上大道274号万达中心5楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "72eb7681731acf9640ab9a6d",
+                "detail": 1,
+                "uid": "72eb7681731acf9640ab9a6d",
+                "detail_info": {
+                    "distance": 32,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=72eb7681731acf9640ab9a6d&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "Blu souffle",
+                "location": {
+                    "lat": 26.04154,
+                    "lng": 119.279122
+                },
+                "address": "金山街道浦上大道272号仓山万达广场A区(A1-A4)1层175商铺,2层175商铺辅助用房",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "18050311852",
+                "detail": 1,
+                "uid": "8e25f295e60eefdb7f29bd45",
+                "detail_info": {
+                    "distance": 195,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8e25f295e60eefdb7f29bd45&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "见福便利店(福州仓山万达店)",
+                "location": {
+                    "lat": 26.043755,
+                    "lng": 119.281031
+                },
+                "address": "建新镇金洲南路806号汇创名居二期(名殿花园)22号楼号店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)88071132",
+                "detail": 1,
+                "uid": "b7c2b024b8c6fc58e81e97dc",
+                "detail_info": {
+                    "distance": 132,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b7c2b024b8c6fc58e81e97dc&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国移动手机大卖场(鑫宏盛店)",
+                "location": {
+                    "lat": 26.043625,
+                    "lng": 119.280742
+                },
+                "address": "福建省福州市仓山区仓山万达广场B2-58",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "4ddf655390a13330d0ff2376",
+                "detail": 1,
+                "uid": "4ddf655390a13330d0ff2376",
+                "detail_info": {
+                    "distance": 113,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4ddf655390a13330d0ff2376&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "小周五金建材(金港路店)",
+                "location": {
+                    "lat": 26.039856,
+                    "lng": 119.283472
+                },
+                "address": "楼园和园30座12号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b0e203b6dfdb6491616858ee",
+                "telephone": "(0591)87146056,13705042683,(0591)38291813",
+                "detail": 1,
+                "uid": "b0e203b6dfdb6491616858ee",
+                "detail_info": {
+                    "distance": 414,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.28334761546,
+                        "lat": 26.040008118586
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b0e203b6dfdb6491616858ee&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "ANTA SPORTS",
+                "location": {
+                    "lat": 26.042308,
+                    "lng": 119.281462
+                },
+                "address": "浦上大道272号万达百货2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "96625356ee256a386fc02c81",
+                "detail_info": {
+                    "distance": 85,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=96625356ee256a386fc02c81&output=html&source=placeapi_v2",
+                    "overall_rating": "2.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "DANIEL WELLINGTON(万达广场店)",
+                "location": {
+                    "lat": 26.042688,
+                    "lng": 119.281299
+                },
+                "address": "浦上大道尤溪洲大桥南下桥200米万达广场1F层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "db2faae0d6330f65b8bd63c2",
+                "detail_info": {
+                    "distance": 62,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=db2faae0d6330f65b8bd63c2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "EO BOX(万达店)",
+                "location": {
+                    "lat": 26.042802,
+                    "lng": 119.28019
+                },
+                "address": "万达金街4号门路口(85·C对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "d96c6485c1306c0136b06c18",
+                "telephone": "13665030306",
+                "detail": 1,
+                "uid": "d96c6485c1306c0136b06c18",
+                "detail_info": {
+                    "distance": 53,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d96c6485c1306c0136b06c18&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "20",
+                    "children": []
+                }
+            },
+            {
+                "name": "梦天木门(红星美凯龙二店)",
+                "location": {
+                    "lat": 26.044959,
+                    "lng": 119.284161
+                },
+                "address": "浦上大道红星美凯龙三楼C8040号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "d59f9a585067898831f71d0d",
+                "telephone": "(0591)38179828",
+                "detail": 1,
+                "uid": "d59f9a585067898831f71d0d",
+                "detail_info": {
+                    "distance": 435,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d59f9a585067898831f71d0d&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "ECCO(万达广场店)",
+                "location": {
+                    "lat": 26.041679,
+                    "lng": 119.279128
+                },
+                "address": "福州市仓山区浦上大道274号福州仓山万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "5a892d7ff057a1259e9d68e5",
+                "detail": 1,
+                "uid": "5a892d7ff057a1259e9d68e5",
+                "detail_info": {
+                    "distance": 185,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5a892d7ff057a1259e9d68e5&output=html&source=placeapi_v2",
+                    "overall_rating": "3.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "Stradivarius(万达广场店)",
+                "location": {
+                    "lat": 26.042636,
+                    "lng": 119.280729
+                },
+                "address": "福州市仓山区浦上大道274号福州仓山万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c9ec562e0dbeb5a858109390",
+                "telephone": "(0591)88257130",
+                "detail": 1,
+                "uid": "c9ec562e0dbeb5a858109390",
+                "detail_info": {
+                    "distance": 6,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c9ec562e0dbeb5a858109390&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "都市丽人(万达广场店)",
+                "location": {
+                    "lat": 26.042265,
+                    "lng": 119.279489
+                },
+                "address": "福州市仓山区万达广场a区a1a41195号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "10d477d0e4e4559703ec01e5",
+                "detail_info": {
+                    "distance": 124,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=10d477d0e4e4559703ec01e5&output=html&source=placeapi_v2",
+                    "overall_rating": "3.6",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "GXG(万达广场店)",
+                "location": {
+                    "lat": 26.042325,
+                    "lng": 119.280287
+                },
+                "address": "福州市仓山区浦上大道274号福州仓山万达广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "cf674b45fc11f461eedfca62",
+                "detail": 1,
+                "uid": "cf674b45fc11f461eedfca62",
+                "detail_info": {
+                    "distance": 50,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cf674b45fc11f461eedfca62&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "百果园(福州金港路店)",
+                "location": {
+                    "lat": 26.038872,
+                    "lng": 119.28153
+                },
+                "address": "仓山区新建镇金港路35号金山桔园二期嘉园1#楼1层09店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)83598290",
+                "detail": 1,
+                "uid": "251001f0b24a7652f60e7751",
+                "detail_info": {
+                    "distance": 424,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=251001f0b24a7652f60e7751&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "桔色成人(旗舰店)",
+                "location": {
+                    "lat": 26.041247,
+                    "lng": 119.277881
+                },
+                "address": "福建省福州市仓山区金山浦上大道金洲南路一品新筑12好楼1层10店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "4cb53d9c667c8ac651e5c547",
+                "detail": 1,
+                "uid": "4cb53d9c667c8ac651e5c547",
+                "detail_info": {
+                    "distance": 317,
+                    "tag": "医疗;医疗保健",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4cb53d9c667c8ac651e5c547&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "戴尔梦(万达广场仓山店)",
+                "location": {
+                    "lat": 26.042294,
+                    "lng": 119.281171
+                },
+                "address": "福建省福州市仓山区浦上大道276号F2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "9422542a2c696606c8c3dbd3",
+                "detail": 1,
+                "uid": "9422542a2c696606c8c3dbd3",
+                "detail_info": {
+                    "distance": 60,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9422542a2c696606c8c3dbd3&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}

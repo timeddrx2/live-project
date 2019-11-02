@@ -1,0 +1,2620 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "优Q铁锅饭(东街店)",
+                "location": {
+                    "lat": 26.091364,
+                    "lng": 119.305357
+                },
+                "address": "福建省福州市鼓楼区东方百货东街店A馆9楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "b5109efe040887fc82a12e32",
+                "telephone": "(0591)87667270",
+                "detail": 1,
+                "uid": "b5109efe040887fc82a12e32",
+                "detail_info": {
+                    "distance": 308,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b5109efe040887fc82a12e32&output=html&source=placeapi_v2",
+                    "price": "73.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "70",
+                    "children": []
+                }
+            },
+            {
+                "name": "周麻婆(福州三坊七巷店)",
+                "location": {
+                    "lat": 26.086751,
+                    "lng": 119.305041
+                },
+                "address": "鼓楼区三坊七巷吉庇巷70号院",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "2420a72248a374c7a2a934f8",
+                "telephone": "(0591)83723151",
+                "detail": 1,
+                "uid": "2420a72248a374c7a2a934f8",
+                "detail_info": {
+                    "distance": 277,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2420a72248a374c7a2a934f8&output=html&source=placeapi_v2",
+                    "price": "48.0",
+                    "overall_rating": "3.4",
+                    "comment_num": "40",
+                    "children": []
+                }
+            },
+            {
+                "name": "雍和会餐厅(三坊七巷店)",
+                "location": {
+                    "lat": 26.085939,
+                    "lng": 119.302883
+                },
+                "address": "福州市鼓楼区光禄坊37号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "c8c3f4969a4e580603ff2ddc",
+                "telephone": "(0591)88619555",
+                "detail": 1,
+                "uid": "c8c3f4969a4e580603ff2ddc",
+                "detail_info": {
+                    "distance": 349,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.30240353553,
+                        "lat": 26.08594104341
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c8c3f4969a4e580603ff2ddc&output=html&source=placeapi_v2",
+                    "price": "216.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "69",
+                    "children": []
+                }
+            },
+            {
+                "name": "同利肉燕老铺(南后街店)",
+                "location": {
+                    "lat": 26.089882,
+                    "lng": 119.302939
+                },
+                "address": "福州市鼓楼区南后街106-108号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "bff8fa7d9f160bb9c8213dfe",
+                "telephone": "13906917931",
+                "detail": 1,
+                "uid": "bff8fa7d9f160bb9c8213dfe",
+                "detail_info": {
+                    "distance": 131,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.30264456796,
+                        "lat": 26.091842827727
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bff8fa7d9f160bb9c8213dfe&output=html&source=placeapi_v2",
+                    "price": "14.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "92",
+                    "children": []
+                }
+            },
+            {
+                "name": "渔家小寨总店",
+                "location": {
+                    "lat": 26.092826,
+                    "lng": 119.302159
+                },
+                "address": "鼓楼区杨桥东路双抛桥一里六巷22号(双抛桥新村附近)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "56f2f696a7c477990ba8d4f6",
+                "telephone": "(0591)87566963,(0591)88006166",
+                "detail": 1,
+                "uid": "56f2f696a7c477990ba8d4f6",
+                "detail_info": {
+                    "distance": 457,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.30201988721,
+                        "lat": 26.092892261529
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=56f2f696a7c477990ba8d4f6&output=html&source=placeapi_v2",
+                    "price": "83.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "200",
+                    "children": []
+                }
+            },
+            {
+                "name": "麦大叔·福建客家菜(东百中心MINI店)",
+                "location": {
+                    "lat": 26.091017,
+                    "lng": 119.305357
+                },
+                "address": "八一七北路84号东百中心11楼A楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "017182e929682e2c2e4733c6",
+                "telephone": "(0591)83315917",
+                "detail": 1,
+                "uid": "017182e929682e2c2e4733c6",
+                "detail_info": {
+                    "distance": 276,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=017182e929682e2c2e4733c6&output=html&source=placeapi_v2",
+                    "price": "58.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "49",
+                    "children": []
+                }
+            },
+            {
+                "name": "九号左公宴",
+                "location": {
+                    "lat": 26.089012,
+                    "lng": 119.306006
+                },
+                "address": "福建省福州市鼓楼区安民巷62号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "35f3775f8dd44fcb35b06c6e",
+                "telephone": "(0591)88700999",
+                "detail": 1,
+                "uid": "35f3775f8dd44fcb35b06c6e",
+                "detail_info": {
+                    "distance": 222,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.30644684097,
+                        "lat": 26.089102187541
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=35f3775f8dd44fcb35b06c6e&output=html&source=placeapi_v2",
+                    "price": "179.0",
+                    "overall_rating": "3.8",
+                    "comment_num": "58",
+                    "children": []
+                }
+            },
+            {
+                "name": "斗牛士(大洋百货店)",
+                "location": {
+                    "lat": 26.0903,
+                    "lng": 119.307143
+                },
+                "address": "福州市鼓楼区八一七北路133号大洋百货F8",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "5e53af1aa56ab5464051c0fb",
+                "telephone": "(0591)87615292",
+                "detail": 1,
+                "uid": "5e53af1aa56ab5464051c0fb",
+                "detail_info": {
+                    "distance": 366,
+                    "tag": "美食;外国餐厅",
+                    "navi_location": {
+                        "lng": 119.30617930762,
+                        "lat": 26.090249878774
+                    },
+                    "indoor_floor": "F8",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5e53af1aa56ab5464051c0fb&output=html&source=placeapi_v2",
+                    "price": "108.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "200",
+                    "children": []
+                }
+            },
+            {
+                "name": "铜锣湾(三坊七巷店)",
+                "location": {
+                    "lat": 26.09075,
+                    "lng": 119.304607
+                },
+                "address": "福州市鼓楼区南后街三坊七巷塔巷6号(靠近东百大洋停车场)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "22be04281f74f8c4a1a9343e",
+                "telephone": "(0591)88151137",
+                "detail": 1,
+                "uid": "22be04281f74f8c4a1a9343e",
+                "detail_info": {
+                    "distance": 214,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=22be04281f74f8c4a1a9343e&output=html&source=placeapi_v2",
+                    "price": "148.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "185",
+                    "children": []
+                }
+            },
+            {
+                "name": "嘻游记·烧肉(东百中心店)",
+                "location": {
+                    "lat": 26.091233,
+                    "lng": 119.305543
+                },
+                "address": "八一七北路88号东百中心",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)83560916",
+                "detail": 1,
+                "uid": "4506936a42006ad5471a3234",
+                "detail_info": {
+                    "distance": 306,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4506936a42006ad5471a3234&output=html&source=placeapi_v2",
+                    "price": "113.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "63",
+                    "children": []
+                }
+            },
+            {
+                "name": "阿楷乡村鱼蛙馆(东街口店)",
+                "location": {
+                    "lat": 26.092788,
+                    "lng": 119.301979
+                },
+                "address": "双抛桥二里23号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "d305db1fb58f6e27932ca35d",
+                "telephone": "(0591)88006166",
+                "detail": 1,
+                "uid": "d305db1fb58f6e27932ca35d",
+                "detail_info": {
+                    "distance": 460,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.30177419616,
+                        "lat": 26.092851588553
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d305db1fb58f6e27932ca35d&output=html&source=placeapi_v2",
+                    "price": "99.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "151",
+                    "children": []
+                }
+            },
+            {
+                "name": "东方红·老坛剁椒鱼头(东百中心店)",
+                "location": {
+                    "lat": 26.09128,
+                    "lng": 119.305196
+                },
+                "address": "南街街道八一七北路88号10层10F-705店铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)83500517",
+                "detail": 1,
+                "uid": "f5f57a4c8b2a2bf36fa3cc4a",
+                "detail_info": {
+                    "distance": 292,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f5f57a4c8b2a2bf36fa3cc4a&output=html&source=placeapi_v2",
+                    "price": "73.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "113",
+                    "children": []
+                }
+            },
+            {
+                "name": "旋转小火锅",
+                "location": {
+                    "lat": 26.08866,
+                    "lng": 119.307336
+                },
+                "address": "福建省福州市鼓楼区织缎巷16号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "19959100180",
+                "detail": 1,
+                "uid": "820168746e07cf87d22dd698",
+                "detail_info": {
+                    "distance": 356,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=820168746e07cf87d22dd698&output=html&source=placeapi_v2",
+                    "price": "29.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "25",
+                    "children": []
+                }
+            },
+            {
+                "name": "仓敷居酒屋(元帅路店)",
+                "location": {
+                    "lat": 26.092181,
+                    "lng": 119.300876
+                },
+                "address": "元帅路76号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "86beec92aca6d1b2c17da201",
+                "telephone": "(0591)87505922",
+                "detail": 1,
+                "uid": "86beec92aca6d1b2c17da201",
+                "detail_info": {
+                    "distance": 459,
+                    "tag": "美食;外国餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=86beec92aca6d1b2c17da201&output=html&source=placeapi_v2",
+                    "price": "85.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "39",
+                    "children": []
+                }
+            },
+            {
+                "name": "谷田稻香(东百中心店)",
+                "location": {
+                    "lat": 26.091668,
+                    "lng": 119.305441
+                },
+                "address": "福州市鼓楼区八一七北路88号东百中心",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "8e0d618a553892cc95f08c17",
+                "telephone": "(0591)62170030",
+                "detail": 1,
+                "uid": "8e0d618a553892cc95f08c17",
+                "detail_info": {
+                    "distance": 342,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8e0d618a553892cc95f08c17&output=html&source=placeapi_v2",
+                    "price": "36.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "83",
+                    "children": []
+                }
+            },
+            {
+                "name": "老福洲徐记(东百mini店)",
+                "location": {
+                    "lat": 26.091407,
+                    "lng": 119.305411
+                },
+                "address": "鼓楼区八一七北路84-88号东百中心A馆11楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)83656529",
+                "detail": 1,
+                "uid": "4b685b70b51bc003c16c14ca",
+                "detail_info": {
+                    "distance": 315,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4b685b70b51bc003c16c14ca&output=html&source=placeapi_v2",
+                    "price": "77.0",
+                    "overall_rating": "3.9",
+                    "comment_num": "114",
+                    "children": []
+                }
+            },
+            {
+                "name": "东北圆筒烧烤(双抛桥店)",
+                "location": {
+                    "lat": 26.092702,
+                    "lng": 119.301455
+                },
+                "address": "福建省福州市鼓楼区双抛桥二里41号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "259fc562bb5fbf8dd6b74e46",
+                "telephone": "15880057796",
+                "detail": 1,
+                "uid": "259fc562bb5fbf8dd6b74e46",
+                "detail_info": {
+                    "distance": 475,
+                    "tag": "美食;其他",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=259fc562bb5fbf8dd6b74e46&output=html&source=placeapi_v2",
+                    "price": "74.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "68",
+                    "children": []
+                }
+            },
+            {
+                "name": "澜记香港饮品专门店(三坊七巷店)",
+                "location": {
+                    "lat": 26.090782,
+                    "lng": 119.302655
+                },
+                "address": "南街街道三坊七巷风景区南后街180号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "27720079adeda0286268583b",
+                "detail_info": {
+                    "distance": 230,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=27720079adeda0286268583b&output=html&source=placeapi_v2",
+                    "price": "19.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "15",
+                    "children": []
+                }
+            },
+            {
+                "name": "舌尖之粤(元帅路店)",
+                "location": {
+                    "lat": 26.092617,
+                    "lng": 119.300965
+                },
+                "address": "福建省福州市鼓楼区元帅路70-2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "d4bc0ec4f419784026e0a031",
+                "telephone": "13123151118",
+                "detail": 1,
+                "uid": "d4bc0ec4f419784026e0a031",
+                "detail_info": {
+                    "distance": 493,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d4bc0ec4f419784026e0a031&output=html&source=placeapi_v2",
+                    "price": "11.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "31",
+                    "children": []
+                }
+            },
+            {
+                "name": "许留山(东百中心店)",
+                "location": {
+                    "lat": 26.091363,
+                    "lng": 119.305368
+                },
+                "address": "福建省福州市鼓楼区东百中心a馆负二楼许留山",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)62170028",
+                "detail": 1,
+                "uid": "5e5724c1b395bebe40afe682",
+                "detail_info": {
+                    "distance": 309,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5e5724c1b395bebe40afe682&output=html&source=placeapi_v2",
+                    "price": "32.0",
+                    "overall_rating": "4.6",
+                    "comment_num": "68",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "石丐茶铺",
+                "location": {
+                    "lat": 26.085212,
+                    "lng": 119.304062
+                },
+                "address": "福建省福州市鼓楼区澳门路20号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "b5ecdebaf6a2efdaf82d6170",
+                "detail": 1,
+                "uid": "b5ecdebaf6a2efdaf82d6170",
+                "detail_info": {
+                    "distance": 419,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b5ecdebaf6a2efdaf82d6170&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "鱼叔叔的店(安泰中心店)",
+                "location": {
+                    "lat": 26.088334,
+                    "lng": 119.308071
+                },
+                "address": "八一七北路189号安泰中心B区底层商场部分1层B1-07B,B1-08B商场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "163040819220e98cb04c49d5",
+                "telephone": "18606079610",
+                "detail": 1,
+                "uid": "163040819220e98cb04c49d5",
+                "detail_info": {
+                    "distance": 434,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=163040819220e98cb04c49d5&output=html&source=placeapi_v2",
+                    "price": "74.0",
+                    "overall_rating": "4.4",
+                    "comment_num": "13",
+                    "children": []
+                }
+            },
+            {
+                "name": "大神小馆",
+                "location": {
+                    "lat": 26.08551,
+                    "lng": 119.303213
+                },
+                "address": "福州市鼓楼区营房里67",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "845e097edc45994a0d3dda2a",
+                "telephone": "(0591)87508572",
+                "detail": 1,
+                "uid": "845e097edc45994a0d3dda2a",
+                "detail_info": {
+                    "distance": 389,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=845e097edc45994a0d3dda2a&output=html&source=placeapi_v2",
+                    "price": "87.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "32",
+                    "children": []
+                }
+            },
+            {
+                "name": "小确茶(东街口店)",
+                "location": {
+                    "lat": 26.092895,
+                    "lng": 119.305351
+                },
+                "address": "福建省福州市鼓楼区八一七北路70号-2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "13514066595",
+                "detail": 1,
+                "uid": "5f73b06c020700e716c905f3",
+                "detail_info": {
+                    "distance": 463,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5f73b06c020700e716c905f3&output=html&source=placeapi_v2",
+                    "price": "19.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "42",
+                    "children": []
+                }
+            },
+            {
+                "name": "五味缘钢管厂小郡肝串串香火锅",
+                "location": {
+                    "lat": 26.09263,
+                    "lng": 119.301269
+                },
+                "address": "福建省福州市鼓楼区双抛桥二里35号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "735a136b2e687c4472210bfa",
+                "telephone": "13600854966",
+                "detail": 1,
+                "uid": "735a136b2e687c4472210bfa",
+                "detail_info": {
+                    "distance": 477,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=735a136b2e687c4472210bfa&output=html&source=placeapi_v2",
+                    "price": "75.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "15",
+                    "children": []
+                }
+            },
+            {
+                "name": "古田银耳馆",
+                "location": {
+                    "lat": 26.088605,
+                    "lng": 119.303458
+                },
+                "address": "福州市鼓楼区(三坊七巷)南后街65号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "18150185088,18650385558",
+                "detail": 1,
+                "uid": "932b54dc96d93d499ee321fd",
+                "detail_info": {
+                    "distance": 52,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=932b54dc96d93d499ee321fd&output=html&source=placeapi_v2",
+                    "price": "18.0",
+                    "overall_rating": "4.6",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "快乐柠檬(东百中心店)",
+                "location": {
+                    "lat": 26.091265,
+                    "lng": 119.305338
+                },
+                "address": "鼓楼区杨桥东路东百大厦负二层(手扶梯旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)87662952",
+                "detail": 1,
+                "uid": "8e8abacf65d9ed3b43ab9a5c",
+                "detail_info": {
+                    "distance": 298,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8e8abacf65d9ed3b43ab9a5c&output=html&source=placeapi_v2",
+                    "price": "14.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "33",
+                    "children": []
+                }
+            },
+            {
+                "name": "琪辉餐厅(八一七路店)",
+                "location": {
+                    "lat": 26.090057,
+                    "lng": 119.306933
+                },
+                "address": "八一七北路105号福建佳盛大厦1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "66eb5d84cd9df96e88fc06c5",
+                "telephone": "(0591)87501323",
+                "detail": 1,
+                "uid": "66eb5d84cd9df96e88fc06c5",
+                "detail_info": {
+                    "distance": 337,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=66eb5d84cd9df96e88fc06c5&output=html&source=placeapi_v2",
+                    "price": "45.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "34",
+                    "children": []
+                }
+            },
+            {
+                "name": "宫廷月亮虾饼(达明店)",
+                "location": {
+                    "lat": 26.092436,
+                    "lng": 119.30281
+                },
+                "address": "福州鼓楼区达明美食街15号店面老福州风味小吃旁",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "63c39e738c5586d6581093d7",
+                "detail_info": {
+                    "distance": 396,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=63c39e738c5586d6581093d7&output=html&source=placeapi_v2",
+                    "price": "18.0",
+                    "overall_rating": "4.1",
+                    "image_num": "1",
+                    "comment_num": "38",
+                    "children": []
+                }
+            },
+            {
+                "name": "辻利茶铺(大洋百货店)",
+                "location": {
+                    "lat": 26.090477,
+                    "lng": 119.307052
+                },
+                "address": "福建省福州市鼓楼区八一七北路133号7层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)83625731",
+                "detail": 1,
+                "uid": "15ebd168c878263d9fec2b27",
+                "detail_info": {
+                    "distance": 367,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=15ebd168c878263d9fec2b27&output=html&source=placeapi_v2",
+                    "price": "41.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "29",
+                    "children": []
+                }
+            },
+            {
+                "name": "如家酒店(东街口地铁站店)",
+                "location": {
+                    "lat": 26.087037,
+                    "lng": 119.306722
+                },
+                "address": "福州市鼓楼区吉庇路39号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "64ff3be1e4c352a291114c95",
+                "telephone": "(0591)88870777",
+                "detail": 1,
+                "uid": "64ff3be1e4c352a291114c95",
+                "detail_info": {
+                    "distance": 364,
+                    "tag": "酒店;快捷酒店",
+                    "navi_location": {
+                        "lng": 119.30657779594,
+                        "lat": 26.087149979789
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=64ff3be1e4c352a291114c95&output=html&source=placeapi_v2",
+                    "price": "86.0",
+                    "overall_rating": "4.1",
+                    "service_rating": "4.2",
+                    "facility_rating": "4.2",
+                    "hygiene_rating": "4.2",
+                    "image_num": "76",
+                    "comment_num": "189",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "亚朵",
+                "location": {
+                    "lat": 26.089942,
+                    "lng": 119.306802
+                },
+                "address": "福建省福州市鼓楼区八一七北路151号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)38076666",
+                "detail": 1,
+                "uid": "a122fd51c222565cc9c3dbb5",
+                "detail_info": {
+                    "distance": 320,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a122fd51c222565cc9c3dbb5&output=html&source=placeapi_v2",
+                    "price": "404.0",
+                    "overall_rating": "5.0",
+                    "service_rating": "4.8",
+                    "facility_rating": "4.8",
+                    "hygiene_rating": "4.8",
+                    "image_num": "67",
+                    "comment_num": "36",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "聚春园大酒店(福州店)",
+                "location": {
+                    "lat": 26.092902,
+                    "lng": 119.306085
+                },
+                "address": "福建省福州市鼓楼区东街2号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "dab7c28aa0783543246e98a5",
+                "telephone": "(0591)87502328",
+                "detail": 1,
+                "uid": "dab7c28aa0783543246e98a5",
+                "detail_info": {
+                    "distance": 493,
+                    "tag": "酒店;星级酒店",
+                    "navi_location": {
+                        "lng": 119.30631507572,
+                        "lat": 26.09258728772
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dab7c28aa0783543246e98a5&output=html&source=placeapi_v2",
+                    "price": "446.0",
+                    "overall_rating": "4.9",
+                    "service_rating": "4.8",
+                    "facility_rating": "4.8",
+                    "hygiene_rating": "4.8",
+                    "image_num": "100",
+                    "comment_num": "39",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "如家酒店(达明美食街店)",
+                "location": {
+                    "lat": 26.09252,
+                    "lng": 119.301297
+                },
+                "address": "福建省福州市鼓楼区元帅路93号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)83620333",
+                "detail": 1,
+                "uid": "172b4b00acb8baadc909f062",
+                "detail_info": {
+                    "distance": 465,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=172b4b00acb8baadc909f062&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "service_rating": "4.7",
+                    "facility_rating": "4.7",
+                    "hygiene_rating": "4.7",
+                    "image_num": "69",
+                    "comment_num": "25",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "汉庭酒店(东街口地铁站店)",
+                "location": {
+                    "lat": 26.089929,
+                    "lng": 119.306766
+                },
+                "address": "福建省福州市鼓楼区八一七北路151号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)38255888",
+                "detail": 1,
+                "uid": "4bff14b45a97d08a6fa3cc6b",
+                "detail_info": {
+                    "distance": 316,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4bff14b45a97d08a6fa3cc6b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.6",
+                    "service_rating": "4.4",
+                    "facility_rating": "4.4",
+                    "hygiene_rating": "4.4",
+                    "image_num": "48",
+                    "comment_num": "26",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "九号书香文儒酒店",
+                "location": {
+                    "lat": 26.087635,
+                    "lng": 119.300712
+                },
+                "address": "福建省福州市鼓楼区通湖路中段文儒坊50号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)88567999",
+                "detail": 1,
+                "uid": "d7328e7b58eed37dc2f1cf6d",
+                "detail_info": {
+                    "distance": 340,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d7328e7b58eed37dc2f1cf6d&output=html&source=placeapi_v2",
+                    "price": "358.0",
+                    "overall_rating": "5.0",
+                    "service_rating": "4.8",
+                    "facility_rating": "4.8",
+                    "hygiene_rating": "4.8",
+                    "image_num": "100",
+                    "comment_num": "66",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "旺和宾馆(双抛桥一里)",
+                "location": {
+                    "lat": 26.092193,
+                    "lng": 119.301866
+                },
+                "address": "福建省福州市鼓楼区建兴广厦4层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "f3c2373cb417a94bd32dd6b8",
+                "telephone": "(0591)83760800",
+                "detail": 1,
+                "uid": "f3c2373cb417a94bd32dd6b8",
+                "detail_info": {
+                    "distance": 405,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f3c2373cb417a94bd32dd6b8&output=html&source=placeapi_v2",
+                    "price": "148.0",
+                    "overall_rating": "3.1",
+                    "service_rating": "3.7",
+                    "facility_rating": "3.7",
+                    "hygiene_rating": "3.7",
+                    "image_num": "52",
+                    "comment_num": "10",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "薇阁酒店(福州三坊七巷店)",
+                "location": {
+                    "lat": 26.086779,
+                    "lng": 119.306715
+                },
+                "address": "福建省福州市鼓楼区桂枝里3-2号闽星楼6/8楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "519e4a130fe1566f96f08c28",
+                "telephone": "(0591)88360555",
+                "detail": 1,
+                "uid": "519e4a130fe1566f96f08c28",
+                "detail_info": {
+                    "distance": 381,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.3067594953,
+                        "lat": 26.08675999213
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=519e4a130fe1566f96f08c28&output=html&source=placeapi_v2",
+                    "price": "69.0",
+                    "overall_rating": "3.8",
+                    "service_rating": "4.2",
+                    "facility_rating": "3.9",
+                    "hygiene_rating": "4.1",
+                    "image_num": "100",
+                    "comment_num": "210",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "乐居宾馆(元帅路店)",
+                "location": {
+                    "lat": 26.092508,
+                    "lng": 119.301226
+                },
+                "address": "福建省福州市鼓楼区元帅路91号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "f44609181739ca14b11e366c",
+                "telephone": "(0591)87677498",
+                "detail": 1,
+                "uid": "f44609181739ca14b11e366c",
+                "detail_info": {
+                    "distance": 468,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f44609181739ca14b11e366c&output=html&source=placeapi_v2",
+                    "price": "109.0",
+                    "overall_rating": "1.9",
+                    "service_rating": "2.9",
+                    "facility_rating": "2.9",
+                    "hygiene_rating": "2.9",
+                    "image_num": "53",
+                    "comment_num": "12",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "OYO旺鑫宾馆(林觉民故居杨桥路店)",
+                "location": {
+                    "lat": 26.092737,
+                    "lng": 119.301825
+                },
+                "address": "福建省福州市鼓楼区杨桥路9号双抛桥一里新村2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "21534658855c4fcb40e1925e",
+                "telephone": "(0591)87891096",
+                "detail": 1,
+                "uid": "21534658855c4fcb40e1925e",
+                "detail_info": {
+                    "distance": 461,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=21534658855c4fcb40e1925e&output=html&source=placeapi_v2",
+                    "price": "74.0",
+                    "overall_rating": "3.2",
+                    "service_rating": "4.1",
+                    "facility_rating": "4.1",
+                    "hygiene_rating": "4.1",
+                    "image_num": "89",
+                    "comment_num": "51",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "福州缘来小舍住宿",
+                "location": {
+                    "lat": 26.090769,
+                    "lng": 119.301546
+                },
+                "address": "福建省福州市鼓楼区杨桥东路19号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "05cf7a479225d3173904b17b",
+                "detail_info": {
+                    "distance": 299,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=05cf7a479225d3173904b17b&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "齐家酒店(三坊七巷店)",
+                "location": {
+                    "lat": 26.087151,
+                    "lng": 119.307352
+                },
+                "address": "福建省福州市鼓楼区津泰路3号津泰新村19号楼8楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "ffddeb102a9bb32388fc06bd",
+                "telephone": "(0591)62751999",
+                "detail": 1,
+                "uid": "ffddeb102a9bb32388fc06bd",
+                "detail_info": {
+                    "distance": 410,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ffddeb102a9bb32388fc06bd&output=html&source=placeapi_v2",
+                    "price": "65.0",
+                    "overall_rating": "3.8",
+                    "service_rating": "4.1",
+                    "facility_rating": "4.1",
+                    "hygiene_rating": "4.1",
+                    "image_num": "33",
+                    "comment_num": "45",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州步行2分钟到三坊七巷新中式精心三房普通公寓",
+                "location": {
+                    "lat": 26.090883,
+                    "lng": 119.301588
+                },
+                "address": "福州市鼓楼区鼓楼南街街道杨桥东路19号衣锦华庭-一期",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "4006061230-76393",
+                "detail": 1,
+                "uid": "77504d9f3ed23f2da1d23013",
+                "detail_info": {
+                    "distance": 304,
+                    "tag": "酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=77504d9f3ed23f2da1d23013&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州宝龙上海新苑金装清新温馨2房整租普通公寓(通湖路店)",
+                "location": {
+                    "lat": 26.088301,
+                    "lng": 119.299638
+                },
+                "address": "福州市鼓楼区通湖路236号(通湖路到乌山路之间)通湖公寓2号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "cdc594e3a9fb5da8ebe582fd",
+                "detail_info": {
+                    "distance": 420,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cdc594e3a9fb5da8ebe582fd&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "时光小镇青年旅社",
+                "location": {
+                    "lat": 26.092666,
+                    "lng": 119.301519
+                },
+                "address": "福建省福州市鼓楼区元帅路双抛一里9号705",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "cfff5df6700bd61ccc06a4ca",
+                "telephone": "15806074600",
+                "detail": 1,
+                "uid": "cfff5df6700bd61ccc06a4ca",
+                "detail_info": {
+                    "distance": 468,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cfff5df6700bd61ccc06a4ca&output=html&source=placeapi_v2",
+                    "price": "25.0",
+                    "overall_rating": "3.7",
+                    "service_rating": "3.9",
+                    "facility_rating": "3.9",
+                    "hygiene_rating": "3.9",
+                    "image_num": "2",
+                    "comment_num": "3",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州木槿精品客房",
+                "location": {
+                    "lat": 26.085858,
+                    "lng": 119.304067
+                },
+                "address": "澳门路63号澳门公寓A座668",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "3b77728c83065f825d17c3e8",
+                "telephone": "15657441774",
+                "detail": 1,
+                "uid": "3b77728c83065f825d17c3e8",
+                "detail_info": {
+                    "distance": 347,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3b77728c83065f825d17c3e8&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州窝家青年旅舍",
+                "location": {
+                    "lat": 26.091318,
+                    "lng": 119.300163
+                },
+                "address": "福州鼓楼区杨桥东路19号尚林苑",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "18806331133",
+                "detail": 1,
+                "uid": "b99a6ec1eed9556a2a02e192",
+                "detail_info": {
+                    "distance": 445,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b99a6ec1eed9556a2a02e192&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "她家宾馆",
+                "location": {
+                    "lat": 26.091738,
+                    "lng": 119.303483
+                },
+                "address": "福建省福州市鼓楼区杨桥东路9-11号中闽大厦",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "9fbfeef246c9615cede4a5db",
+                "telephone": "(0591)28082606",
+                "detail": 1,
+                "uid": "9fbfeef246c9615cede4a5db",
+                "detail_info": {
+                    "distance": 308,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9fbfeef246c9615cede4a5db&output=html&source=placeapi_v2",
+                    "overall_rating": "2.0",
+                    "service_rating": "2.4",
+                    "facility_rating": "2.4",
+                    "hygiene_rating": "2.4",
+                    "image_num": "6",
+                    "comment_num": "9",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "隐家·锅物专门",
+                "location": {
+                    "lat": 26.085779,
+                    "lng": 119.301255
+                },
+                "address": "福建省福州市鼓楼区三坊七巷光禄坊66-1号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "186cc87c85faa5180aa8d4b8",
+                "detail_info": {
+                    "distance": 435,
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=186cc87c85faa5180aa8d4b8&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州老船长青年旅社(东街口店)",
+                "location": {
+                    "lat": 26.091637,
+                    "lng": 119.305442
+                },
+                "address": "福州鼓楼区八一北路88号东百大厦21层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "13115921660",
+                "detail": 1,
+                "uid": "4008493b704df5c5f4e73be4",
+                "detail_info": {
+                    "distance": 339,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4008493b704df5c5f4e73be4&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州冰心雅筑住宿",
+                "location": {
+                    "lat": 26.090969,
+                    "lng": 119.302167
+                },
+                "address": "福建省福州市鼓楼区杨桥东路衣锦华庭(冰心故居旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "15800297656",
+                "detail": 1,
+                "uid": "3643253afe51c3071811d5d1",
+                "detail_info": {
+                    "distance": 274,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3643253afe51c3071811d5d1&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州栖居之舍公寓(南街分店)",
+                "location": {
+                    "lat": 26.091197,
+                    "lng": 119.302318
+                },
+                "address": "衣锦华庭(三坊七巷)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "81cd7702367614a8b6f42f7d",
+                "detail_info": {
+                    "distance": 287,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=81cd7702367614a8b6f42f7d&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州源哥-源宿普通公寓",
+                "location": {
+                    "lat": 26.090733,
+                    "lng": 119.301471
+                },
+                "address": "衣锦华庭-一期5号楼301",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "b176115c97a48fd488b988c0",
+                "telephone": "4006061230-121939",
+                "detail": 1,
+                "uid": "b176115c97a48fd488b988c0",
+                "detail_info": {
+                    "distance": 302,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b176115c97a48fd488b988c0&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "5.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "68",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "中闽大厦宾馆",
+                "location": {
+                    "lat": 26.091733,
+                    "lng": 119.303623
+                },
+                "address": "福建省福州市鼓楼区杨桥东路9-11号中闽大厦D座8-9层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "aaaa8d59f53b6467593ac825",
+                "telephone": "(0591)87501916",
+                "detail": 1,
+                "uid": "aaaa8d59f53b6467593ac825",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=aaaa8d59f53b6467593ac825&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州晨晨sunshine公寓(文北路分店)",
+                "location": {
+                    "lat": 26.0908,
+                    "lng": 119.30116
+                },
+                "address": "衣锦华庭-一期",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "dc9d8a1d5639ad26ffa7785b",
+                "detail_info": {
+                    "distance": 331,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dc9d8a1d5639ad26ffa7785b&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "5.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "49",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "喜舍",
+                "location": {
+                    "lat": 26.085772,
+                    "lng": 119.303515
+                },
+                "address": "福建省福州市鼓楼区南街永祚社巷澳门公寓西",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "8056b7e1b6f6ca9d13293588",
+                "detail": 1,
+                "uid": "8056b7e1b6f6ca9d13293588",
+                "detail_info": {
+                    "distance": 357,
+                    "tag": "酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8056b7e1b6f6ca9d13293588&output=html&source=placeapi_v2",
+                    "service_rating": "0",
+                    "facility_rating": "0",
+                    "hygiene_rating": "0",
+                    "image_num": "5",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "乐献",
+                "location": {
+                    "lat": 26.091647,
+                    "lng": 119.301348
+                },
+                "address": "元帅路与杨桥东路交叉口南50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "faddaad7f4a5c10ffa42b21d",
+                "detail_info": {
+                    "distance": 383,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=faddaad7f4a5c10ffa42b21d&output=html&source=placeapi_v2",
+                    "service_rating": "0",
+                    "facility_rating": "0",
+                    "hygiene_rating": "0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "东百坊巷大酒店-酒吧",
+                "location": {
+                    "lat": 26.091005,
+                    "lng": 119.30499
+                },
+                "address": "八一七北路88号东百洲际大酒店22层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "7c29478be19c75ed54bfff8d",
+                "detail": 1,
+                "uid": "7c29478be19c75ed54bfff8d",
+                "detail_info": {
+                    "distance": 256,
+                    "tag": "美食;酒吧",
+                    "navi_location": {
+                        "lng": 119.30483881032,
+                        "lat": 26.090987967387
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7c29478be19c75ed54bfff8d&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "大洋百货(东街店)",
+                "location": {
+                    "lat": 26.090418,
+                    "lng": 119.306901
+                },
+                "address": "福州市鼓楼区八一七北路133号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "8eb48fa1322356bff32d83d8",
+                "telephone": "(0591)88318888",
+                "detail": 1,
+                "uid": "8eb48fa1322356bff32d83d8",
+                "detail_info": {
+                    "distance": 350,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.30734654424,
+                        "lat": 26.090204230559
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8eb48fa1322356bff32d83d8&output=html&source=placeapi_v2",
+                    "price": "31666.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "国际商厦",
+                "location": {
+                    "lat": 26.09042,
+                    "lng": 119.306867
+                },
+                "address": "八一七北路133",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "d52831f908050fa72ffaa787",
+                "telephone": "(0591)88318888",
+                "detail": 1,
+                "uid": "d52831f908050fa72ffaa787",
+                "detail_info": {
+                    "distance": 347,
+                    "tag": "购物;其他",
+                    "navi_location": {
+                        "lng": 119.30715935893,
+                        "lat": 26.090794844976
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d52831f908050fa72ffaa787&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "福州东方百货(东街店)",
+                "location": {
+                    "lat": 26.092503,
+                    "lng": 119.304727
+                },
+                "address": "福州市鼓楼区杨桥东路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "d0aab6b3e2887b6cb35c6ab0",
+                "detail": 1,
+                "uid": "d0aab6b3e2887b6cb35c6ab0",
+                "detail_info": {
+                    "distance": 403,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.30443657427,
+                        "lat": 26.092733579402
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d0aab6b3e2887b6cb35c6ab0&output=html&source=placeapi_v2",
+                    "price": "575.5",
+                    "overall_rating": "4.4",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "优衣库(东百中心店)",
+                "location": {
+                    "lat": 26.090052,
+                    "lng": 119.305956
+                },
+                "address": "福建省福州市鼓楼区八一七北路114号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)87559856",
+                "detail": 1,
+                "uid": "8d10c1c17df884f4eb12e467",
+                "detail_info": {
+                    "distance": 248,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8d10c1c17df884f4eb12e467&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "45",
+                    "children": []
+                }
+            },
+            {
+                "name": "聚成堂",
+                "location": {
+                    "lat": 26.088025,
+                    "lng": 119.303568
+                },
+                "address": "福州市鼓楼区南后街49号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "e23a8bc51dba78fe0e3dda4b",
+                "detail_info": {
+                    "distance": 107,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e23a8bc51dba78fe0e3dda4b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "麒麟书局",
+                "location": {
+                    "lat": 26.087,
+                    "lng": 119.30108
+                },
+                "address": "福建省福州市鼓楼区大光里11号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)87558220",
+                "detail": 1,
+                "uid": "7ec1ecc9e1a49c3b57bfff15",
+                "detail_info": {
+                    "distance": 347,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7ec1ecc9e1a49c3b57bfff15&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "comment_num": "45",
+                    "children": []
+                }
+            },
+            {
+                "name": "猫的天空之城概念书店(福州南后街店)",
+                "location": {
+                    "lat": 26.087741,
+                    "lng": 119.303433
+                },
+                "address": "福州市鼓楼区三坊七巷南后街38号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)88133922",
+                "detail": 1,
+                "uid": "4cae681aae9a0783704b8719",
+                "detail_info": {
+                    "distance": 141,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4cae681aae9a0783704b8719&output=html&source=placeapi_v2",
+                    "price": "50.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "屈臣氏(福州大洋店)",
+                "location": {
+                    "lat": 26.090528,
+                    "lng": 119.306623
+                },
+                "address": "鼓楼区八一七北路133号国际商厦负一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "84c1bb25005afac3a2d23031",
+                "telephone": "(0591)87516990",
+                "detail": 1,
+                "uid": "84c1bb25005afac3a2d23031",
+                "detail_info": {
+                    "distance": 332,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=84c1bb25005afac3a2d23031&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "3.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州无用空间",
+                "location": {
+                    "lat": 26.087603,
+                    "lng": 119.301909
+                },
+                "address": "福州市鼓楼区文儒坊39号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "b5a5e61b09c73718f6c59cc7",
+                "telephone": "(0591)87623739",
+                "detail": 1,
+                "uid": "b5a5e61b09c73718f6c59cc7",
+                "detail_info": {
+                    "distance": 241,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b5a5e61b09c73718f6c59cc7&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "45",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州东街口地下商业街",
+                "location": {
+                    "lat": 26.091115,
+                    "lng": 119.30503
+                },
+                "address": "南街街道八一七北路88号百华大厦12层03室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "783eae9c7b684293a20464b6",
+                "detail_info": {
+                    "distance": 268,
+                    "tag": "购物;其他",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=783eae9c7b684293a20464b6&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝岛眼镜(东百品牌店)",
+                "location": {
+                    "lat": 26.09125,
+                    "lng": 119.305473
+                },
+                "address": "福州市鼓楼区八一七北路东百商场2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "5e53af1adc4eb2464051c097",
+                "telephone": "(0591)87615736",
+                "detail": 1,
+                "uid": "5e53af1adc4eb2464051c097",
+                "detail_info": {
+                    "distance": 304,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.30574849197,
+                        "lat": 26.090854528435
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5e53af1adc4eb2464051c097&output=html&source=placeapi_v2",
+                    "price": "200.0",
+                    "overall_rating": "4.6",
+                    "comment_num": "28",
+                    "children": []
+                }
+            },
+            {
+                "name": "李宁(杨桥东路二店)",
+                "location": {
+                    "lat": 26.091807,
+                    "lng": 119.303257
+                },
+                "address": "杨桥东路中闽大厦C座13号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "dfec99b9e5d6fc1e2efaa78a",
+                "telephone": "(0591)88318507",
+                "detail": 1,
+                "uid": "dfec99b9e5d6fc1e2efaa78a",
+                "detail_info": {
+                    "distance": 319,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dfec99b9e5d6fc1e2efaa78a&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "3.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "Apple授权服务商(神州科捷东百店)",
+                "location": {
+                    "lat": 26.091056,
+                    "lng": 119.30532
+                },
+                "address": "福建省福州市鼓楼区八一七北路88号东百大厦12层08A号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "b572571677513e42a1a93472",
+                "detail": 1,
+                "uid": "b572571677513e42a1a93472",
+                "detail_info": {
+                    "distance": 277,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b572571677513e42a1a93472&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "image_num": "2",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "寿山石文化城(衣锦坊)",
+                "location": {
+                    "lat": 26.090423,
+                    "lng": 119.30168
+                },
+                "address": "福建省福州市鼓楼区杨桥东路19号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "dec5f197dd6d9a54d5b74ecb",
+                "telephone": "(0591)87613988",
+                "detail": 1,
+                "uid": "dec5f197dd6d9a54d5b74ecb",
+                "detail_info": {
+                    "distance": 264,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.30090689387,
+                        "lat": 26.089850481003
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dec5f197dd6d9a54d5b74ecb&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "阿玛尼官方专卖店(福州东百店)",
+                "location": {
+                    "lat": 26.091551,
+                    "lng": 119.305383
+                },
+                "address": "福州市鼓楼区八一七北路84号东百商场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)22925337",
+                "detail": 1,
+                "uid": "c8b740ac0b4880152906cea0",
+                "detail_info": {
+                    "distance": 328,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c8b740ac0b4880152906cea0&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "12",
+                    "children": []
+                }
+            },
+            {
+                "name": "福建特产(南后街步行街店)",
+                "location": {
+                    "lat": 26.091205,
+                    "lng": 119.302858
+                },
+                "address": "福州市鼓楼区南后街133号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "39c33d5c86836df6eb12e4a7",
+                "detail": 1,
+                "uid": "39c33d5c86836df6eb12e4a7",
+                "detail_info": {
+                    "distance": 264,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=39c33d5c86836df6eb12e4a7&output=html&source=placeapi_v2",
+                    "overall_rating": "2.1",
+                    "children": []
+                }
+            },
+            {
+                "name": "屈臣氏(福州东百店)",
+                "location": {
+                    "lat": 26.091674,
+                    "lng": 119.305407
+                },
+                "address": "福建省福州市鼓楼区八一七北路84号东百中心负一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "94663d678d0e151543e1922b",
+                "telephone": "(0591)83822269",
+                "detail": 1,
+                "uid": "94663d678d0e151543e1922b",
+                "detail_info": {
+                    "distance": 341,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=94663d678d0e151543e1922b&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "29",
+                    "children": []
+                }
+            },
+            {
+                "name": "唯品会",
+                "location": {
+                    "lat": 26.088472,
+                    "lng": 119.306473
+                },
+                "address": "八一七北路183号东百C馆B1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "46afa43a2f675997b13c814c",
+                "detail_info": {
+                    "distance": 274,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=46afa43a2f675997b13c814c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.9",
+                    "comment_num": "48",
+                    "children": []
+                }
+            },
+            {
+                "name": "海澜之家(福建福州八一七北路三店)",
+                "location": {
+                    "lat": 26.08811,
+                    "lng": 119.306991
+                },
+                "address": "福州市鼓楼区八一七北路189号安泰中心A区A1-15号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)87500510",
+                "detail": 1,
+                "uid": "b1e0dcea328a239300ff2db1",
+                "detail_info": {
+                    "distance": 334,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b1e0dcea328a239300ff2db1&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "香奈儿(大洋百货店)",
+                "location": {
+                    "lat": 26.090364,
+                    "lng": 119.307002
+                },
+                "address": "福州市鼓楼区八一七北路133号大洋百货1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "a9aba562fc0ddf013262124d",
+                "telephone": "(0591)87556004",
+                "detail": 1,
+                "uid": "a9aba562fc0ddf013262124d",
+                "detail_info": {
+                    "distance": 357,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a9aba562fc0ddf013262124d&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "孝文家茶",
+                "location": {
+                    "lat": 26.088229,
+                    "lng": 119.302774
+                },
+                "address": "福州市鼓楼区三坊七巷文儒坊10号牛栏坑肉桂品鉴馆",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "15159999198",
+                "detail": 1,
+                "uid": "f54419cbfc4b9c134107c139",
+                "detail_info": {
+                    "distance": 130,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.30197380054,
+                        "lat": 26.090047401841
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f54419cbfc4b9c134107c139&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "Dior(福州东百店)",
+                "location": {
+                    "lat": 26.090985,
+                    "lng": 119.305343
+                },
+                "address": "福州市八一七北路84号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)87553855",
+                "detail": 1,
+                "uid": "a120ec317ce6d1192db17e69",
+                "detail_info": {
+                    "distance": 272,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a120ec317ce6d1192db17e69&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "17",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "天梭授权专卖店(福州东街口百货店)",
+                "location": {
+                    "lat": 26.091687,
+                    "lng": 119.305454
+                },
+                "address": "福州市鼓楼区杨桥东路8号东百中心B馆一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)87565590",
+                "detail": 1,
+                "uid": "8a373320c98e88c5c5effbae",
+                "detail_info": {
+                    "distance": 344,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8a373320c98e88c5c5effbae&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "耐克(中心织锻巷店)",
+                "location": {
+                    "lat": 26.088364,
+                    "lng": 119.306942
+                },
+                "address": "福建省福州市鼓楼区八一七北路189号安泰中心A座94号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "b9a09aeac75a456307026f6f",
+                "telephone": "(0591)87515727",
+                "detail": 1,
+                "uid": "b9a09aeac75a456307026f6f",
+                "detail_info": {
+                    "distance": 323,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b9a09aeac75a456307026f6f&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "Dior(福州大洋店)",
+                "location": {
+                    "lat": 26.090439,
+                    "lng": 119.30659
+                },
+                "address": "福州市鼓楼区八一七北路133号大洋百货(东街店)1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "14b0d4a3ffac834ced74f8da",
+                "telephone": "(0591)87678003",
+                "detail": 1,
+                "uid": "14b0d4a3ffac834ced74f8da",
+                "detail_info": {
+                    "distance": 324,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=14b0d4a3ffac834ced74f8da&output=html&source=placeapi_v2",
+                    "overall_rating": "4.6",
+                    "comment_num": "22",
+                    "children": []
+                }
+            },
+            {
+                "name": "中莉茶业(南后街步行街店)",
+                "location": {
+                    "lat": 26.090174,
+                    "lng": 119.302813
+                },
+                "address": "福州市鼓楼区南后街118号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "4ce10ce69f1069dc451a32a2",
+                "telephone": "(0591)88310832",
+                "detail": 1,
+                "uid": "4ce10ce69f1069dc451a32a2",
+                "detail_info": {
+                    "distance": 164,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.30298178916,
+                        "lat": 26.090232356746
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4ce10ce69f1069dc451a32a2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "瑞礼陶坊",
+                "location": {
+                    "lat": 26.0896,
+                    "lng": 119.304997
+                },
+                "address": "福建省福州市鼓楼区黄巷25号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "18558780869",
+                "detail": 1,
+                "uid": "371d0d51bd683413c51e51f3",
+                "detail_info": {
+                    "distance": 140,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=371d0d51bd683413c51e51f3&output=html&source=placeapi_v2",
+                    "overall_rating": "4.1",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "安踏(八一七北路店)",
+                "location": {
+                    "lat": 26.089764,
+                    "lng": 119.306527
+                },
+                "address": "八一七北路151号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "6113ef777a649a6a8e772770",
+                "detail": 1,
+                "uid": "6113ef777a649a6a8e772770",
+                "detail_info": {
+                    "distance": 288,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.30647024452,
+                        "lat": 26.09002885312
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6113ef777a649a6a8e772770&output=html&source=placeapi_v2",
+                    "overall_rating": "3.6",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "匡威(福州大洋百货店)",
+                "location": {
+                    "lat": 26.090254,
+                    "lng": 119.30688
+                },
+                "address": "福州市鼓楼区八一七北路133号大洋百货B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "9c8bafb20f06713d9e82eaac",
+                "detail_info": {
+                    "distance": 340,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9c8bafb20f06713d9e82eaac&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "Kiehl's(东百店)",
+                "location": {
+                    "lat": 26.091106,
+                    "lng": 119.305388
+                },
+                "address": "八一七北路88号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "baa1749ce9dcdf70ce04ef8b",
+                "detail_info": {
+                    "distance": 286,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=baa1749ce9dcdf70ce04ef8b&output=html&source=placeapi_v2",
+                    "overall_rating": "3.9",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "春伦名茶",
+                "location": {
+                    "lat": 26.090581,
+                    "lng": 119.302807
+                },
+                "address": "福州市鼓楼区南后街136号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "e4eff21c2fcf696ed2f49e9b",
+                "telephone": "(0591)88315136,18350072883",
+                "detail": 1,
+                "uid": "e4eff21c2fcf696ed2f49e9b",
+                "detail_info": {
+                    "distance": 203,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e4eff21c2fcf696ed2f49e9b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.6",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "DW(东街口东百中心店)",
+                "location": {
+                    "lat": 26.091106,
+                    "lng": 119.305388
+                },
+                "address": "福州市鼓楼区八一七北路88号东百中心A1馆2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "18558617815",
+                "detail": 1,
+                "uid": "01040d2ab1606101cae33cd9",
+                "detail_info": {
+                    "distance": 286,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=01040d2ab1606101cae33cd9&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "悦木之源(东百中心)",
+                "location": {
+                    "lat": 26.091275,
+                    "lng": 119.305505
+                },
+                "address": "八一七北路88号东百中心",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "9643596167c0e5472b06ce19",
+                "detail_info": {
+                    "distance": 308,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9643596167c0e5472b06ce19&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "梵·古",
+                "location": {
+                    "lat": 26.08796,
+                    "lng": 119.303387
+                },
+                "address": "福州市鼓楼区南后街50号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "(0591)88230791",
+                "detail": 1,
+                "uid": "923ffd005f680daed82f2886",
+                "detail_info": {
+                    "distance": 119,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=923ffd005f680daed82f2886&output=html&source=placeapi_v2",
+                    "overall_rating": "3.9",
+                    "comment_num": "31",
+                    "children": []
+                }
+            },
+            {
+                "name": "莎里的花",
+                "location": {
+                    "lat": 26.090733,
+                    "lng": 119.302653
+                },
+                "address": "南后街150号(杨桥东路衣锦华庭区19-3号楼底商)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "18559152873",
+                "detail": 1,
+                "uid": "314f3d12de1d8ce515a190c5",
+                "detail_info": {
+                    "distance": 225,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=314f3d12de1d8ce515a190c5&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "20",
+                    "children": []
+                }
+            },
+            {
+                "name": "wecouture福州高级订制",
+                "location": {
+                    "lat": 26.089479,
+                    "lng": 119.304535
+                },
+                "address": "三坊七巷黄巷49号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "telephone": "13067210197",
+                "detail": 1,
+                "uid": "25e211cd51e4f98bcc06a434",
+                "detail_info": {
+                    "distance": 94,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=25e211cd51e4f98bcc06a434&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "资生堂(大洋百货店)",
+                "location": {
+                    "lat": 26.090622,
+                    "lng": 119.306703
+                },
+                "address": "福州市鼓楼区八一七北路133号大洋百货F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "a38d98e9715fd0c80bccdd3a",
+                "telephone": "(0591)87678052",
+                "detail": 1,
+                "uid": "a38d98e9715fd0c80bccdd3a",
+                "detail_info": {
+                    "distance": 344,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a38d98e9715fd0c80bccdd3a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "菲拉格慕(大洋百货店)",
+                "location": {
+                    "lat": 26.090327,
+                    "lng": 119.30699
+                },
+                "address": "福州市鼓楼区八一七北路133号大洋百货F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "e4c8beaa283f5b1bfb2213ff",
+                "telephone": "(0591)88590608",
+                "detail": 1,
+                "uid": "e4c8beaa283f5b1bfb2213ff",
+                "detail_info": {
+                    "distance": 354,
+                    "tag": "购物;商铺",
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e4c8beaa283f5b1bfb2213ff&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "3.6",
+                    "comment_num": "11",
+                    "children": []
+                }
+            },
+            {
+                "name": "APM Monaco(福州东百中心店)",
+                "location": {
+                    "lat": 26.091291,
+                    "lng": 119.305511
+                },
+                "address": "八一七北路88号东百中心",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "9418c3ca5cb9225046e274a8",
+                "detail_info": {
+                    "distance": 310,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9418c3ca5cb9225046e274a8&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "雅诗兰黛(东百中心店)",
+                "location": {
+                    "lat": 26.091402,
+                    "lng": 119.305382
+                },
+                "address": "八一七北路88号东百中心A馆1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "detail": 1,
+                "uid": "e8e8315b447ceb5eb11e36fe",
+                "detail_info": {
+                    "distance": 313,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e8e8315b447ceb5eb11e36fe&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "乔丹(瑞丰楼店)",
+                "location": {
+                    "lat": 26.089016,
+                    "lng": 119.306722
+                },
+                "address": "福州市鼓楼区瑞丰楼171-2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "33512aa167628f29c51e51cf",
+                "detail": 1,
+                "uid": "33512aa167628f29c51e51cf",
+                "detail_info": {
+                    "distance": 293,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=33512aa167628f29c51e51cf&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "19八3",
+                "location": {
+                    "lat": 26.087514,
+                    "lng": 119.303469
+                },
+                "address": "福州市鼓楼区南后街28号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "鼓楼区",
+                "street_id": "bfa173f1ba6806fadb1318e2",
+                "detail": 1,
+                "uid": "bfa173f1ba6806fadb1318e2",
+                "detail_info": {
+                    "distance": 165,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bfa173f1ba6806fadb1318e2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "15",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}

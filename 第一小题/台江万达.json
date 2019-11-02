@@ -1,0 +1,2644 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "阿肥发扁食(万达广场店)",
+                "location": {
+                    "lat": 26.059587,
+                    "lng": 119.349217
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "beb0a8ced4e6cce2d9ecedfe",
+                "detail": 1,
+                "uid": "beb0a8ced4e6cce2d9ecedfe",
+                "detail_info": {
+                    "distance": 89,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=beb0a8ced4e6cce2d9ecedfe&output=html&source=placeapi_v2",
+                    "price": "12.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "鹅媳妇(鳌峰店)",
+                "location": {
+                    "lat": 26.061446,
+                    "lng": 119.345176
+                },
+                "address": "福建省福州市台江区鳌峰街道光明路2号榕江新天地1号楼14店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "9750d9bf7febe1fbcc06a421",
+                "telephone": "(0591)83896990,18950474115",
+                "detail": 1,
+                "uid": "9750d9bf7febe1fbcc06a421",
+                "detail_info": {
+                    "distance": 378,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9750d9bf7febe1fbcc06a421&output=html&source=placeapi_v2",
+                    "price": "18.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "32",
+                    "children": []
+                }
+            },
+            {
+                "name": "必胜客(鳌江万达餐厅)",
+                "location": {
+                    "lat": 26.057948,
+                    "lng": 119.349231
+                },
+                "address": "福州市台江区鳌江路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "d0b8923fd9a339fbb5f42f15",
+                "telephone": "(0591)63037711",
+                "detail": 1,
+                "uid": "d0b8923fd9a339fbb5f42f15",
+                "detail_info": {
+                    "distance": 261,
+                    "tag": "美食;外国餐厅",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F2",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d0b8923fd9a339fbb5f42f15&output=html&source=placeapi_v2",
+                    "price": "85.0",
+                    "overall_rating": "3.8",
+                    "comment_num": "54",
+                    "children": []
+                }
+            },
+            {
+                "name": "良面(万达广场店)",
+                "location": {
+                    "lat": 26.057927,
+                    "lng": 119.348726
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "c04b3549a1f3bd101d580043",
+                "telephone": "15280186585",
+                "detail": 1,
+                "uid": "c04b3549a1f3bd101d580043",
+                "detail_info": {
+                    "distance": 258,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c04b3549a1f3bd101d580043&output=html&source=placeapi_v2",
+                    "price": "30.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "31",
+                    "children": []
+                }
+            },
+            {
+                "name": "沙县小吃(台江万达店)",
+                "location": {
+                    "lat": 26.059519,
+                    "lng": 119.351688
+                },
+                "address": "鳌峰路76—8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "576462cd4aceaf5025e0a0c3",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=576462cd4aceaf5025e0a0c3&output=html&source=placeapi_v2",
+                    "price": "12.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "又卷烧饼(万达广场店)",
+                "location": {
+                    "lat": 26.058928,
+                    "lng": 119.349748
+                },
+                "address": "福州市台江区鳌江路8号万达广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "a386fadfc7b6f789e812e4cc",
+                "telephone": "15160118841",
+                "detail": 1,
+                "uid": "a386fadfc7b6f789e812e4cc",
+                "detail_info": {
+                    "distance": 179,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F3",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a386fadfc7b6f789e812e4cc&output=html&source=placeapi_v2",
+                    "price": "12.0",
+                    "overall_rating": "4.4",
+                    "comment_num": "21",
+                    "children": []
+                }
+            },
+            {
+                "name": "一品轩黄焖鸡米饭(台江万达广场店)",
+                "location": {
+                    "lat": 26.058099,
+                    "lng": 119.348874
+                },
+                "address": "鳌峰街道鳌江路8号福州金融街万达广场二期A区商场2层154号商铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "adc9978767127bcaab0dd835",
+                "telephone": "18065169853",
+                "detail": 1,
+                "uid": "adc9978767127bcaab0dd835",
+                "detail_info": {
+                    "distance": 240,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=adc9978767127bcaab0dd835&output=html&source=placeapi_v2",
+                    "price": "20.0",
+                    "overall_rating": "4.7",
+                    "comment_num": "78",
+                    "children": []
+                }
+            },
+            {
+                "name": "老北京卤肉卷(台江万达店)",
+                "location": {
+                    "lat": 26.059122,
+                    "lng": 119.350012
+                },
+                "address": "鳌峰路福州金融街万达广场一层11店铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "b451a4e3a9a23bcd270bd0b7",
+                "telephone": "15659144531",
+                "detail": 1,
+                "uid": "b451a4e3a9a23bcd270bd0b7",
+                "detail_info": {
+                    "distance": 180,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b451a4e3a9a23bcd270bd0b7&output=html&source=placeapi_v2",
+                    "price": "10.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "20",
+                    "children": []
+                }
+            },
+            {
+                "name": "一点味(万达广场店)",
+                "location": {
+                    "lat": 26.05922,
+                    "lng": 119.348861
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "3cd938357b52d75c40ab9a8d",
+                "telephone": "(0591)83657882",
+                "detail": 1,
+                "uid": "3cd938357b52d75c40ab9a8d",
+                "detail_info": {
+                    "distance": 115,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3cd938357b52d75c40ab9a8d&output=html&source=placeapi_v2",
+                    "price": "23.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "天久王炝肉(万达广场店)",
+                "location": {
+                    "lat": 26.059401,
+                    "lng": 119.348722
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "18050780062",
+                "detail": 1,
+                "uid": "e58eaf2877fb55503fe231e1",
+                "detail_info": {
+                    "distance": 94,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e58eaf2877fb55503fe231e1&output=html&source=placeapi_v2",
+                    "price": "29.0",
+                    "overall_rating": "3.7",
+                    "comment_num": "12",
+                    "children": []
+                }
+            },
+            {
+                "name": "草本汤(台江万达店)",
+                "location": {
+                    "lat": 26.061409,
+                    "lng": 119.34537
+                },
+                "address": "福州市台江区鳌峰街道光明路2号榕江新天地小区1号楼1层12号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "18859326918",
+                "detail": 1,
+                "uid": "a75a954592a803ec71455bfe",
+                "detail_info": {
+                    "distance": 358,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a75a954592a803ec71455bfe&output=html&source=placeapi_v2",
+                    "price": "19.0",
+                    "overall_rating": "3.6",
+                    "comment_num": "17",
+                    "children": []
+                }
+            },
+            {
+                "name": "渝和重庆小面(万达广场店)",
+                "location": {
+                    "lat": 26.059067,
+                    "lng": 119.34869
+                },
+                "address": "福州市台江区鳌江路8号万达广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "cc529e9d31a26b8fa80dd8cd",
+                "detail": 1,
+                "uid": "cc529e9d31a26b8fa80dd8cd",
+                "detail_info": {
+                    "distance": 132,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F2",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cc529e9d31a26b8fa80dd8cd&output=html&source=placeapi_v2",
+                    "price": "13.5",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "汉堡王(鳌峰广场APM餐厅)",
+                "location": {
+                    "lat": 26.061926,
+                    "lng": 119.344468
+                },
+                "address": "福州市台江区鳌峰路10号APM商场1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)38259232",
+                "detail": 1,
+                "uid": "5920a884256112a18433043e",
+                "detail_info": {
+                    "distance": 463,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5920a884256112a18433043e&output=html&source=placeapi_v2",
+                    "price": "30.0",
+                    "overall_rating": "3.8",
+                    "comment_num": "61",
+                    "children": []
+                }
+            },
+            {
+                "name": "福鼎美食(万达广场店)",
+                "location": {
+                    "lat": 26.057301,
+                    "lng": 119.348125
+                },
+                "address": "福州市台江区鳌江路8号万达广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)88230713",
+                "detail": 1,
+                "uid": "ffde90fe6c63b9ed2d4733ce",
+                "detail_info": {
+                    "distance": 333,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.34773506782,
+                        "lat": 26.05710457718
+                    },
+                    "indoor_floor": "F2",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ffde90fe6c63b9ed2d4733ce&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "万家食谈(万达广场店)",
+                "location": {
+                    "lat": 26.057367,
+                    "lng": 119.348571
+                },
+                "address": "鳌峰路8号万达广场金街2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)88230713,18650999943",
+                "detail": 1,
+                "uid": "7957552b2131c18ccf06a4d9",
+                "detail_info": {
+                    "distance": 321,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7957552b2131c18ccf06a4d9&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "淳百味(三桥店)",
+                "location": {
+                    "lat": 26.061354,
+                    "lng": 119.345593
+                },
+                "address": "亚峰路北侧榕江新天地一幢一层6号店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "a634d38caa110a93a0acc476",
+                "telephone": "18850370185",
+                "detail": 1,
+                "uid": "a634d38caa110a93a0acc476",
+                "detail_info": {
+                    "distance": 335,
+                    "tag": "美食;小吃快餐店",
+                    "navi_location": {
+                        "lng": 119.34612991804,
+                        "lat": 26.061952322666
+                    },
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a634d38caa110a93a0acc476&output=html&source=placeapi_v2",
+                    "price": "13.0",
+                    "overall_rating": "1.8",
+                    "comment_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "渔夫恋上鱼",
+                "location": {
+                    "lat": 26.05808,
+                    "lng": 119.348768
+                },
+                "address": "福州市台江区鳌峰路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "cdfd6e82a7d0d1dbd8d89106",
+                "detail_info": {
+                    "distance": 241,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cdfd6e82a7d0d1dbd8d89106&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "山姆大院",
+                "location": {
+                    "lat": 26.058961,
+                    "lng": 119.351206
+                },
+                "address": "福州市台江区鳌峰路35号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "1a51c3e7fd94113bc51e51c1",
+                "telephone": "(0591)88079883",
+                "detail": 1,
+                "uid": "1a51c3e7fd94113bc51e51c1",
+                "detail_info": {
+                    "distance": 286,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a51c3e7fd94113bc51e51c1&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "味美宣(台江万达店)",
+                "location": {
+                    "lat": 26.061409,
+                    "lng": 119.34537
+                },
+                "address": "鳌峰街道光明路2号榕江新天地小区1号楼13店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "63661c15af0af87ab2077d23",
+                "telephone": "13515068655",
+                "detail": 1,
+                "uid": "e4c92097c9ea3aec40afe621",
+                "detail_info": {
+                    "distance": 358,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e4c92097c9ea3aec40afe621&output=html&source=placeapi_v2",
+                    "price": "15.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "44",
+                    "children": []
+                }
+            },
+            {
+                "name": "安德鲁森(鳌港苑店)",
+                "location": {
+                    "lat": 26.063331,
+                    "lng": 119.352343
+                },
+                "address": "鳌峰街道鳌光路130号鳌港苑1楼1层09店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "f879563c82d1b08dbbbd63ce",
+                "telephone": "(0591)83510207",
+                "detail": 1,
+                "uid": "f879563c82d1b08dbbbd63ce",
+                "detail_info": {
+                    "distance": 497,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f879563c82d1b08dbbbd63ce&output=html&source=placeapi_v2",
+                    "price": "14.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "鲁依斯牛排馆(金融街万达店)",
+                "location": {
+                    "lat": 26.058681,
+                    "lng": 119.350159
+                },
+                "address": "鳌峰路金融街万达广场2楼肯德基旁",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "376d253f6752fed3220220fc",
+                "detail_info": {
+                    "distance": 226,
+                    "tag": "美食;外国餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=376d253f6752fed3220220fc&output=html&source=placeapi_v2",
+                    "price": "51.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "Gider Drink",
+                "location": {
+                    "lat": 26.058088,
+                    "lng": 119.349193
+                },
+                "address": "福州市台江区鳌峰路31号万达广场3F层3-51",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "fa2e13b101cbad7aa8f0cd84",
+                "detail_info": {
+                    "distance": 245,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fa2e13b101cbad7aa8f0cd84&output=html&source=placeapi_v2",
+                    "price": "19.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "蜜熊工坊",
+                "location": {
+                    "lat": 26.059131,
+                    "lng": 119.350092
+                },
+                "address": "金街鳌峰路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "13559111098",
+                "detail": 1,
+                "uid": "6964e2fef003ba8cb320a8a9",
+                "detail_info": {
+                    "distance": 185,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6964e2fef003ba8cb320a8a9&output=html&source=placeapi_v2",
+                    "overall_rating": "4.4",
+                    "image_num": "3",
+                    "comment_num": "21",
+                    "children": []
+                }
+            },
+            {
+                "name": "85度C(万达广场店)",
+                "location": {
+                    "lat": 26.059646,
+                    "lng": 119.349032
+                },
+                "address": "福州市台江区鳌江路8号万达广场室外步行街39-41号铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "a3e8341c1cbeef8c4afd3f58",
+                "telephone": "(0591)85300185",
+                "detail": 1,
+                "uid": "a3e8341c1cbeef8c4afd3f58",
+                "detail_info": {
+                    "distance": 74,
+                    "tag": "美食;蛋糕甜品店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a3e8341c1cbeef8c4afd3f58&output=html&source=placeapi_v2",
+                    "price": "13.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "73",
+                    "children": []
+                }
+            },
+            {
+                "name": "星巴克(升龙汇金店)",
+                "location": {
+                    "lat": 26.060018,
+                    "lng": 119.346598
+                },
+                "address": "台江区光明南路1号升龙大厦商业附属楼一层01集中式商业01单元",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "84b80fecfd33d534b35c6a00",
+                "detail_info": {
+                    "distance": 213,
+                    "tag": "美食;咖啡厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=84b80fecfd33d534b35c6a00&output=html&source=placeapi_v2",
+                    "price": "32.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "乡约小镇(万达广场店)",
+                "location": {
+                    "lat": 26.058877,
+                    "lng": 119.348648
+                },
+                "address": "福州市台江区鳌江路8号万达广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "6c4a35e4af1b5689bb17e7a4",
+                "telephone": "(0591)88235007",
+                "detail": 1,
+                "uid": "6c4a35e4af1b5689bb17e7a4",
+                "detail_info": {
+                    "distance": 153,
+                    "tag": "美食;中餐厅",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F2",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6c4a35e4af1b5689bb17e7a4&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "KOIThé(金融街万达内场店)",
+                "location": {
+                    "lat": 26.058253,
+                    "lng": 119.349342
+                },
+                "address": "福州金融街万达广场2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "cb5d14d8f7df3946715e8087",
+                "detail": 1,
+                "uid": "cb5d14d8f7df3946715e8087",
+                "detail_info": {
+                    "distance": 231,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cb5d14d8f7df3946715e8087&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "26",
+                    "children": []
+                }
+            },
+            {
+                "name": "沐小优·蛋包饭",
+                "location": {
+                    "lat": 26.062242,
+                    "lng": 119.345549
+                },
+                "address": "福建省福州市台江区鳌峰街道光明路2号榕江新天地小区3楼11店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "29caa5e3268c4899b75f1e39",
+                "telephone": "18860125913",
+                "detail": 1,
+                "uid": "29caa5e3268c4899b75f1e39",
+                "detail_info": {
+                    "distance": 386,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=29caa5e3268c4899b75f1e39&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "CoCo都可茶饮(万达广场店)",
+                "location": {
+                    "lat": 26.058898,
+                    "lng": 119.349891
+                },
+                "address": "福州市台江区鳌江路8号万达广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "ea54a87194ae8eef1811d59d",
+                "telephone": "18559856067",
+                "detail": 1,
+                "uid": "ea54a87194ae8eef1811d59d",
+                "detail_info": {
+                    "distance": 190,
+                    "tag": "美食;蛋糕甜品店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F3",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ea54a87194ae8eef1811d59d&output=html&source=placeapi_v2",
+                    "price": "10.0",
+                    "overall_rating": "4.5",
+                    "comment_num": "117",
+                    "children": []
+                }
+            },
+            {
+                "name": "品牛会潮汕牛肉火锅(鳌港店)",
+                "location": {
+                    "lat": 26.062973,
+                    "lng": 119.352698
+                },
+                "address": "福建省福州市台江区鳌光路93号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "13799993524",
+                "detail": 1,
+                "uid": "c3f45f35de273591744ff16d",
+                "detail_info": {
+                    "distance": 498,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c3f45f35de273591744ff16d&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州富力威斯汀酒店",
+                "location": {
+                    "lat": 26.056911,
+                    "lng": 119.348945
+                },
+                "address": "福州市台江区江滨中大道366号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "69fcd6df9af27736cb291585",
+                "telephone": "(0591)88111111",
+                "detail": 1,
+                "uid": "69fcd6df9af27736cb291585",
+                "detail_info": {
+                    "distance": 372,
+                    "tag": "酒店;星级酒店",
+                    "navi_location": {
+                        "lng": 119.348952208,
+                        "lat": 26.05666002701
+                    },
+                    "indoor_floor": "F1",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=69fcd6df9af27736cb291585&output=html&source=placeapi_v2",
+                    "price": "703.0",
+                    "overall_rating": "4.4",
+                    "service_rating": "4.6",
+                    "facility_rating": "4.6",
+                    "hygiene_rating": "4.6",
+                    "image_num": "100",
+                    "comment_num": "500",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "锦江都城酒店(台江万达广场店)",
+                "location": {
+                    "lat": 26.057853,
+                    "lng": 119.348306
+                },
+                "address": "福州市台江区曙光路193号金融街万达广场C3幢内",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "8f1509c791e008d72dfaa71e",
+                "telephone": "(0591)88215666",
+                "detail": 1,
+                "uid": "8f1509c791e008d72dfaa71e",
+                "detail_info": {
+                    "distance": 270,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.34795362645,
+                        "lat": 26.057869425553
+                    },
+                    "indoor_floor": "F1",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8f1509c791e008d72dfaa71e&output=html&source=placeapi_v2",
+                    "price": "324.0",
+                    "overall_rating": "4.2",
+                    "service_rating": "4.6",
+                    "facility_rating": "4.6",
+                    "hygiene_rating": "4.6",
+                    "image_num": "100",
+                    "comment_num": "59",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "丽芳酒店公寓",
+                "location": {
+                    "lat": 26.059272,
+                    "lng": 119.348586
+                },
+                "address": "福建省福州市台江区金融街万达广场C1座5楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "15985795501",
+                "detail": 1,
+                "uid": "8f39a6dd9263be1cd7851f3f",
+                "detail_info": {
+                    "distance": 110,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8f39a6dd9263be1cd7851f3f&output=html&source=placeapi_v2",
+                    "price": "138.0",
+                    "overall_rating": "4.2",
+                    "service_rating": "4.9",
+                    "facility_rating": "4.9",
+                    "hygiene_rating": "4.9",
+                    "image_num": "31",
+                    "comment_num": "10",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "佰诚酒店(台江万达店)",
+                "location": {
+                    "lat": 26.064036,
+                    "lng": 119.34702
+                },
+                "address": "福建省福州市台江区光明路11号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "a478cd1375c75135f33cbadd",
+                "telephone": "(0591)28302333",
+                "detail": 1,
+                "uid": "a478cd1375c75135f33cbadd",
+                "detail_info": {
+                    "distance": 453,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.34676216882,
+                        "lat": 26.063964475714
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a478cd1375c75135f33cbadd&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "service_rating": "4.4",
+                    "facility_rating": "4.4",
+                    "hygiene_rating": "4.4",
+                    "image_num": "60",
+                    "comment_num": "17",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "喆啡酒店(万达广场店)",
+                "location": {
+                    "lat": 26.057107,
+                    "lng": 119.348182
+                },
+                "address": "福建省福州市台江区江滨中大道365号万达广场C4#",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)87575188",
+                "detail": 1,
+                "uid": "dbb2bdf53a8d79f8980050b5",
+                "detail_info": {
+                    "distance": 354,
+                    "tag": "酒店;快捷酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dbb2bdf53a8d79f8980050b5&output=html&source=placeapi_v2",
+                    "overall_rating": "4.7",
+                    "service_rating": "4.3",
+                    "facility_rating": "4.2",
+                    "hygiene_rating": "4.3",
+                    "image_num": "1",
+                    "comment_num": "5",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "青年旅舍(福州金融街万达店)",
+                "location": {
+                    "lat": 26.056499,
+                    "lng": 119.350769
+                },
+                "address": "福建省福州市台江区江滨中大道369号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "94dcf49a2f7fc394bea240f4",
+                "detail": 1,
+                "uid": "94dcf49a2f7fc394bea240f4",
+                "detail_info": {
+                    "distance": 464,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=94dcf49a2f7fc394bea240f4&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州万达寓邦乐家酒店式公寓",
+                "location": {
+                    "lat": 26.059156,
+                    "lng": 119.348459
+                },
+                "address": "福建省福州市台江区金融街万达广场C1座",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "4006061230-45534",
+                "detail": 1,
+                "uid": "7e35ebacec7eaeaac056acb5",
+                "detail_info": {
+                    "distance": 125,
+                    "tag": "酒店;公寓式酒店",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7e35ebacec7eaeaac056acb5&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "0.0",
+                    "service_rating": "0.0",
+                    "facility_rating": "0.0",
+                    "hygiene_rating": "0.0",
+                    "image_num": "16",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "万达广场(福州金融街店)",
+                "location": {
+                    "lat": 26.058193,
+                    "lng": 119.349295
+                },
+                "address": "福州市台江区鳌江路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "3f826ed39b0f125fd0f49e87",
+                "detail": 1,
+                "uid": "08f1f1f52cc7bbd389db73f5",
+                "detail_info": {
+                    "distance": 236,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=08f1f1f52cc7bbd389db73f5&output=html&source=placeapi_v2",
+                    "price": "1100.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "英伦眼镜(万达广场店)",
+                "location": {
+                    "lat": 26.059593,
+                    "lng": 119.349388
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "e116be544591a962c91b9540",
+                "telephone": "(0591)88501988",
+                "detail": 1,
+                "uid": "e116be544591a962c91b9540",
+                "detail_info": {
+                    "distance": 99,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e116be544591a962c91b9540&output=html&source=placeapi_v2",
+                    "price": "244.0",
+                    "overall_rating": "4.8",
+                    "comment_num": "50",
+                    "children": []
+                }
+            },
+            {
+                "name": "万达百货(鳌江路)",
+                "location": {
+                    "lat": 26.05789,
+                    "lng": 119.349608
+                },
+                "address": "福建省福州市台江区鳌江路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "80fe59fe6e3a0ce51fe99933",
+                "detail": 1,
+                "uid": "80fe59fe6e3a0ce51fe99933",
+                "detail_info": {
+                    "distance": 277,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=80fe59fe6e3a0ce51fe99933&output=html&source=placeapi_v2",
+                    "price": "444.5",
+                    "overall_rating": "4.4",
+                    "comment_num": "50",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "屈臣氏(福州万达店)",
+                "location": {
+                    "lat": 26.059075,
+                    "lng": 119.349821
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "554f3afa03fb6e98f60e7750",
+                "telephone": "(0591)88359257",
+                "detail": 1,
+                "uid": "554f3afa03fb6e98f60e7750",
+                "detail_info": {
+                    "distance": 170,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=554f3afa03fb6e98f60e7750&output=html&source=placeapi_v2",
+                    "price": "67.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "19",
+                    "children": []
+                }
+            },
+            {
+                "name": "迪卡侬(鳌峰店)",
+                "location": {
+                    "lat": 26.061837,
+                    "lng": 119.344688
+                },
+                "address": "福州市台江区鳌峰路鳌峰广场2号楼1-2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "db095d207a9ce07a4c3a5989",
+                "telephone": "(0591)83309800",
+                "detail": 1,
+                "uid": "db095d207a9ce07a4c3a5989",
+                "detail_info": {
+                    "distance": 439,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34454605361,
+                        "lat": 26.061378157745
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=db095d207a9ce07a4c3a5989&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "8",
+                    "children": []
+                }
+            },
+            {
+                "name": "永辉超市(台江万达店)",
+                "location": {
+                    "lat": 26.058013,
+                    "lng": 119.349124
+                },
+                "address": "福州市台江区鳌峰路福州金融街万达广场负一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "eca8495af26faf6d4f3a5916",
+                "telephone": "(0591)83621027",
+                "detail": 1,
+                "uid": "eca8495af26faf6d4f3a5916",
+                "detail_info": {
+                    "distance": 252,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.3480596777,
+                        "lat": 26.0582263839
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=eca8495af26faf6d4f3a5916&output=html&source=placeapi_v2",
+                    "overall_rating": "4.1",
+                    "comment_num": "16",
+                    "children": []
+                }
+            },
+            {
+                "name": "ZARA(台江万达广场店)",
+                "location": {
+                    "lat": 26.058766,
+                    "lng": 119.349577
+                },
+                "address": "福州市台江区鳌江路8号万达广场1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "a1418eb4f5580b66ebe582c3",
+                "telephone": "(0591)88359420",
+                "detail": 1,
+                "uid": "a1418eb4f5580b66ebe582c3",
+                "detail_info": {
+                    "distance": 186,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a1418eb4f5580b66ebe582c3&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.2",
+                    "comment_num": "26",
+                    "children": []
+                }
+            },
+            {
+                "name": "优衣库(金融街万达广场店)",
+                "location": {
+                    "lat": 26.058482,
+                    "lng": 119.34909
+                },
+                "address": "福建省福州市台江区鳌峰路8号福州金融街万达广场1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)83211960",
+                "detail": 1,
+                "uid": "563e15a3aeb2a5c9283a9fcc",
+                "detail_info": {
+                    "distance": 200,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=563e15a3aeb2a5c9283a9fcc&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "29",
+                    "children": []
+                }
+            },
+            {
+                "name": "孩子王(万达广场店)",
+                "location": {
+                    "lat": 26.057591,
+                    "lng": 119.349541
+                },
+                "address": "福州市台江区鳌江路8号万达广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "f33ebf8cc344732fbda24098",
+                "telephone": "(0591)83817760,(0591)83817761",
+                "detail": 1,
+                "uid": "f33ebf8cc344732fbda24098",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f33ebf8cc344732fbda24098&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "12",
+                    "children": []
+                }
+            },
+            {
+                "name": "国美电器(福州万达店)",
+                "location": {
+                    "lat": 26.058685,
+                    "lng": 119.350047
+                },
+                "address": "福建省福州市台江区鳌峰路31号万达广场B1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)38102281",
+                "detail": 1,
+                "uid": "cb88d451f535f9efe5073873",
+                "detail_info": {
+                    "distance": 218,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cb88d451f535f9efe5073873&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "孝文家茶 福州旗舰店",
+                "location": {
+                    "lat": 26.057153,
+                    "lng": 119.347957
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "8173cc96eaaa09f0b6147f22",
+                "detail_info": {
+                    "distance": 353,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34773506692,
+                        "lat": 26.05710457718
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8173cc96eaaa09f0b6147f22&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "海澜之家(万达广场店)",
+                "location": {
+                    "lat": 26.058607,
+                    "lng": 119.349604
+                },
+                "address": "金融街万达广场二楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "7afcc2820fd980c207026fd2",
+                "detail_info": {
+                    "distance": 203,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7afcc2820fd980c207026fd2&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "钓具上州屋(福州店)",
+                "location": {
+                    "lat": 26.064025,
+                    "lng": 119.347005
+                },
+                "address": "福州市台江区光明路11号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "c7a41a9c3e101fe84f3a5964",
+                "telephone": "(0591)88001019",
+                "detail": 1,
+                "uid": "c7a41a9c3e101fe84f3a5964",
+                "detail_info": {
+                    "distance": 453,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c7a41a9c3e101fe84f3a5964&output=html&source=placeapi_v2",
+                    "overall_rating": "3.7",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "耐克(万达广场店)",
+                "location": {
+                    "lat": 26.057598,
+                    "lng": 119.349776
+                },
+                "address": "福建省福州市台江区鳌峰路万达广场4F层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "1a8d3eb7ef8ecb03d81318e4",
+                "telephone": "(0591)83255267",
+                "detail": 1,
+                "uid": "1a8d3eb7ef8ecb03d81318e4",
+                "detail_info": {
+                    "distance": 313,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a8d3eb7ef8ecb03d81318e4&output=html&source=placeapi_v2",
+                    "overall_rating": "3.7",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "启程办公文具用品店",
+                "location": {
+                    "lat": 26.061836,
+                    "lng": 119.345636
+                },
+                "address": "台江区光明路2号榕江新天地2座一层05间",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "15980219299,(0591)83790395",
+                "detail": 1,
+                "uid": "36abb3afc4e4084dfea778cb",
+                "detail_info": {
+                    "distance": 355,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=36abb3afc4e4084dfea778cb&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "艺桥琴行(万达广场店)",
+                "location": {
+                    "lat": 26.05962,
+                    "lng": 119.349265
+                },
+                "address": "福州市台江区鳌江路8号万达广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "f8c3b8a600fdf448d5b74e45",
+                "telephone": "(0591)83856753,18060585756",
+                "detail": 1,
+                "uid": "f8c3b8a600fdf448d5b74e45",
+                "detail_info": {
+                    "distance": 88,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f8c3b8a600fdf448d5b74e45&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "苏宁易购广场(福州金融街店)",
+                "location": {
+                    "lat": 26.057989,
+                    "lng": 119.349912
+                },
+                "address": "鳌峰路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "079d87d74bcfb4bda2a934da",
+                "detail_info": {
+                    "distance": 278,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=079d87d74bcfb4bda2a934da&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "瓜果城",
+                "location": {
+                    "lat": 26.063786,
+                    "lng": 119.347023
+                },
+                "address": "福建省福州市台江区鳌峰路18号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "b6f315a90d4a47764d2fdf55",
+                "detail": 1,
+                "uid": "b6f315a90d4a47764d2fdf55",
+                "detail_info": {
+                    "distance": 427,
+                    "tag": "购物;市场",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b6f315a90d4a47764d2fdf55&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "宝岛眼镜(万达广场店)",
+                "location": {
+                    "lat": 26.059159,
+                    "lng": 119.350105
+                },
+                "address": "福州市台江区金融街万达广场步行街1层131-132号铺",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "1a52e33c148d0f8842d63eb6",
+                "telephone": "(0591)88315170",
+                "detail": 1,
+                "uid": "1a52e33c148d0f8842d63eb6",
+                "detail_info": {
+                    "distance": 184,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a52e33c148d0f8842d63eb6&output=html&source=placeapi_v2",
+                    "price": "603.5",
+                    "overall_rating": "4.7",
+                    "comment_num": "25",
+                    "children": []
+                }
+            },
+            {
+                "name": "旺达五金水暖店",
+                "location": {
+                    "lat": 26.060803,
+                    "lng": 119.347373
+                },
+                "address": "福建省福州市台江区鳌峰路50号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "9e7c7c94510067b131f71dcc",
+                "telephone": "13067104222",
+                "detail": 1,
+                "uid": "9e7c7c94510067b131f71dcc",
+                "detail_info": {
+                    "distance": 148,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.34718201345,
+                        "lat": 26.060785194449
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9e7c7c94510067b131f71dcc&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "5.0",
+                    "comment_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "北果交易区",
+                "location": {
+                    "lat": 26.062766,
+                    "lng": 119.345775
+                },
+                "address": "福建省福州市台江区光明路9-3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "641549affd9b485d3904b1fe",
+                "detail_info": {
+                    "distance": 405,
+                    "tag": "购物;市场",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=641549affd9b485d3904b1fe&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "鸿星尔克(万达广场店)",
+                "location": {
+                    "lat": 26.058944,
+                    "lng": 119.34985
+                },
+                "address": "福州市台江区鳌江路8号万达广场B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "3d451ad658e8eb3cd518b755",
+                "detail_info": {
+                    "distance": 184,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3d451ad658e8eb3cd518b755&output=html&source=placeapi_v2",
+                    "overall_rating": "2.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "周大福(万达广场店)",
+                "location": {
+                    "lat": 26.057456,
+                    "lng": 119.349841
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "e8df694d46b349d603ff2d3d",
+                "detail": 1,
+                "uid": "e8df694d46b349d603ff2d3d",
+                "detail_info": {
+                    "distance": 330,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e8df694d46b349d603ff2d3d&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "永辉超级物种(宇洋CBD店)",
+                "location": {
+                    "lat": 26.059317,
+                    "lng": 119.347809
+                },
+                "address": "曙光路118号宇洋中央金座1层02-01号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "47f433a6bd485cbe6ea3cc83",
+                "detail_info": {
+                    "distance": 138,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=47f433a6bd485cbe6ea3cc83&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "六意连锁便利(鳌峰店)",
+                "location": {
+                    "lat": 26.061352,
+                    "lng": 119.345718
+                },
+                "address": "福建省福州市台江区鳌峰街道光明路2号市榕江新天地小区1栋3号店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "e88ac1a9c341ecee88b98875",
+                "detail": 1,
+                "uid": "e88ac1a9c341ecee88b98875",
+                "detail_info": {
+                    "distance": 324,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e88ac1a9c341ecee88b98875&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "库·BEER世界精酿酒库(万达广场店)",
+                "location": {
+                    "lat": 26.057272,
+                    "lng": 119.348224
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "18060505000",
+                "detail": 1,
+                "uid": "e7c8e3c51ebedf2ea2a9341c",
+                "detail_info": {
+                    "distance": 335,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e7c8e3c51ebedf2ea2a9341c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.9",
+                    "comment_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "南京文交所钱币邮票交易体验中心",
+                "location": {
+                    "lat": 26.057405,
+                    "lng": 119.348007
+                },
+                "address": "万达广场1F-125,万达广场1F-126",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "2d603fb20e62d84f213bf272",
+                "detail": 1,
+                "uid": "2d603fb20e62d84f213bf272",
+                "detail_info": {
+                    "distance": 324,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34783931527,
+                        "lat": 26.05745520496
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2d603fb20e62d84f213bf272&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "天梭授权专卖店(福州闽江万达百货店)",
+                "location": {
+                    "lat": 26.057966,
+                    "lng": 119.349863
+                },
+                "address": "福州市台江区敖峰路31号万达广场万千百货1楼天梭手表专柜",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "068fea774c58332b0582c21e",
+                "detail_info": {
+                    "distance": 278,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=068fea774c58332b0582c21e&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "森马(万达广场店)",
+                "location": {
+                    "lat": 26.05799,
+                    "lng": 119.349534
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "eab82539cd484c3fd618b75c",
+                "detail": 1,
+                "uid": "eab82539cd484c3fd618b75c",
+                "detail_info": {
+                    "distance": 264,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=eab82539cd484c3fd618b75c&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "光合制茶(台江万达店)",
+                "location": {
+                    "lat": 26.059431,
+                    "lng": 119.350025
+                },
+                "address": "福州市台江区鳌江路203号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "13799950079",
+                "detail": 1,
+                "uid": "413d154e0b2ddc81aa059d32",
+                "detail_info": {
+                    "distance": 158,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=413d154e0b2ddc81aa059d32&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "comment_num": "35",
+                    "children": []
+                }
+            },
+            {
+                "name": "华祥苑茗茶(万达广场店)",
+                "location": {
+                    "lat": 26.057563,
+                    "lng": 119.348111
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "853b57460bc329d25abbbcbf",
+                "detail": 1,
+                "uid": "853b57460bc329d25abbbcbf",
+                "detail_info": {
+                    "distance": 305,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=853b57460bc329d25abbbcbf&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "熹茗茶业(万达广场店)",
+                "location": {
+                    "lat": 26.057479,
+                    "lng": 119.348368
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "7c7edfb197d4f0b8f50e7789",
+                "detail_info": {
+                    "distance": 310,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7c7edfb197d4f0b8f50e7789&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "1919酒类直供(万达广场店)",
+                "location": {
+                    "lat": 26.057528,
+                    "lng": 119.348098
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "bed456f5f037d6af223bf29a",
+                "telephone": "(0591)83252237",
+                "detail": 1,
+                "uid": "bed456f5f037d6af223bf29a",
+                "detail_info": {
+                    "distance": 309,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34793850617,
+                        "lat": 26.057814526825
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bed456f5f037d6af223bf29a&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "诚言成数码(万达广场店)",
+                "location": {
+                    "lat": 26.059468,
+                    "lng": 119.34982
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "92aa918970a3aa628f55ec8c",
+                "detail": 1,
+                "uid": "92aa918970a3aa628f55ec8c",
+                "detail_info": {
+                    "distance": 140,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=92aa918970a3aa628f55ec8c&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "匡威(福州万达广场苏宁百货专卖店)",
+                "location": {
+                    "lat": 26.057852,
+                    "lng": 119.349707
+                },
+                "address": "福州市台江区鳌江路万达广场F4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "83456dc511e9575ab6f42fbb",
+                "detail": 1,
+                "uid": "83456dc511e9575ab6f42fbb",
+                "detail_info": {
+                    "distance": 284,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F4",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=83456dc511e9575ab6f42fbb&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "520甘草水果(万达广场店)",
+                "location": {
+                    "lat": 26.059483,
+                    "lng": 119.349945
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "83b3d9c5e8c438c372210bfa",
+                "telephone": "15859098959",
+                "detail": 1,
+                "uid": "83b3d9c5e8c438c372210bfa",
+                "detail_info": {
+                    "distance": 149,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=83b3d9c5e8c438c372210bfa&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "万嘉便利(万达广场店)",
+                "location": {
+                    "lat": 26.058579,
+                    "lng": 119.34849
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "21b1422631ccbf5fadb22acd",
+                "telephone": "(0591)83276927,(0591)83570810",
+                "detail": 1,
+                "uid": "21b1422631ccbf5fadb22acd",
+                "detail_info": {
+                    "distance": 187,
+                    "tag": "购物;便利店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=21b1422631ccbf5fadb22acd&output=html&source=placeapi_v2",
+                    "overall_rating": "2.6",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "八马茶业(万达广场店)",
+                "location": {
+                    "lat": 26.057707,
+                    "lng": 119.348177
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "942e27b94e29d045724b87a5",
+                "telephone": "(0591)83885800",
+                "detail": 1,
+                "uid": "942e27b94e29d045724b87a5",
+                "detail_info": {
+                    "distance": 288,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34793850617,
+                        "lat": 26.057814526987
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=942e27b94e29d045724b87a5&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "见福便利店(万达广场店)",
+                "location": {
+                    "lat": 26.057044,
+                    "lng": 119.348231
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "dc88ffb908204642cafa5f49",
+                "telephone": "15280000106",
+                "detail": 1,
+                "uid": "dc88ffb908204642cafa5f49",
+                "detail_info": {
+                    "distance": 360,
+                    "tag": "购物;便利店",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dc88ffb908204642cafa5f49&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "富安娜家纺(万达广场店)",
+                "location": {
+                    "lat": 26.057887,
+                    "lng": 119.349621
+                },
+                "address": "福州市台江区鳌江路8号万达广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "f2abdbec220f51d7c8e33c91",
+                "detail": 1,
+                "uid": "f2abdbec220f51d7c8e33c91",
+                "detail_info": {
+                    "distance": 278,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f2abdbec220f51d7c8e33c91&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "JORYA(万达广场店)",
+                "location": {
+                    "lat": 26.058206,
+                    "lng": 119.349287
+                },
+                "address": "福州市台江区鳌江路8号万达广场F2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "957e9223480dee0eeb56fa7e",
+                "telephone": "(0591)83812773",
+                "detail": 1,
+                "uid": "957e9223480dee0eeb56fa7e",
+                "detail_info": {
+                    "distance": 234,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F2",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=957e9223480dee0eeb56fa7e&output=html&source=placeapi_v2",
+                    "overall_rating": "3.6",
+                    "comment_num": "7",
+                    "children": []
+                }
+            },
+            {
+                "name": "SEEKERS VR(万达广场店)",
+                "location": {
+                    "lat": 26.057276,
+                    "lng": 119.34943
+                },
+                "address": "鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "9dde5bdb255c1cd714b54be8",
+                "detail_info": {
+                    "distance": 338,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9dde5bdb255c1cd714b54be8&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "卓诗尼(万达广场店)",
+                "location": {
+                    "lat": 26.058037,
+                    "lng": 119.349523
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "254f5437de32dbfeeedfca5b",
+                "detail": 1,
+                "uid": "254f5437de32dbfeeedfca5b",
+                "detail_info": {
+                    "distance": 259,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=254f5437de32dbfeeedfca5b&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "金融街万达广场-1座",
+                "location": {
+                    "lat": 26.058932,
+                    "lng": 119.350057
+                },
+                "address": "福建省福州市台江区鳌峰路31号万达广场1F层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "164314103117a2215cd4feb7",
+                "detail": 1,
+                "uid": "164314103117a2215cd4feb7",
+                "detail_info": {
+                    "distance": 198,
+                    "tag": "房地产;写字楼",
+                    "navi_location": {
+                        "lng": 119.3506439176,
+                        "lat": 26.058926728578
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=164314103117a2215cd4feb7&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "紫色花语(万达广场店)",
+                "location": {
+                    "lat": 26.058707,
+                    "lng": 119.349815
+                },
+                "address": "鳌峰路8号万达百货负一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "a8c253186795340bf72310a5",
+                "detail_info": {
+                    "distance": 203,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a8c253186795340bf72310a5&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "永乐天阁(万达广场店)",
+                "location": {
+                    "lat": 26.057633,
+                    "lng": 119.348155
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "e75fe08085dd3b33a9059dfb",
+                "detail": 1,
+                "uid": "e75fe08085dd3b33a9059dfb",
+                "detail_info": {
+                    "distance": 297,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e75fe08085dd3b33a9059dfb&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "ONLY(万达广场店)",
+                "location": {
+                    "lat": 26.057691,
+                    "lng": 119.349253
+                },
+                "address": "福州市台江区鳌江路8号万达广场F3",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "8bdaad0be43a4e996e20b96e",
+                "detail_info": {
+                    "distance": 289,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "F3",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8bdaad0be43a4e996e20b96e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "世达工具",
+                "location": {
+                    "lat": 26.063653,
+                    "lng": 119.346811
+                },
+                "address": "福建省福州市台江区光明路11附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "0db5159154143fdbeb1e972a",
+                "detail_info": {
+                    "distance": 423,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0db5159154143fdbeb1e972a&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "木材厂批发",
+                "location": {
+                    "lat": 26.061854,
+                    "lng": 119.346881
+                },
+                "address": "福建省福州市台江区光明路1号东50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "42925358b5827126c61e51a3",
+                "detail_info": {
+                    "distance": 255,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=42925358b5827126c61e51a3&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "快鱼(台江万达店)",
+                "location": {
+                    "lat": 26.058869,
+                    "lng": 119.349852
+                },
+                "address": "福州市台江区鳌江路8号万达广场B1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "04c37fd8454836474007c17f",
+                "detail_info": {
+                    "distance": 190,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34879626396,
+                        "lat": 26.056636674002
+                    },
+                    "indoor_floor": "B1",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=04c37fd8454836474007c17f&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国联通(万达广场店)",
+                "location": {
+                    "lat": 26.059695,
+                    "lng": 119.349083
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "226c1d8e95e8ff750c0e6b37",
+                "detail": 1,
+                "uid": "226c1d8e95e8ff750c0e6b37",
+                "detail_info": {
+                    "distance": 71,
+                    "tag": "生活服务;通讯营业厅",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=226c1d8e95e8ff750c0e6b37&output=html&source=placeapi_v2",
+                    "price": "661",
+                    "overall_rating": "2.0",
+                    "image_num": "4",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国移动(万达广场店)",
+                "location": {
+                    "lat": 26.058178,
+                    "lng": 119.348783
+                },
+                "address": "福州市台江区鳌江路8号万达广场F1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "b9bed1b6b95456bce5e96518",
+                "detail_info": {
+                    "distance": 231,
+                    "tag": "生活服务;通讯营业厅",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b9bed1b6b95456bce5e96518&output=html&source=placeapi_v2",
+                    "image_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国移动24小时自助服务厅(鳌峰路营业厅)",
+                "location": {
+                    "lat": 26.06128,
+                    "lng": 119.345668
+                },
+                "address": "鳌峰路榕江新天地1号楼盘1层的04号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "1a5235ab3c67fea733169b6a",
+                "detail": 1,
+                "uid": "1a5235ab3c67fea733169b6a",
+                "detail_info": {
+                    "distance": 325,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a5235ab3c67fea733169b6a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "5",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "公厕",
+                "location": {
+                    "lat": 26.059176,
+                    "lng": 119.352957
+                },
+                "address": "鳌峰路58号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "7388dffdf74f88ebd3ff234d",
+                "detail": 1,
+                "uid": "7388dffdf74f88ebd3ff234d",
+                "detail_info": {
+                    "distance": 439,
+                    "tag": "生活服务;公共厕所",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7388dffdf74f88ebd3ff234d&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "9",
+                    "children": []
+                }
+            },
+            {
+                "name": "海天图文",
+                "location": {
+                    "lat": 26.058861,
+                    "lng": 119.351968
+                },
+                "address": "鳌峰路221",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "1a632dbeb6666e39c51b75e2",
+                "telephone": "(0591)88705366",
+                "detail": 1,
+                "uid": "1a632dbeb6666e39c51b75e2",
+                "detail_info": {
+                    "distance": 359,
+                    "tag": "生活服务;图文快印店",
+                    "navi_location": {
+                        "lng": 119.35188832585,
+                        "lat": 26.059199848099
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a632dbeb6666e39c51b75e2&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "9",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国邮政(光明邮政所)",
+                "location": {
+                    "lat": 26.06098,
+                    "lng": 119.346818
+                },
+                "address": "鳌峰路42",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "e3ec56d2978de36af5c59c9f",
+                "detail": 1,
+                "uid": "e3ec56d2978de36af5c59c9f",
+                "detail_info": {
+                    "distance": 206,
+                    "tag": "生活服务;邮局",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e3ec56d2978de36af5c59c9f&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "image_num": "14",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "富闽时代广场",
+                "location": {
+                    "lat": 26.060609,
+                    "lng": 119.35005
+                },
+                "address": "福州市台江区万达广场a门",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "13a1a4537fdb157a07026f6f",
+                "detail": 1,
+                "uid": "13a1a4537fdb157a07026f6f",
+                "detail_info": {
+                    "distance": 138,
+                    "tag": "房地产;其他",
+                    "navi_location": {
+                        "lng": 119.35060662984,
+                        "lat": 26.059805727224
+                    },
+                    "type": "house",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=13a1a4537fdb157a07026f6f&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国电信(海润滨江营业厅)",
+                "location": {
+                    "lat": 26.058584,
+                    "lng": 119.352896
+                },
+                "address": "鳌峰路259号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "telephone": "(0591)88880998,18105912389",
+                "detail": 1,
+                "uid": "333316a0bf196e04a80dd8e5",
+                "detail_info": {
+                    "distance": 456,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=333316a0bf196e04a80dd8e5&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "公厕",
+                "location": {
+                    "lat": 26.060963,
+                    "lng": 119.347875
+                },
+                "address": "鳌峰路102号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "c8b5cdef84b1837d130daa6d",
+                "detail": 1,
+                "uid": "c8b5cdef84b1837d130daa6d",
+                "detail_info": {
+                    "distance": 115,
+                    "tag": "生活服务;公共厕所",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c8b5cdef84b1837d130daa6d&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "6",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "闽达手机钟表维修",
+                "location": {
+                    "lat": 26.058634,
+                    "lng": 119.352496
+                },
+                "address": "鳌峰路243号;海润滨江花园46栋11店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "d3108983c45643941fe99956",
+                "telephone": "13685005525",
+                "detail": 1,
+                "uid": "d3108983c45643941fe99956",
+                "detail_info": {
+                    "distance": 417,
+                    "tag": "生活服务;维修点",
+                    "navi_location": {
+                        "lng": 119.35271755167,
+                        "lat": 26.058752915749
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d3108983c45643941fe99956&output=html&source=placeapi_v2",
+                    "image_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "蓝光地产",
+                "location": {
+                    "lat": 26.059893,
+                    "lng": 119.346244
+                },
+                "address": "福州市台江区升龙汇金中心3504室",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "detail": 1,
+                "uid": "f0f830c8aba091e1260bd0cf",
+                "detail_info": {
+                    "distance": 250,
+                    "tag": "生活服务;房产中介机构",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f0f830c8aba091e1260bd0cf&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "image_num": "1",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "鳌峰照相馆",
+                "location": {
+                    "lat": 26.060985,
+                    "lng": 119.346786
+                },
+                "address": "福州市台江区光明港新村1-4",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "930afa923cdb89b125e0a0af",
+                "detail": 1,
+                "uid": "930afa923cdb89b125e0a0af",
+                "detail_info": {
+                    "distance": 209,
+                    "tag": "生活服务;照相馆",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=930afa923cdb89b125e0a0af&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "image_num": "11",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "小顽皮(万达广场金融街店)",
+                "location": {
+                    "lat": 26.058072,
+                    "lng": 119.349535
+                },
+                "address": "福建省福州市台江区鳌峰路31号F5层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "台江区",
+                "street_id": "b03cfa4738467a9a6c47605b",
+                "detail": 1,
+                "uid": "b03cfa4738467a9a6c47605b",
+                "detail_info": {
+                    "distance": 255,
+                    "tag": "生活服务;宠物服务",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b03cfa4738467a9a6c47605b&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}

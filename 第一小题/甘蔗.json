@@ -1,0 +1,2299 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "芋时代(永辉广场店)",
+                "location": {
+                    "lat": 26.147701,
+                    "lng": 119.157065
+                },
+                "address": "福建省福州市闽侯县X115(昙石山西大)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "3cc81391f7c4a2c0b64f5406",
+                "detail_info": {
+                    "distance": 437,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3cc81391f7c4a2c0b64f5406&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "85度C(福州闽侯永辉店)",
+                "location": {
+                    "lat": 26.147601,
+                    "lng": 119.157322
+                },
+                "address": "福州市闽侯县城新区昙石山西大道3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "d31da09db567cb165d17c366",
+                "telephone": "(0591)22989085",
+                "detail": 1,
+                "uid": "d31da09db567cb165d17c366",
+                "detail_info": {
+                    "distance": 463,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d31da09db567cb165d17c366&output=html&source=placeapi_v2",
+                    "price": "17.0",
+                    "overall_rating": "4.1",
+                    "comment_num": "21",
+                    "children": []
+                }
+            },
+            {
+                "name": "陈计锅边世家(闽侯分店)",
+                "location": {
+                    "lat": 26.148918,
+                    "lng": 119.157467
+                },
+                "address": "福州市闽侯县昙石西大道98号新城丽景b区10号楼105号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "c1ba0629041c8ba0ab0dd80e",
+                "detail": 1,
+                "uid": "c1ba0629041c8ba0ab0dd80e",
+                "detail_info": {
+                    "distance": 389,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c1ba0629041c8ba0ab0dd80e&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "伊米蛋糕",
+                "location": {
+                    "lat": 26.149964,
+                    "lng": 119.157325
+                },
+                "address": "蔗洲路8-1号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "18659156979",
+                "detail": 1,
+                "uid": "5fac7f15bd6c3d5bbe4842bf",
+                "detail_info": {
+                    "distance": 337,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5fac7f15bd6c3d5bbe4842bf&output=html&source=placeapi_v2",
+                    "overall_rating": "3.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "茶雨",
+                "location": {
+                    "lat": 26.1537,
+                    "lng": 119.152761
+                },
+                "address": "甘蔗化龙村亭下街42号(房管所旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "18558616610",
+                "detail": 1,
+                "uid": "b1188720ff6ce2de14c8f68b",
+                "detail_info": {
+                    "distance": 375,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b1188720ff6ce2de14c8f68b&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "兰州正宗马家拉面(甘蔗店)",
+                "location": {
+                    "lat": 26.148816,
+                    "lng": 119.157554
+                },
+                "address": "甘蔗街道昙石山西大道98号新城丽景B区10号楼106店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "3e366070704549954e776e2e",
+                "telephone": "18860116869",
+                "detail": 1,
+                "uid": "3e366070704549954e776e2e",
+                "detail_info": {
+                    "distance": 402,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3e366070704549954e776e2e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.5",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "未来甜品",
+                "location": {
+                    "lat": 26.147234,
+                    "lng": 119.15561
+                },
+                "address": "福州市闽侯县滨江苑b区606",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "93924fafc019ce7108ccdd02",
+                "telephone": "13705929391",
+                "detail": 1,
+                "uid": "93924fafc019ce7108ccdd02",
+                "detail_info": {
+                    "distance": 398,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=93924fafc019ce7108ccdd02&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "罗记重庆鱼庄",
+                "location": {
+                    "lat": 26.148937,
+                    "lng": 119.157871
+                },
+                "address": "昙石山中大道118号新城丽景a区7号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "13856757118b0eebb34c49a9",
+                "telephone": "18960852343",
+                "detail": 1,
+                "uid": "13856757118b0eebb34c49a9",
+                "detail_info": {
+                    "distance": 424,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=13856757118b0eebb34c49a9&output=html&source=placeapi_v2",
+                    "overall_rating": "2.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "三英拌面扁肉",
+                "location": {
+                    "lat": 26.15146,
+                    "lng": 119.15402
+                },
+                "address": "福建省福州市闽侯县蔗洲路78号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "33e6acfe810faca281a12e41",
+                "detail": 1,
+                "uid": "33e6acfe810faca281a12e41",
+                "detail_info": {
+                    "distance": 106,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=33e6acfe810faca281a12e41&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "长乐鱼丸",
+                "location": {
+                    "lat": 26.152013,
+                    "lng": 119.152271
+                },
+                "address": "福州市闽侯县蔗洲路116号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "86d21e1d61cf81cabe4842f6",
+                "detail_info": {
+                    "distance": 240,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=86d21e1d61cf81cabe4842f6&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "三英明俤煎包店",
+                "location": {
+                    "lat": 26.15199,
+                    "lng": 119.15261
+                },
+                "address": "甘蔗街道三英村蔗洲路114号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "13625087073",
+                "detail": 1,
+                "uid": "e7b8d63fd9f23471bca82219",
+                "detail_info": {
+                    "distance": 215,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e7b8d63fd9f23471bca82219&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "开心小饭店",
+                "location": {
+                    "lat": 26.146821,
+                    "lng": 119.154858
+                },
+                "address": "榕洲路3号滨江苑5号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "c35c068d7ba8da09c5effb58",
+                "telephone": "15985705373,18960941598",
+                "detail": 1,
+                "uid": "c35c068d7ba8da09c5effb58",
+                "detail_info": {
+                    "distance": 418,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c35c068d7ba8da09c5effb58&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "闽西土鸡土鸭(亭下街店)",
+                "location": {
+                    "lat": 26.152177,
+                    "lng": 119.151992
+                },
+                "address": "福建省福州市闽侯县亭下街与蔗洲路交叉口东北50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "ed658ae9632ba89b48fd3f77",
+                "detail": 1,
+                "uid": "ed658ae9632ba89b48fd3f77",
+                "detail_info": {
+                    "distance": 272,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ed658ae9632ba89b48fd3f77&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "化龙村亭下街海鲜店",
+                "location": {
+                    "lat": 26.152276,
+                    "lng": 119.152103
+                },
+                "address": "甘蔗镇蔗洲路163号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "15960071690,15659035579",
+                "detail": 1,
+                "uid": "468dfed6ec3d82d0df1e528a",
+                "detail_info": {
+                    "distance": 272,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=468dfed6ec3d82d0df1e528a&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "风达西饼生日蛋糕(闽侯店)",
+                "location": {
+                    "lat": 26.149978,
+                    "lng": 119.15732
+                },
+                "address": "福州市闽侯县甘蔗街道蔗洲路8-1号(新城丽景A区底商)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "13276019956,18659156979",
+                "detail": 1,
+                "uid": "44c5b625a1b395aba4c7561e",
+                "detail_info": {
+                    "distance": 337,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=44c5b625a1b395aba4c7561e&output=html&source=placeapi_v2",
+                    "overall_rating": "4.6",
+                    "comment_num": "18",
+                    "children": []
+                }
+            },
+            {
+                "name": "煌上煌(新城丽景店)",
+                "location": {
+                    "lat": 26.148258,
+                    "lng": 119.156536
+                },
+                "address": "甘蔗街道昙石山西大道98号新城丽景B区15号楼1层108店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "24a2be6d8a911bb796ca0727",
+                "detail": 1,
+                "uid": "24a2be6d8a911bb796ca0727",
+                "detail_info": {
+                    "distance": 356,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=24a2be6d8a911bb796ca0727&output=html&source=placeapi_v2",
+                    "price": "23.0",
+                    "overall_rating": "3.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "日昇鲜捞店",
+                "location": {
+                    "lat": 26.152452,
+                    "lng": 119.151843
+                },
+                "address": "福州市闽侯县亭下街8号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "53601382024310e7471a3213",
+                "detail_info": {
+                    "distance": 304,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=53601382024310e7471a3213&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "小猪快跑便当",
+                "location": {
+                    "lat": 26.153025,
+                    "lng": 119.155272
+                },
+                "address": "福建省福州市闽侯县八一八西路19号南90米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "15859063650",
+                "detail": 1,
+                "uid": "89446d03d9da640810293595",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=89446d03d9da640810293595&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "老奶奶石磨坊",
+                "location": {
+                    "lat": 26.152551,
+                    "lng": 119.151918
+                },
+                "address": "福建省福州市闽侯县亭下街22号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "15037735699",
+                "detail": 1,
+                "uid": "fc0d09fde52218153804b133",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fc0d09fde52218153804b133&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "瑞比特时尚烘焙(蔗洲路)",
+                "location": {
+                    "lat": 26.148704,
+                    "lng": 119.157995
+                },
+                "address": "福建省福州市闽侯县甘蔗街道新城丽景A区7号108店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "d29512efc64173557c29bdec",
+                "telephone": "15980260010",
+                "detail": 1,
+                "uid": "d29512efc64173557c29bdec",
+                "detail_info": {
+                    "distance": 446,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d29512efc64173557c29bdec&output=html&source=placeapi_v2",
+                    "price": "16.5",
+                    "overall_rating": "4.8",
+                    "comment_num": "26",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "砂锅土豆粉",
+                "location": {
+                    "lat": 26.153167,
+                    "lng": 119.15253
+                },
+                "address": "福建省福州市闽侯县亭下街",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "ea7b7c6a1c59e51d4f776e90",
+                "detail_info": {
+                    "distance": 329,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ea7b7c6a1c59e51d4f776e90&output=html&source=placeapi_v2",
+                    "price": "17.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "味佳美小吃店",
+                "location": {
+                    "lat": 26.149933,
+                    "lng": 119.157333
+                },
+                "address": "福州市闽侯县蔗洲路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "06ff8744c2b9fed3a8f0cd6d",
+                "detail": 1,
+                "uid": "06ff8744c2b9fed3a8f0cd6d",
+                "detail_info": {
+                    "distance": 339,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=06ff8744c2b9fed3a8f0cd6d&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "闽清糟鸭",
+                "location": {
+                    "lat": 26.153213,
+                    "lng": 119.152346
+                },
+                "address": "甘蔗街道化龙村亭下街44号本厝一层店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "13950214833",
+                "detail": 1,
+                "uid": "338a56db116d4aa7cc06a4b4",
+                "detail_info": {
+                    "distance": 343,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=338a56db116d4aa7cc06a4b4&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "豪客滋",
+                "location": {
+                    "lat": 26.153879,
+                    "lng": 119.155927
+                },
+                "address": "甘蔗街道山前村八一八西路3号万嘉超市楼上",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "13850169221",
+                "detail": 1,
+                "uid": "19792888f52c419aeb12e41a",
+                "detail_info": {
+                    "distance": 421,
+                    "tag": "美食;外国餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=19792888f52c419aeb12e41a&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "霞浦海鲜",
+                "location": {
+                    "lat": 26.152455,
+                    "lng": 119.150765
+                },
+                "address": "福州市闽侯县文博路83号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "89f7c428bc841411e5e965a8",
+                "detail_info": {
+                    "distance": 388,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=89f7c428bc841411e5e965a8&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "兄弟餐馆",
+                "location": {
+                    "lat": 26.149125,
+                    "lng": 119.157645
+                },
+                "address": "福建省福州市闽侯县昙石山中大道118号新城丽景A区8#楼103店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "873be90e80167a523c9a5e96",
+                "telephone": "13705073214",
+                "detail": 1,
+                "uid": "873be90e80167a523c9a5e96",
+                "detail_info": {
+                    "distance": 395,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=873be90e80167a523c9a5e96&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "洪濑鸡爪",
+                "location": {
+                    "lat": 26.148485,
+                    "lng": 119.158002
+                },
+                "address": "新城丽景A区5号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "d7a991a1692fcc6c79b55cdb",
+                "detail_info": {
+                    "distance": 458,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d7a991a1692fcc6c79b55cdb&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "四毛龙虾",
+                "location": {
+                    "lat": 26.148964,
+                    "lng": 119.157853
+                },
+                "address": "甘蔗镇甘蔗街道昙石山中大道118号新城丽景A区8#楼103店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "13685016307",
+                "detail": 1,
+                "uid": "7602f04209cc103f93114c5b",
+                "detail_info": {
+                    "distance": 421,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7602f04209cc103f93114c5b&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "来一斤卤味专家",
+                "location": {
+                    "lat": 26.153854,
+                    "lng": 119.15657
+                },
+                "address": "福建省福州市闽侯县入城路316南50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "13799354700",
+                "detail": 1,
+                "uid": "8c6d41ca8b341c6eae0457c8",
+                "detail_info": {
+                    "distance": 452,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8c6d41ca8b341c6eae0457c8&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "红糖馒头",
+                "location": {
+                    "lat": 26.153945,
+                    "lng": 119.15658
+                },
+                "address": "入城路与横屿街交叉口西南50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "20886064d7da9e39f11937fa",
+                "detail_info": {
+                    "distance": 461,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=20886064d7da9e39f11937fa&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "源泉大酒店",
+                "location": {
+                    "lat": 26.148288,
+                    "lng": 119.152913
+                },
+                "address": "福建省福州市闽侯县昙石山西大道33号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "e1d4b8e0d86dd34b9b68b421",
+                "telephone": "(0591)22193999",
+                "detail": 1,
+                "uid": "e1d4b8e0d86dd34b9b68b421",
+                "detail_info": {
+                    "distance": 269,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.15317206651,
+                        "lat": 26.148541346792
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e1d4b8e0d86dd34b9b68b421&output=html&source=placeapi_v2",
+                    "overall_rating": "4.2",
+                    "service_rating": "4.4",
+                    "facility_rating": "4.4",
+                    "hygiene_rating": "4.4",
+                    "image_num": "12",
+                    "comment_num": "10",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "速8酒店(海京店)",
+                "location": {
+                    "lat": 26.153473,
+                    "lng": 119.15546
+                },
+                "address": "福州市闽侯县山前后街2-2号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "(0591)22951555",
+                "detail": 1,
+                "uid": "67f4ef9f2995e9176c476072",
+                "detail_info": {
+                    "distance": 360,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=67f4ef9f2995e9176c476072&output=html&source=placeapi_v2",
+                    "service_rating": "0",
+                    "facility_rating": "0",
+                    "hygiene_rating": "0",
+                    "image_num": "5",
+                    "comment_num": "0",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "榕盛宾馆(三福店)",
+                "location": {
+                    "lat": 26.153757,
+                    "lng": 119.156403
+                },
+                "address": "福建省福州市闽侯县甘蔗街道山前村三福花园1号楼2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "f45d6f0e7d8e010781288a53",
+                "telephone": "(0591)22071156",
+                "detail": 1,
+                "uid": "f45d6f0e7d8e010781288a53",
+                "detail_info": {
+                    "distance": 434,
+                    "tag": "酒店;其他",
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f45d6f0e7d8e010781288a53&output=html&source=placeapi_v2",
+                    "price": "127.0",
+                    "overall_rating": "3.9",
+                    "service_rating": "4.0",
+                    "facility_rating": "4.0",
+                    "hygiene_rating": "4.0",
+                    "image_num": "100",
+                    "comment_num": "28",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "馨宿商务酒店",
+                "location": {
+                    "lat": 26.148213,
+                    "lng": 119.157136
+                },
+                "address": "福建省福州市闽侯县甘蔗街道昙石山西大道98号(建行楼上)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "c6daad7c710b491329fc48ef",
+                "telephone": "(0591)22989900",
+                "detail": 1,
+                "uid": "c6daad7c710b491329fc48ef",
+                "detail_info": {
+                    "distance": 404,
+                    "tag": "酒店;其他",
+                    "navi_location": {
+                        "lng": 119.15719851525,
+                        "lat": 26.147960110668
+                    },
+                    "type": "hotel",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c6daad7c710b491329fc48ef&output=html&source=placeapi_v2",
+                    "price": "128.0",
+                    "overall_rating": "4.1",
+                    "service_rating": "3.0",
+                    "facility_rating": "3.0",
+                    "hygiene_rating": "3.0",
+                    "image_num": "39",
+                    "comment_num": "11",
+                    "favorite_num": "0",
+                    "checkin_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "永辉超市(闽侯昙石山店)",
+                "location": {
+                    "lat": 26.147652,
+                    "lng": 119.157122
+                },
+                "address": "福州市闽侯县昙石山西大道3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "3daa460b73feafc94d776e10",
+                "telephone": "(0591)22916055",
+                "detail": 1,
+                "uid": "3daa460b73feafc94d776e10",
+                "detail_info": {
+                    "distance": 445,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.15712361274,
+                        "lat": 26.147879446413
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3daa460b73feafc94d776e10&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "25",
+                    "children": []
+                }
+            },
+            {
+                "name": "鑫八方联书店",
+                "location": {
+                    "lat": 26.148859,
+                    "lng": 119.149612
+                },
+                "address": "员工公寓员工公寓三号楼店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "4e847f1121529bf25d17c33c",
+                "detail_info": {
+                    "distance": 474,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4e847f1121529bf25d17c33c&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "恒辉农贸市场",
+                "location": {
+                    "lat": 26.149624,
+                    "lng": 119.157652
+                },
+                "address": "福州市闽侯县蔗洲路2号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "7fcae035bc4cd33888db738e",
+                "detail": 1,
+                "uid": "7fcae035bc4cd33888db738e",
+                "detail_info": {
+                    "distance": 378,
+                    "tag": "购物;市场",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7fcae035bc4cd33888db738e&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "东南花都",
+                "location": {
+                    "lat": 26.147889,
+                    "lng": 119.154314
+                },
+                "address": "甘蔗镇滨江苑B区8号店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "bd1327d23d2ca2872806ce28",
+                "telephone": "13860683662",
+                "detail": 1,
+                "uid": "bd1327d23d2ca2872806ce28",
+                "detail_info": {
+                    "distance": 292,
+                    "tag": "购物",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bd1327d23d2ca2872806ce28&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "日春茶业(源泉店)",
+                "location": {
+                    "lat": 26.148265,
+                    "lng": 119.152885
+                },
+                "address": "甘蔗街道昙石山西大道33号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "49451349fdb61930ae04572c",
+                "telephone": "(0591)22987973",
+                "detail": 1,
+                "uid": "49451349fdb61930ae04572c",
+                "detail_info": {
+                    "distance": 272,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=49451349fdb61930ae04572c&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "屈臣氏(昙石山店)",
+                "location": {
+                    "lat": 26.147437,
+                    "lng": 119.157316
+                },
+                "address": "福州市闽侯县昙石山西大道3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "9f959e3f6af6c451e8e58214",
+                "telephone": "(0591)22076895",
+                "detail": 1,
+                "uid": "9f959e3f6af6c451e8e58214",
+                "detail_info": {
+                    "distance": 475,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9f959e3f6af6c451e8e58214&output=html&source=placeapi_v2",
+                    "price": "67.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "5",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "飞凡电脑",
+                "location": {
+                    "lat": 26.15318,
+                    "lng": 119.152592
+                },
+                "address": "福建省福州市闽侯县亭下街37号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "9b90ebc916dbd92cb4265528",
+                "telephone": "13675093516",
+                "detail": 1,
+                "uid": "9b90ebc916dbd92cb4265528",
+                "detail_info": {
+                    "distance": 328,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9b90ebc916dbd92cb4265528&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "冰棒批发零售",
+                "location": {
+                    "lat": 26.151794,
+                    "lng": 119.152861
+                },
+                "address": "蔗洲路100号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "d6ab83a22f5d70e471210bc5",
+                "detail": 1,
+                "uid": "d6ab83a22f5d70e471210bc5",
+                "detail_info": {
+                    "distance": 182,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d6ab83a22f5d70e471210bc5&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "永辉城市生活广场",
+                "location": {
+                    "lat": 26.147455,
+                    "lng": 119.157136
+                },
+                "address": "福建省福州市闽侯县昙石山西大道3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "76e6959c57db71bfc6f50db1",
+                "telephone": "(0591)22916055",
+                "detail": 1,
+                "uid": "76e6959c57db71bfc6f50db1",
+                "detail_info": {
+                    "distance": 462,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.15725238124,
+                        "lat": 26.147874307964
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=76e6959c57db71bfc6f50db1&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "山前花店",
+                "location": {
+                    "lat": 26.154156,
+                    "lng": 119.152432
+                },
+                "address": "福州市闽侯县亭下街与入城路交叉口西北50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "(0591)22987755",
+                "detail": 1,
+                "uid": "8152e056f728c7b1a1d230fb",
+                "detail_info": {
+                    "distance": 434,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8152e056f728c7b1a1d230fb&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "步步高(闽侯甘蔗永辉店)",
+                "location": {
+                    "lat": 26.147591,
+                    "lng": 119.157365
+                },
+                "address": "福州市闽侯县甘蔗镇昙石山西大道永辉负一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "56254bc149c734383fe23117",
+                "detail_info": {
+                    "distance": 467,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=56254bc149c734383fe23117&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "易生活百货",
+                "location": {
+                    "lat": 26.150248,
+                    "lng": 119.157209
+                },
+                "address": "福州市闽侯县蔗洲路8-6号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "c56aa03d34c720fc2b06ced5",
+                "telephone": "13509219736",
+                "detail": 1,
+                "uid": "c56aa03d34c720fc2b06ced5",
+                "detail_info": {
+                    "distance": 322,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c56aa03d34c720fc2b06ced5&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "友福花艺",
+                "location": {
+                    "lat": 26.151584,
+                    "lng": 119.153851
+                },
+                "address": "甘蔗街道蔗洲路7-6号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "f094df8cab78e2a3d1f49e4f",
+                "detail_info": {
+                    "distance": 120,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f094df8cab78e2a3d1f49e4f&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "宏宇手机店",
+                "location": {
+                    "lat": 26.154147,
+                    "lng": 119.152371
+                },
+                "address": "福州市闽侯县甘蔗街道八一八西路83号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "54e0caf96ce6b6d3db131843",
+                "detail_info": {
+                    "distance": 436,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=54e0caf96ce6b6d3db131843&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "甜蜜蜜婚嫁喜铺",
+                "location": {
+                    "lat": 26.148247,
+                    "lng": 119.152078
+                },
+                "address": "榕洲路2-6号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "6cc4e87fd0cca17028d7ab9c",
+                "detail_info": {
+                    "distance": 315,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6cc4e87fd0cca17028d7ab9c&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "王力安全门(入城路店)",
+                "location": {
+                    "lat": 26.154336,
+                    "lng": 119.151616
+                },
+                "address": "甘蔗八一八西路70-72号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "cd94448e011fc164fb2213b9",
+                "detail_info": {
+                    "distance": 487,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cd94448e011fc164fb2213b9&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "芊芊花坊",
+                "location": {
+                    "lat": 26.153844,
+                    "lng": 119.155592
+                },
+                "address": "福建省福州市闽侯县入城路361号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "e43cbb84cf47913b4e776e2d",
+                "telephone": "15859063843",
+                "detail": 1,
+                "uid": "e43cbb84cf47913b4e776e2d",
+                "detail_info": {
+                    "distance": 404,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e43cbb84cf47913b4e776e2d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "佳佳美窗帘",
+                "location": {
+                    "lat": 26.153885,
+                    "lng": 119.154842
+                },
+                "address": "入城路23号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "fb25d27382fc5e32f90cadfa",
+                "detail": 1,
+                "uid": "fb25d27382fc5e32f90cadfa",
+                "detail_info": {
+                    "distance": 385,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fb25d27382fc5e32f90cadfa&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "根法五金机电日杂渔具店",
+                "location": {
+                    "lat": 26.153909,
+                    "lng": 119.155824
+                },
+                "address": "入城路3附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "ab88317a1bc29bb425e0a000",
+                "telephone": "13960887071",
+                "detail": 1,
+                "uid": "ab88317a1bc29bb425e0a000",
+                "detail_info": {
+                    "distance": 420,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ab88317a1bc29bb425e0a000&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "清雅花坊",
+                "location": {
+                    "lat": 26.147449,
+                    "lng": 119.156919
+                },
+                "address": "甘蔗镇昙石新永辉超市负一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "6c85221755e93c9857bfff4f",
+                "detail_info": {
+                    "distance": 448,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6c85221755e93c9857bfff4f&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "概念",
+                "location": {
+                    "lat": 26.147238,
+                    "lng": 119.15093
+                },
+                "address": "甘蔗街道员工公寓D21-14",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "b6394518f6b89125bca822fd",
+                "detail": 1,
+                "uid": "b6394518f6b89125bca822fd",
+                "detail_info": {
+                    "distance": 474,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.15111911054,
+                        "lat": 26.147266043708
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b6394518f6b89125bca822fd&output=html&source=placeapi_v2",
+                    "overall_rating": "2.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "其盘香烛店",
+                "location": {
+                    "lat": 26.150959,
+                    "lng": 119.155832
+                },
+                "address": "蔗洲路30号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "f8ad56caedcb36eb28b97c7f",
+                "detail_info": {
+                    "distance": 190,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f8ad56caedcb36eb28b97c7f&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "霞浦海鲜干货特产",
+                "location": {
+                    "lat": 26.152119,
+                    "lng": 119.154599
+                },
+                "address": "文博路83号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "5d6b4a9ce143df39e8e5826d",
+                "detail_info": {
+                    "distance": 189,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5d6b4a9ce143df39e8e5826d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "平信电器",
+                "location": {
+                    "lat": 26.151437,
+                    "lng": 119.154101
+                },
+                "address": "福建省福州市闽侯县蔗洲路78",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "2f3c52fed5c2e3eb16c905fb",
+                "telephone": "18950281697",
+                "detail": 1,
+                "uid": "2f3c52fed5c2e3eb16c905fb",
+                "detail_info": {
+                    "distance": 104,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2f3c52fed5c2e3eb16c905fb&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "起点休闲服装店",
+                "location": {
+                    "lat": 26.151454,
+                    "lng": 119.154401
+                },
+                "address": "福建省福州市闽侯县蔗洲路21号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "4cb5ddc3d76ca8fdf6eafce6",
+                "detail_info": {
+                    "distance": 113,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4cb5ddc3d76ca8fdf6eafce6&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "欧铂丽家居定制",
+                "location": {
+                    "lat": 26.148511,
+                    "lng": 119.152327
+                },
+                "address": "福建省福州市闽侯县环城路甘蔗员工公寓9号01-02店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "31adaad8996ea20432f71dd4",
+                "detail_info": {
+                    "distance": 277,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=31adaad8996ea20432f71dd4&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "欧瑞五金水暖",
+                "location": {
+                    "lat": 26.150801,
+                    "lng": 119.15641
+                },
+                "address": "蔗洲路12号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "9e20ce2b27c58b57bd4842d7",
+                "telephone": "15980603316,13665002337",
+                "detail": 1,
+                "uid": "9e20ce2b27c58b57bd4842d7",
+                "detail_info": {
+                    "distance": 243,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9e20ce2b27c58b57bd4842d7&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "源泉装饰",
+                "location": {
+                    "lat": 26.148022,
+                    "lng": 119.153496
+                },
+                "address": "甘蔗新城区滨江苑8楼07店(源泉大酒店旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "1adc82d07a280625b13c81ec",
+                "telephone": "18750877650",
+                "detail": 1,
+                "uid": "1adc82d07a280625b13c81ec",
+                "detail_info": {
+                    "distance": 280,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1adc82d07a280625b13c81ec&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "木珠布艺店",
+                "location": {
+                    "lat": 26.151719,
+                    "lng": 119.153359
+                },
+                "address": "甘蔗镇蔗洲路104号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "a8973d46a4283a4ac27da2f8",
+                "detail_info": {
+                    "distance": 149,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a8973d46a4283a4ac27da2f8&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "荣韩粮油",
+                "location": {
+                    "lat": 26.150941,
+                    "lng": 119.155872
+                },
+                "address": "福建省福州市闽侯县甘蔗街道三英村蔗州路9-2号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "65aaaab769ddc339fa0cad36",
+                "telephone": "18695784439",
+                "detail": 1,
+                "uid": "65aaaab769ddc339fa0cad36",
+                "detail_info": {
+                    "distance": 193,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=65aaaab769ddc339fa0cad36&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "可练食杂店",
+                "location": {
+                    "lat": 26.151937,
+                    "lng": 119.152528
+                },
+                "address": "福州市闽侯县蔗洲路114号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "(0591)22989396",
+                "detail": 1,
+                "uid": "046cee62dc4d8c4f8a36ee9c",
+                "detail_info": {
+                    "distance": 216,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=046cee62dc4d8c4f8a36ee9c&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "乐佰家连锁超市",
+                "location": {
+                    "lat": 26.148271,
+                    "lng": 119.1522
+                },
+                "address": "员工公寓18号楼D18-03",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "929a30c9ed4ba282aaf0cd40",
+                "detail": 1,
+                "uid": "929a30c9ed4ba282aaf0cd40",
+                "detail_info": {
+                    "distance": 306,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.15224630429,
+                        "lat": 26.148130845007
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=929a30c9ed4ba282aaf0cd40&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "洪榆首饰珠宝店",
+                "location": {
+                    "lat": 26.15193,
+                    "lng": 119.15227
+                },
+                "address": "福建省福州市闽侯县亭下街29号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "13459181539",
+                "detail": 1,
+                "uid": "39f063e723958d2c4f3a5991",
+                "detail_info": {
+                    "distance": 233,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=39f063e723958d2c4f3a5991&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "安顺门业店",
+                "location": {
+                    "lat": 26.148309,
+                    "lng": 119.156508
+                },
+                "address": "福建省福州市闽侯县X115(昙石山西大道)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "18805902755,15980277089",
+                "detail": 1,
+                "uid": "4d6b9e81d3dac105220220f6",
+                "detail_info": {
+                    "distance": 350,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4d6b9e81d3dac105220220f6&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "依芳水果店",
+                "location": {
+                    "lat": 26.152135,
+                    "lng": 119.151761
+                },
+                "address": "福州市闽侯县亭下街与蔗洲路交叉口西北50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "07988320d7a5e0c7ab175a05",
+                "detail_info": {
+                    "distance": 287,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=07988320d7a5e0c7ab175a05&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "晟丰佛具(甘蔗滨江苑店)",
+                "location": {
+                    "lat": 26.147877,
+                    "lng": 119.154245
+                },
+                "address": "福古公路滨江苑B区2号楼09号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "6b34f8f9097b1dc21b94c651",
+                "telephone": "18750711811,15880026926",
+                "detail": 1,
+                "uid": "6b34f8f9097b1dc21b94c651",
+                "detail_info": {
+                    "distance": 293,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6b34f8f9097b1dc21b94c651&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "超威电动车店",
+                "location": {
+                    "lat": 26.149146,
+                    "lng": 119.150466
+                },
+                "address": "员工公寓6号楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "d50ff967f23ab23835b06c58",
+                "detail_info": {
+                    "distance": 383,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d50ff967f23ab23835b06c58&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福人地板(闽侯专卖店)",
+                "location": {
+                    "lat": 26.153809,
+                    "lng": 119.154791
+                },
+                "address": "入城路19号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "163da166a0b3d405601c671f",
+                "telephone": "(0591)38201012",
+                "detail": 1,
+                "uid": "163da166a0b3d405601c671f",
+                "detail_info": {
+                    "distance": 375,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=163da166a0b3d405601c671f&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "佳诚电器商行",
+                "location": {
+                    "lat": 26.147881,
+                    "lng": 119.154751
+                },
+                "address": "滨江苑B区2号01店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "8dd4d0bdc43814fdc61b75d6",
+                "telephone": "13960805328",
+                "detail": 1,
+                "uid": "8dd4d0bdc43814fdc61b75d6",
+                "detail_info": {
+                    "distance": 301,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8dd4d0bdc43814fdc61b75d6&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "唐韵服饰",
+                "location": {
+                    "lat": 26.152894,
+                    "lng": 119.152442
+                },
+                "address": "福州市闽侯县亭下街35号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "1a145b0daab3dbc6631809ce",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a145b0daab3dbc6631809ce&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "易购便利店(新城丽景b区店)",
+                "location": {
+                    "lat": 26.148345,
+                    "lng": 119.156561
+                },
+                "address": "新城丽景b区15号楼1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "303884646c8d592d7bf79650",
+                "telephone": "13950298276,15960002997",
+                "detail": 1,
+                "uid": "303884646c8d592d7bf79650",
+                "detail_info": {
+                    "distance": 351,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=303884646c8d592d7bf79650&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "亚细亚磁砖(甘蔗员工公寓店)",
+                "location": {
+                    "lat": 26.14911,
+                    "lng": 119.150612
+                },
+                "address": "福州市闽侯县甘蔗街道员工公寓",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "010c5dfc7ff6a7b4bea24017",
+                "telephone": "15980666922",
+                "detail": 1,
+                "uid": "010c5dfc7ff6a7b4bea24017",
+                "detail_info": {
+                    "distance": 371,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=010c5dfc7ff6a7b4bea24017&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "城市精灵水族馆",
+                "location": {
+                    "lat": 26.147784,
+                    "lng": 119.156073
+                },
+                "address": "福州市闽侯县甘蔗镇滨江苑9号楼03店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "15806023943,13559180143",
+                "detail": 1,
+                "uid": "e6276bcbd8d35e4b04026fbc",
+                "detail_info": {
+                    "distance": 367,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e6276bcbd8d35e4b04026fbc&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "麻将机专卖",
+                "location": {
+                    "lat": 26.153937,
+                    "lng": 119.155294
+                },
+                "address": "入城路7号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "b46559d05c2dfa7907026f63",
+                "telephone": "15715924076",
+                "detail": 1,
+                "uid": "b46559d05c2dfa7907026f63",
+                "detail_info": {
+                    "distance": 403,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b46559d05c2dfa7907026f63&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "米家便利",
+                "location": {
+                    "lat": 26.14721,
+                    "lng": 119.155268
+                },
+                "address": "滨州路289号新城区经济适用房二期滨江苑B区5栋02店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "465d0e62e95b4a1e2ad7ab1d",
+                "telephone": "18750178313",
+                "detail": 1,
+                "uid": "465d0e62e95b4a1e2ad7ab1d",
+                "detail_info": {
+                    "distance": 388,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=465d0e62e95b4a1e2ad7ab1d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "淘之家建材城",
+                "location": {
+                    "lat": 26.148855,
+                    "lng": 119.15138
+                },
+                "address": "员工公寓6号楼店面1-6号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "8407e95c4a89f4640b69d906",
+                "telephone": "(0591)22980786",
+                "detail": 1,
+                "uid": "8407e95c4a89f4640b69d906",
+                "detail_info": {
+                    "distance": 318,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8407e95c4a89f4640b69d906&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "致美门窗",
+                "location": {
+                    "lat": 26.148484,
+                    "lng": 119.156423
+                },
+                "address": "福州市闽侯县新城丽景b区15号楼110",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "1919752d842c86323be4a6ad",
+                "detail": 1,
+                "uid": "1919752d842c86323be4a6ad",
+                "detail_info": {
+                    "distance": 330,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1919752d842c86323be4a6ad&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "永和建材",
+                "location": {
+                    "lat": 26.148314,
+                    "lng": 119.156395
+                },
+                "address": "甘蔗街道昙石山西大道98号新城丽景b区15号楼店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "telephone": "18805902755,15980277089",
+                "detail": 1,
+                "uid": "ee79fd2c704f9e1bab175aa0",
+                "detail_info": {
+                    "distance": 341,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ee79fd2c704f9e1bab175aa0&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "艾丽斯",
+                "location": {
+                    "lat": 26.153216,
+                    "lng": 119.152349
+                },
+                "address": "福建省福州市闽侯县亭下街42号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "63f1810e0a72371990114cf2",
+                "detail_info": {
+                    "distance": 343,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=63f1810e0a72371990114cf2&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "耐基防水",
+                "location": {
+                    "lat": 26.154435,
+                    "lng": 119.156082
+                },
+                "address": "入城路与山前后路交叉口北50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "c9fab6184f6d3bdb14c8f616",
+                "detail_info": {
+                    "distance": 484,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c9fab6184f6d3bdb14c8f616&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国邮政(甘蔗邮政支局)",
+                "location": {
+                    "lat": 26.154231,
+                    "lng": 119.156918
+                },
+                "address": "福州市闽侯县入城路337号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "899b1a68decd75686318098d",
+                "detail": 1,
+                "uid": "899b1a68decd75686318098d",
+                "detail_info": {
+                    "distance": 506,
+                    "tag": "生活服务;邮局",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=899b1a68decd75686318098d&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "公厕",
+                "location": {
+                    "lat": 26.147662,
+                    "lng": 119.158251
+                },
+                "address": "福古公路与蔗洲路交叉口东南50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "37bdc8324b5f559828b97c3d",
+                "detail": 1,
+                "uid": "37bdc8324b5f559828b97c3d",
+                "detail_info": {
+                    "distance": 529,
+                    "tag": "生活服务;公共厕所",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=37bdc8324b5f559828b97c3d&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "扬帆图文",
+                "location": {
+                    "lat": 26.148018,
+                    "lng": 119.151668
+                },
+                "address": "福州市闽侯县员工公寓东门19座",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "959589474a5d40a700ec010c",
+                "telephone": "(0591)22888833",
+                "detail": 1,
+                "uid": "959589474a5d40a700ec010c",
+                "detail_info": {
+                    "distance": 361,
+                    "tag": "生活服务;图文快印店",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=959589474a5d40a700ec010c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "image_num": "3",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "新兴图文(榕洲路)",
+                "location": {
+                    "lat": 26.148662,
+                    "lng": 119.152105
+                },
+                "address": "员工公寓9号楼D9-03",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "4ba9f8dd35343d64d13ce39f",
+                "telephone": "13609574118",
+                "detail": 1,
+                "uid": "4ba9f8dd35343d64d13ce39f",
+                "detail_info": {
+                    "distance": 278,
+                    "tag": "生活服务;图文快印店",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4ba9f8dd35343d64d13ce39f&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "4",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "爱宠宠物联盟",
+                "location": {
+                    "lat": 26.147229,
+                    "lng": 119.151025
+                },
+                "address": "员工公寓21号楼D21-12",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "84768421b12f52abc9fa5fcd",
+                "telephone": "13506975782",
+                "detail": 1,
+                "uid": "84768421b12f52abc9fa5fcd",
+                "detail_info": {
+                    "distance": 469,
+                    "tag": "生活服务;宠物服务",
+                    "navi_location": {
+                        "lng": 119.15166429215,
+                        "lat": 26.14693718076
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=84768421b12f52abc9fa5fcd&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "image_num": "4",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国移动通信(手机专卖店)",
+                "location": {
+                    "lat": 26.153802,
+                    "lng": 119.153965
+                },
+                "address": "甘蔗镇入城路139号1楼满江红会所",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "32a79826c1d442624afc8d3d",
+                "detail": 1,
+                "uid": "32a79826c1d442624afc8d3d",
+                "detail_info": {
+                    "distance": 366,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=32a79826c1d442624afc8d3d&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "闽侯县供电局",
+                "location": {
+                    "lat": 26.15417,
+                    "lng": 119.153736
+                },
+                "address": "甘蔗镇入城路366号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "637df60accdb9a7241afe6ae",
+                "detail": 1,
+                "uid": "637df60accdb9a7241afe6ae",
+                "detail_info": {
+                    "distance": 408,
+                    "tag": "生活服务;公用事业",
+                    "navi_location": {
+                        "lng": 119.15354246931,
+                        "lat": 26.15408925202
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=637df60accdb9a7241afe6ae&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "天长地久婚纱摄影(甘蔗精品店)",
+                "location": {
+                    "lat": 26.154314,
+                    "lng": 119.150102
+                },
+                "address": "八一八西路171",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "d52831f926226dda2ffaa7a7",
+                "telephone": "(0591)22918898",
+                "detail": 1,
+                "uid": "d52831f926226dda2ffaa7a7",
+                "detail_info": {
+                    "distance": 574,
+                    "tag": "生活服务;照相馆",
+                    "navi_location": {
+                        "lng": 119.15022996775,
+                        "lat": 26.154578786062
+                    },
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d52831f926226dda2ffaa7a7&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "4",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "闽侯县自来水公司",
+                "location": {
+                    "lat": 26.154229,
+                    "lng": 119.15233
+                },
+                "address": "福州市闽侯县818西路58号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "6ed3083a45c0e5b72a3a9fab",
+                "telephone": "(0591)22980400",
+                "detail": 1,
+                "uid": "6ed3083a45c0e5b72a3a9fab",
+                "detail_info": {
+                    "distance": 446,
+                    "tag": "生活服务;公用事业",
+                    "navi_location": {
+                        "lng": 119.15213892175,
+                        "lat": 26.154126383145
+                    },
+                    "type": "enterprise",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6ed3083a45c0e5b72a3a9fab&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国体育彩票",
+                "location": {
+                    "lat": 26.148036,
+                    "lng": 119.152946
+                },
+                "address": "福州市闽侯县入城路60号(海京超市对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "49ae2d241876661c72210bef",
+                "detail": 1,
+                "uid": "49ae2d241876661c72210bef",
+                "detail_info": {
+                    "distance": 293,
+                    "tag": "生活服务;彩票销售点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=49ae2d241876661c72210bef&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "3",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "钟爱一生婚纱摄影(入城路)",
+                "location": {
+                    "lat": 26.154024,
+                    "lng": 119.151714
+                },
+                "address": "福州市闽侯县818西路97号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "e14c6e437329384304fef558",
+                "telephone": "(0591)22070021",
+                "detail": 1,
+                "uid": "e14c6e437329384304fef558",
+                "detail_info": {
+                    "distance": 452,
+                    "tag": "生活服务;照相馆",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e14c6e437329384304fef558&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "手机维修服务中心",
+                "location": {
+                    "lat": 26.153845,
+                    "lng": 119.152491
+                },
+                "address": "亭下街与入城路交叉口东南50米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "detail": 1,
+                "uid": "b5c50b471f0adb1c22f01752",
+                "detail_info": {
+                    "distance": 400,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b5c50b471f0adb1c22f01752&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国体育彩票",
+                "location": {
+                    "lat": 26.153489,
+                    "lng": 119.152749
+                },
+                "address": "福建省福州市闽侯县甘蔗街道五福滨城大道员工公寓南门",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "18103bace795c93fca1b952e",
+                "telephone": "(0591)22075226,(0591)22072248",
+                "detail": 1,
+                "uid": "18103bace795c93fca1b952e",
+                "detail_info": {
+                    "distance": 354,
+                    "tag": "生活服务;彩票销售点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=18103bace795c93fca1b952e&output=html&source=placeapi_v2",
+                    "image_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国联通(丽景店)",
+                "location": {
+                    "lat": 26.148579,
+                    "lng": 119.157642
+                },
+                "address": "城新区昙石山西大道3号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "3e47957c5399606f3a13fded",
+                "telephone": "(0591)38266616",
+                "detail": 1,
+                "uid": "3e47957c5399606f3a13fded",
+                "detail_info": {
+                    "distance": 422,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3e47957c5399606f3a13fded&output=html&source=placeapi_v2",
+                    "image_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国旅行社(入城路店)",
+                "location": {
+                    "lat": 26.154256,
+                    "lng": 119.157647
+                },
+                "address": "甘蔗街道八中路156号邮政大厦3楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "28824f4cff1eb1d36140a935",
+                "telephone": "(0591)22073338",
+                "detail": 1,
+                "uid": "28824f4cff1eb1d36140a935",
+                "detail_info": {
+                    "distance": 554,
+                    "tag": "公司企业;公司",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=28824f4cff1eb1d36140a935&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "麦田房产(新城丽景店)",
+                "location": {
+                    "lat": 26.148168,
+                    "lng": 119.158295
+                },
+                "address": "福建省福州市闽侯县X115",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "闽侯县",
+                "street_id": "6b3ff9254c84d51c6fc02c0d",
+                "detail": 1,
+                "uid": "6b3ff9254c84d51c6fc02c0d",
+                "detail_info": {
+                    "distance": 501,
+                    "tag": "生活服务;房产中介机构",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6b3ff9254c84d51c6fc02c0d&output=html&source=placeapi_v2",
+                    "overall_rating": "2.0",
+                    "image_num": "4",
+                    "comment_num": "3",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}

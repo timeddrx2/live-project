@@ -1,0 +1,2258 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "甜蜜记忆雪花山楂(则徐大道店)",
+                "location": {
+                    "lat": 26.033549,
+                    "lng": 119.342075
+                },
+                "address": "福建省福州市仓山区沃尔玛则徐大道商业广场2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "18360869874",
+                "detail": 1,
+                "uid": "37f55f6dc314fc7e4e776e3d",
+                "detail_info": {
+                    "distance": 287,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=37f55f6dc314fc7e4e776e3d&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "2",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "尚干依清拌面扁肉店",
+                "location": {
+                    "lat": 26.032777,
+                    "lng": 119.344179
+                },
+                "address": "福州市仓山区连江南路731-20号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "7fd88373fb2e80083586f4d0",
+                "detail_info": {
+                    "distance": 342,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7fd88373fb2e80083586f4d0&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福粥(万达店)",
+                "location": {
+                    "lat": 26.032562,
+                    "lng": 119.343474
+                },
+                "address": "建新镇后巷路131号金霞小区1#楼一层1-1店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "f3bf1e140051a9472fe67b0c",
+                "detail_info": {
+                    "distance": 359,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f3bf1e140051a9472fe67b0c&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "从此以后(白湖亭店)",
+                "location": {
+                    "lat": 26.032845,
+                    "lng": 119.34107
+                },
+                "address": "则徐大道389号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "a4b35f089e27bce7a8f0cdab",
+                "detail": 1,
+                "uid": "a4b35f089e27bce7a8f0cdab",
+                "detail_info": {
+                    "distance": 407,
+                    "tag": "美食",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a4b35f089e27bce7a8f0cdab&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "无名面庄",
+                "location": {
+                    "lat": 26.03898,
+                    "lng": 119.345874
+                },
+                "address": "福建省福州市仓山区龙院路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "67630340bbadd477d0ff2326",
+                "detail_info": {
+                    "distance": 426,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=67630340bbadd477d0ff2326&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "扬州特色风味包",
+                "location": {
+                    "lat": 26.039521,
+                    "lng": 119.342241
+                },
+                "address": "福建省福州市仓山区连江南路499号东60米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "78781d2e94e5ab2000ec0189",
+                "detail_info": {
+                    "distance": 432,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=78781d2e94e5ab2000ec0189&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "川渝食店",
+                "location": {
+                    "lat": 26.038986,
+                    "lng": 119.346006
+                },
+                "address": "福建省福州市仓山区龙院路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "a08c78b4472b8adfadcb6652",
+                "detail": 1,
+                "uid": "a08c78b4472b8adfadcb6652",
+                "detail_info": {
+                    "distance": 434,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a08c78b4472b8adfadcb6652&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "阿炳饭店",
+                "location": {
+                    "lat": 26.039846,
+                    "lng": 119.343022
+                },
+                "address": "高湖路1号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e93ae7b527548eb27369d37e",
+                "detail": 1,
+                "uid": "e93ae7b527548eb27369d37e",
+                "detail_info": {
+                    "distance": 452,
+                    "tag": "美食;中餐厅",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e93ae7b527548eb27369d37e&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "阿肥发扁食(福建商业广场店)",
+                "location": {
+                    "lat": 26.033148,
+                    "lng": 119.340827
+                },
+                "address": "则徐大道379号福建商业广场一楼沿街商铺(广场西门旁)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "c49f1cec16bc5ea99e9d6859",
+                "detail_info": {
+                    "distance": 396,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c49f1cec16bc5ea99e9d6859&output=html&source=placeapi_v2",
+                    "overall_rating": "3.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "贝鲁西斯(连江南路店)",
+                "location": {
+                    "lat": 26.032799,
+                    "lng": 119.344099
+                },
+                "address": "盖山镇连江南路731号金色康城21#楼一层05号店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c36aaae38e62dceaa11de9fa",
+                "telephone": "13067422875",
+                "detail": 1,
+                "uid": "c36aaae38e62dceaa11de9fa",
+                "detail_info": {
+                    "distance": 339,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c36aaae38e62dceaa11de9fa&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "尚干小吃店(龙院路店)",
+                "location": {
+                    "lat": 26.036577,
+                    "lng": 119.342368
+                },
+                "address": "福州市仓山区龙院路55号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "0e6f51787dd0157446e2748b",
+                "telephone": "13489153419",
+                "detail": 1,
+                "uid": "0e6f51787dd0157446e2748b",
+                "detail_info": {
+                    "distance": 141,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0e6f51787dd0157446e2748b&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "沙县小吃(连江南路)",
+                "location": {
+                    "lat": 26.036379,
+                    "lng": 119.342187
+                },
+                "address": "福建省福州市仓山区连江南路689号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e285d7e8a2d289419f09f72d",
+                "telephone": "13850192022",
+                "detail": 1,
+                "uid": "e285d7e8a2d289419f09f72d",
+                "detail_info": {
+                    "distance": 144,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e285d7e8a2d289419f09f72d&output=html&source=placeapi_v2",
+                    "price": "13.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "湖北特色小吃馆",
+                "location": {
+                    "lat": 26.036705,
+                    "lng": 119.342097
+                },
+                "address": "福州市仓山区龙院路148号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "692dcc385b20431e43afe642",
+                "detail_info": {
+                    "distance": 171,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=692dcc385b20431e43afe642&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "浓浓小吃店",
+                "location": {
+                    "lat": 26.038292,
+                    "lng": 119.3452
+                },
+                "address": "福建省福州市仓山区龙院路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "c960811c479c077abb17e785",
+                "detail_info": {
+                    "distance": 325,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c960811c479c077abb17e785&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "鸡排逗士(白湖亭店)",
+                "location": {
+                    "lat": 26.03256,
+                    "lng": 119.343449
+                },
+                "address": "福州市仓山区连江南路731号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "db2dfd0cdd74db274c3a59f2",
+                "telephone": "13509359135,17061925591",
+                "detail": 1,
+                "uid": "db2dfd0cdd74db274c3a59f2",
+                "detail_info": {
+                    "distance": 360,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=db2dfd0cdd74db274c3a59f2&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "香香小吃小炒",
+                "location": {
+                    "lat": 26.039359,
+                    "lng": 119.342052
+                },
+                "address": "福建省福州市仓山区高湖路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "a2bdaee5ea500765c356ac42",
+                "detail_info": {
+                    "distance": 421,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a2bdaee5ea500765c356ac42&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "重庆小面馆",
+                "location": {
+                    "lat": 26.038271,
+                    "lng": 119.346034
+                },
+                "address": "福建省福州市仓山区则徐大道200号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "15223156297",
+                "detail": 1,
+                "uid": "095da00aac55010ff72310e2",
+                "detail_info": {
+                    "distance": 374,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=095da00aac55010ff72310e2&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "尚干德鑫拌面扁肉(连江南路店)",
+                "location": {
+                    "lat": 26.03983,
+                    "lng": 119.342366
+                },
+                "address": "福建省福州市仓山区连江南路695号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "a635bded0831ca762cb96d87",
+                "telephone": "18959333458",
+                "detail": 1,
+                "uid": "a635bded0831ca762cb96d87",
+                "detail_info": {
+                    "distance": 462,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a635bded0831ca762cb96d87&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "日之船章鱼小丸子(白湖亭店)",
+                "location": {
+                    "lat": 26.032811,
+                    "lng": 119.341263
+                },
+                "address": "福州市仓山区则徐大道379号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c4407c5f7c6811e4afee7a82",
+                "detail": 1,
+                "uid": "c4407c5f7c6811e4afee7a82",
+                "detail_info": {
+                    "distance": 399,
+                    "tag": "美食;小吃快餐店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c4407c5f7c6811e4afee7a82&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "宫水茶屋(仓山区店)",
+                "location": {
+                    "lat": 26.033009,
+                    "lng": 119.341936
+                },
+                "address": "福州市仓山区则徐大道379号沃尔玛二楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "2ce0572dd5d80cf6babd63ed",
+                "detail_info": {
+                    "distance": 346,
+                    "tag": "美食;茶座",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2ce0572dd5d80cf6babd63ed&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "哈鲜茶高湖二店",
+                "location": {
+                    "lat": 26.039647,
+                    "lng": 119.342404
+                },
+                "address": "福建省福州市仓山区高湖路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "15980168951",
+                "detail": 1,
+                "uid": "fa8c03ce96493c782efaa7cc",
+                "detail_info": {
+                    "distance": 441,
+                    "tag": "美食;蛋糕甜品店",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fa8c03ce96493c782efaa7cc&output=html&source=placeapi_v2",
+                    "price": "6.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "广汽丰田食堂(上楼二楼)",
+                "location": {
+                    "lat": 26.035044,
+                    "lng": 119.339074
+                },
+                "address": "福州市仓山区则徐大道319号宾联仓山店广汽丰田",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "ea8c55f904252e388bfc0649",
+                "detail_info": {
+                    "distance": 448,
+                    "tag": "美食;其他",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ea8c55f904252e388bfc0649&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福建商业广场",
+                "location": {
+                    "lat": 26.033446,
+                    "lng": 119.341351
+                },
+                "address": "则徐大道379号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "a03e1f80afab5914d02dd6f2",
+                "telephone": "(0591)38723525",
+                "detail": 1,
+                "uid": "a03e1f80afab5914d02dd6f2",
+                "detail_info": {
+                    "distance": 337,
+                    "tag": "购物;购物中心",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a03e1f80afab5914d02dd6f2&output=html&source=placeapi_v2",
+                    "overall_rating": "3.8",
+                    "comment_num": "5",
+                    "children": []
+                }
+            },
+            {
+                "name": "沃尔玛购物广场(则徐分店)",
+                "location": {
+                    "lat": 26.033388,
+                    "lng": 119.341715
+                },
+                "address": "福州市仓山区则徐大道379号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "008d9d034a66fb6dc92915a9",
+                "telephone": "(0591)38253580",
+                "detail": 1,
+                "uid": "008d9d034a66fb6dc92915a9",
+                "detail_info": {
+                    "distance": 321,
+                    "tag": "购物;超市",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=008d9d034a66fb6dc92915a9&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "19",
+                    "children": []
+                }
+            },
+            {
+                "name": "美域东方",
+                "location": {
+                    "lat": 26.033467,
+                    "lng": 119.345804
+                },
+                "address": "福建省福州市仓山区双湖二路96",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "bd8c27c5df3f5713f92d6149",
+                "detail": 1,
+                "uid": "bd8c27c5df3f5713f92d6149",
+                "detail_info": {
+                    "distance": 347,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bd8c27c5df3f5713f92d6149&output=html&source=placeapi_v2",
+                    "overall_rating": "4.3",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "苏宁易购(仓山则徐广场店)",
+                "location": {
+                    "lat": 26.032969,
+                    "lng": 119.341216
+                },
+                "address": "福州市仓山区则徐大道379号福建商业广场2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "beabdbf4df5c03e57069d32e",
+                "detail": 1,
+                "uid": "beabdbf4df5c03e57069d32e",
+                "detail_info": {
+                    "distance": 387,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=beabdbf4df5c03e57069d32e&output=html&source=placeapi_v2",
+                    "price": "2615.0",
+                    "overall_rating": "4.3",
+                    "comment_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "易多多便利",
+                "location": {
+                    "lat": 26.036203,
+                    "lng": 119.34198
+                },
+                "address": "盖山镇高湖村连江南路685号一层-1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "be6d54a8be2e788a100daa1a",
+                "telephone": "15859128688",
+                "detail": 1,
+                "uid": "be6d54a8be2e788a100daa1a",
+                "detail_info": {
+                    "distance": 157,
+                    "tag": "购物;便利店",
+                    "navi_location": {
+                        "lng": 119.34191070822,
+                        "lat": 26.036316968345
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=be6d54a8be2e788a100daa1a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "小米授权体验店(福州苏宁则徐店)",
+                "location": {
+                    "lat": 26.032903,
+                    "lng": 119.341097
+                },
+                "address": "福州市仓山区则徐大道379号福建商业广场2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "03b1b3c5a56c86b3704b87e5",
+                "detail": 1,
+                "uid": "03b1b3c5a56c86b3704b87e5",
+                "detail_info": {
+                    "distance": 400,
+                    "tag": "购物;家电数码",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=03b1b3c5a56c86b3704b87e5&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "comment_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "永相逢生鲜超市(高湖店)",
+                "location": {
+                    "lat": 26.039359,
+                    "lng": 119.341755
+                },
+                "address": "福州市仓山区连江南路507号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "89f7f9106f65bc72734b873e",
+                "telephone": "18659128898",
+                "detail": 1,
+                "uid": "89f7f9106f65bc72734b873e",
+                "detail_info": {
+                    "distance": 432,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=89f7f9106f65bc72734b873e&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "周六福(福建商业广场店)",
+                "location": {
+                    "lat": 26.033297,
+                    "lng": 119.3416
+                },
+                "address": "则徐大道379号商贸购物中心2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c2bfb2e0fcbdcd44b220a880",
+                "detail": 1,
+                "uid": "c2bfb2e0fcbdcd44b220a880",
+                "detail_info": {
+                    "distance": 335,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c2bfb2e0fcbdcd44b220a880&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "山水花卉超市",
+                "location": {
+                    "lat": 26.034001,
+                    "lng": 119.342207
+                },
+                "address": "则徐大道379看j砍价哦-29号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "9d1682c06edaab8ab23c810d",
+                "detail_info": {
+                    "distance": 237,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9d1682c06edaab8ab23c810d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "幸福万家批发超市",
+                "location": {
+                    "lat": 26.036874,
+                    "lng": 119.343231
+                },
+                "address": "高湖村龙院路8号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "d062300ab531f1639e95def9",
+                "telephone": "13600785660",
+                "detail": 1,
+                "uid": "d062300ab531f1639e95def9",
+                "detail_info": {
+                    "distance": 122,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d062300ab531f1639e95def9&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "汝易便利",
+                "location": {
+                    "lat": 26.03626,
+                    "lng": 119.342066
+                },
+                "address": "福州市仓山区连江南路673号-1",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c202ba0a7d0fe6a6f4b916e8",
+                "telephone": "18960766756",
+                "detail": 1,
+                "uid": "c202ba0a7d0fe6a6f4b916e8",
+                "detail_info": {
+                    "distance": 150,
+                    "tag": "购物;便利店",
+                    "navi_location": {
+                        "lng": 119.34179894823,
+                        "lat": 26.036459598786
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c202ba0a7d0fe6a6f4b916e8&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "以纯专卖店",
+                "location": {
+                    "lat": 26.033398,
+                    "lng": 119.341733
+                },
+                "address": "则徐大道379号3层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "f2f1c86cbb5d3573601809f3",
+                "detail_info": {
+                    "distance": 319,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f2f1c86cbb5d3573601809f3&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "忠义塑革",
+                "location": {
+                    "lat": 26.0372,
+                    "lng": 119.341854
+                },
+                "address": "福建省福州市仓山区连江南路637号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "13328277338",
+                "detail": 1,
+                "uid": "ad57c7ad692af7bb70210b40",
+                "detail_info": {
+                    "distance": 225,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ad57c7ad692af7bb70210b40&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "利家连锁超市(高湖店)",
+                "location": {
+                    "lat": 26.037768,
+                    "lng": 119.344118
+                },
+                "address": "福州市仓山区龙院路270号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "56f2f6963892fe800aa8d450",
+                "telephone": "15059255001",
+                "detail": 1,
+                "uid": "56f2f6963892fe800aa8d450",
+                "detail_info": {
+                    "distance": 228,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=56f2f6963892fe800aa8d450&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "镒源连锁超市(高湖店)",
+                "location": {
+                    "lat": 26.038671,
+                    "lng": 119.346191
+                },
+                "address": "福建省福州市仓山区盖山镇龙院路富民花园东北200米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "cd9d05ddfc0ff3b685420e50",
+                "detail": 1,
+                "uid": "cd9d05ddfc0ff3b685420e50",
+                "detail_info": {
+                    "distance": 418,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cd9d05ddfc0ff3b685420e50&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "森马(福建商业广场店)",
+                "location": {
+                    "lat": 26.032912,
+                    "lng": 119.341313
+                },
+                "address": "则徐大道379号商贸购物中心2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c854df62be59933cb11e36da",
+                "detail": 1,
+                "uid": "c854df62be59933cb11e36da",
+                "detail_info": {
+                    "distance": 387,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c854df62be59933cb11e36da&output=html&source=placeapi_v2",
+                    "price": "0.0",
+                    "overall_rating": "4.0",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "潇音琴行",
+                "location": {
+                    "lat": 26.033307,
+                    "lng": 119.344696
+                },
+                "address": "福建省福州市仓山区双湖二路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "17805954996",
+                "detail": 1,
+                "uid": "19c077b26d8891be9d95de2f",
+                "detail_info": {
+                    "distance": 302,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=19c077b26d8891be9d95de2f&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "李南五金配件店",
+                "location": {
+                    "lat": 26.03922,
+                    "lng": 119.341771
+                },
+                "address": "连江南路509号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "9cf93e490b294911cae33c0a",
+                "telephone": "(0591)62768603",
+                "detail": 1,
+                "uid": "9cf93e490b294911cae33c0a",
+                "detail_info": {
+                    "distance": 417,
+                    "tag": "购物;家居建材",
+                    "navi_location": {
+                        "lng": 119.34162705388,
+                        "lat": 26.039231497299
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9cf93e490b294911cae33c0a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "衡发百货连锁超市(高湖店)",
+                "location": {
+                    "lat": 26.037111,
+                    "lng": 119.342923
+                },
+                "address": "福建省福州市仓山区高湖村龙院11-2号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "642f0c5de2ba194bc9fa5f35",
+                "detail": 1,
+                "uid": "642f0c5de2ba194bc9fa5f35",
+                "detail_info": {
+                    "distance": 156,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=642f0c5de2ba194bc9fa5f35&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "亿家利便利店",
+                "location": {
+                    "lat": 26.039057,
+                    "lng": 119.342626
+                },
+                "address": "福建省福州市仓山区高湖路1号东60米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "5db0fd593bb51f475a3ac884",
+                "detail_info": {
+                    "distance": 372,
+                    "tag": "购物;便利店",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5db0fd593bb51f475a3ac884&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "明丰电器",
+                "location": {
+                    "lat": 26.038198,
+                    "lng": 119.345034
+                },
+                "address": "福建省福州市仓山区盖山镇龙院路87号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "56da52c569182796283a9fda",
+                "telephone": "13645026008",
+                "detail": 1,
+                "uid": "56da52c569182796283a9fda",
+                "detail_info": {
+                    "distance": 308,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=56da52c569182796283a9fda&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国金店(白湖亭分店)",
+                "location": {
+                    "lat": 26.033129,
+                    "lng": 119.341322
+                },
+                "address": "福州市仓山区白湖亭沃尔玛二楼中国金店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "40cff26a1c646d4aadb22ab4",
+                "detail_info": {
+                    "distance": 367,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=40cff26a1c646d4aadb22ab4&output=html&source=placeapi_v2",
+                    "comment_num": "0",
+                    "children": []
+                }
+            },
+            {
+                "name": "彩咖化妆品店",
+                "location": {
+                    "lat": 26.033176,
+                    "lng": 119.341259
+                },
+                "address": "白湖亭商业广场一楼C2-2",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "4db112405fc880e0ce04efaa",
+                "detail_info": {
+                    "distance": 366,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4db112405fc880e0ce04efaa&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "小胡手机贴膜现场换手机屏",
+                "location": {
+                    "lat": 26.032434,
+                    "lng": 119.342996
+                },
+                "address": "福州市仓山区盖山镇连江南路中国人寿大楼靠天桥马路边",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "e996d80c0f4ad7649a005053",
+                "detail_info": {
+                    "distance": 377,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e996d80c0f4ad7649a005053&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "鑫博凯家居",
+                "location": {
+                    "lat": 26.03236,
+                    "lng": 119.341322
+                },
+                "address": "盖山镇则徐大道379号沃尔玛对面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "6a1ee01aade301a78af15d1e",
+                "telephone": "(0591)83514385",
+                "detail": 1,
+                "uid": "6a1ee01aade301a78af15d1e",
+                "detail_info": {
+                    "distance": 439,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6a1ee01aade301a78af15d1e&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "东方宝贝(高湖店)",
+                "location": {
+                    "lat": 26.039627,
+                    "lng": 119.342447
+                },
+                "address": "福建省福州市仓山区盖山镇友谊路ABC双语幼儿园",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "7e0350800c1778ad00ff2d9a",
+                "telephone": "18705017876",
+                "detail": 1,
+                "uid": "7e0350800c1778ad00ff2d9a",
+                "detail_info": {
+                    "distance": 438,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34240678486,
+                        "lat": 26.039516209447
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7e0350800c1778ad00ff2d9a&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "兴盛不锈钢",
+                "location": {
+                    "lat": 26.036713,
+                    "lng": 119.342765
+                },
+                "address": "福州市仓山区龙院43号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "2ecf0a5d016d5722901fc9ed",
+                "telephone": "13599088053",
+                "detail": 1,
+                "uid": "2ecf0a5d016d5722901fc9ed",
+                "detail_info": {
+                    "distance": 124,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2ecf0a5d016d5722901fc9ed&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "佑福香烛店",
+                "location": {
+                    "lat": 26.0372,
+                    "lng": 119.342788
+                },
+                "address": "福州市仓山区龙院268号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b253f650f23218c3626858c8",
+                "detail": 1,
+                "uid": "b253f650f23218c3626858c8",
+                "detail_info": {
+                    "distance": 170,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b253f650f23218c3626858c8&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "宏盛标准件",
+                "location": {
+                    "lat": 26.03621,
+                    "lng": 119.342012
+                },
+                "address": "福州市仓山区连江南路689号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "146ee2ac0e41a7f57ab55c97",
+                "telephone": "15859095731",
+                "detail": 1,
+                "uid": "146ee2ac0e41a7f57ab55c97",
+                "detail_info": {
+                    "distance": 154,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=146ee2ac0e41a7f57ab55c97&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "铨星瓦片五金店",
+                "location": {
+                    "lat": 26.036624,
+                    "lng": 119.341962
+                },
+                "address": "福州市连江南路673号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "f4b40252e4ac2c97354aae38",
+                "telephone": "(0591)83538270",
+                "detail": 1,
+                "uid": "f4b40252e4ac2c97354aae38",
+                "detail_info": {
+                    "distance": 177,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f4b40252e4ac2c97354aae38&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "歆灵贝贝母婴用品",
+                "location": {
+                    "lat": 26.037446,
+                    "lng": 119.343368
+                },
+                "address": "盖山镇龙院路136号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "17720775563",
+                "detail": 1,
+                "uid": "8390426bdfa2a79eeb12e44d",
+                "detail_info": {
+                    "distance": 183,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8390426bdfa2a79eeb12e44d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "聚宝利",
+                "location": {
+                    "lat": 26.037387,
+                    "lng": 119.341836
+                },
+                "address": "福州市连江南路629号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "4aa6e137dafac3ce75e5b656",
+                "telephone": "(0591)83433919,18060798121,18650767601",
+                "detail": 1,
+                "uid": "4aa6e137dafac3ce75e5b656",
+                "detail_info": {
+                    "distance": 241,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4aa6e137dafac3ce75e5b656&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "兴旺家具",
+                "location": {
+                    "lat": 26.03615,
+                    "lng": 119.341997
+                },
+                "address": "福建省福州市仓山区连江南路697号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "c7fa515c2ca7031101294fe4",
+                "detail_info": {
+                    "distance": 153,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c7fa515c2ca7031101294fe4&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "菲菲乐超市(高湖店)",
+                "location": {
+                    "lat": 26.037356,
+                    "lng": 119.343504
+                },
+                "address": "福州市仓山区龙院路128号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "31b15a09ca9b7707b2077d0b",
+                "detail": 1,
+                "uid": "31b15a09ca9b7707b2077d0b",
+                "detail_info": {
+                    "distance": 173,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=31b15a09ca9b7707b2077d0b&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福顺康脚轮",
+                "location": {
+                    "lat": 26.0366,
+                    "lng": 119.341953
+                },
+                "address": "连江南路444号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "ddb25c661d3f28b15cbe86c6",
+                "telephone": "(0591)83476899",
+                "detail": 1,
+                "uid": "ddb25c661d3f28b15cbe86c6",
+                "detail_info": {
+                    "distance": 177,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ddb25c661d3f28b15cbe86c6&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "吉祥润滑油店",
+                "location": {
+                    "lat": 26.036583,
+                    "lng": 119.341935
+                },
+                "address": "福建省福州市仓山区连江南路635号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "29d1ffd6efeccd7e0accdda5",
+                "detail_info": {
+                    "distance": 177,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=29d1ffd6efeccd7e0accdda5&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼顶彩瓦加层钢结构厂房做铁门装锁",
+                "location": {
+                    "lat": 26.037379,
+                    "lng": 119.344112
+                },
+                "address": "福建省福州市仓山区龙院路270号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "2ade42fdf3d4ecfa43afe654",
+                "detail": 1,
+                "uid": "2ade42fdf3d4ecfa43afe654",
+                "detail_info": {
+                    "distance": 186,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2ade42fdf3d4ecfa43afe654&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "威锋电脑科技",
+                "location": {
+                    "lat": 26.0374,
+                    "lng": 119.344098
+                },
+                "address": "福建省福州市仓山区龙院路270号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "15980250225",
+                "detail": 1,
+                "uid": "fa997c238865e190d42ce2e7",
+                "detail_info": {
+                    "distance": 188,
+                    "tag": "购物;家电数码",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fa997c238865e190d42ce2e7&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "城市佳人",
+                "location": {
+                    "lat": 26.033968,
+                    "lng": 119.342958
+                },
+                "address": "连江南路707号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "83769699f59c7377afee7ab2",
+                "detail_info": {
+                    "distance": 210,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=83769699f59c7377afee7ab2&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "星巴达",
+                "location": {
+                    "lat": 26.037275,
+                    "lng": 119.342102
+                },
+                "address": "连江南路639号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)88310088",
+                "detail": 1,
+                "uid": "06cb6c469ce0d66896f08c21",
+                "detail_info": {
+                    "distance": 214,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=06cb6c469ce0d66896f08c21&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "奥康(福建商业广场店)",
+                "location": {
+                    "lat": 26.033259,
+                    "lng": 119.341822
+                },
+                "address": "福州市仓山区则徐大道379号商贸购物中心2层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "c04c62e950ce8e97130daa65",
+                "telephone": "13850187973",
+                "detail": 1,
+                "uid": "c04c62e950ce8e97130daa65",
+                "detail_info": {
+                    "distance": 327,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c04c62e950ce8e97130daa65&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "凯天鞋业",
+                "location": {
+                    "lat": 26.037633,
+                    "lng": 119.344501
+                },
+                "address": "福州市仓山区盖山镇高湖村龙院路115号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "ac58b6b4eec78fdca0d2308f",
+                "detail_info": {
+                    "distance": 227,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ac58b6b4eec78fdca0d2308f&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "稻草人皮具(商贸购物中心)",
+                "location": {
+                    "lat": 26.033259,
+                    "lng": 119.341822
+                },
+                "address": "福州市仓山区则徐大道379号沃尔玛购物广场2楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "dc0f7af4a408a265ce04ef82",
+                "detail": 1,
+                "uid": "dc0f7af4a408a265ce04ef82",
+                "detail_info": {
+                    "distance": 327,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=dc0f7af4a408a265ce04ef82&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "佳缘生鲜超市(龙院店)",
+                "location": {
+                    "lat": 26.037766,
+                    "lng": 119.3445
+                },
+                "address": "福建省福州市仓山区龙院路270号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "1cf81f0e639923518bfc0653",
+                "detail_info": {
+                    "distance": 241,
+                    "tag": "购物;超市",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1cf81f0e639923518bfc0653&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州海特化工建材公司",
+                "location": {
+                    "lat": 26.036936,
+                    "lng": 119.34141
+                },
+                "address": "福建省福州市仓山区盖山镇连江南路开心幼儿园附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "5ef553537c31faf4246e98be",
+                "detail": 1,
+                "uid": "5ef553537c31faf4246e98be",
+                "detail_info": {
+                    "distance": 243,
+                    "tag": "公司企业;公司",
+                    "type": "enterprise",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=5ef553537c31faf4246e98be&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州仓山老黄蓄电池经营部",
+                "location": {
+                    "lat": 26.037484,
+                    "lng": 119.341908
+                },
+                "address": "福建省福州市仓山区盖山镇仓山连江南路617号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "705b5b62dfb0db3628201a66",
+                "telephone": "13600809110",
+                "detail": 1,
+                "uid": "705b5b62dfb0db3628201a66",
+                "detail_info": {
+                    "distance": 244,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=705b5b62dfb0db3628201a66&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "娇兰佳人(福建商业广场店)",
+                "location": {
+                    "lat": 26.033464,
+                    "lng": 119.341379
+                },
+                "address": "则徐大道379号主楼一层A9一1号铺白湖亭福建商业广场",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b3278ef9a242ad70b75f1edf",
+                "telephone": "(0591)28058902",
+                "detail": 1,
+                "uid": "b3278ef9a242ad70b75f1edf",
+                "detail_info": {
+                    "distance": 334,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b3278ef9a242ad70b75f1edf&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "永鑫脚轮推车",
+                "location": {
+                    "lat": 26.037711,
+                    "lng": 119.341784
+                },
+                "address": "盖山镇连江南路601号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "02e53921b86a32536240a9e1",
+                "telephone": "18559186252",
+                "detail": 1,
+                "uid": "02e53921b86a32536240a9e1",
+                "detail_info": {
+                    "distance": 272,
+                    "tag": "购物;家居建材",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=02e53921b86a32536240a9e1&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "台铃电动车",
+                "location": {
+                    "lat": 26.03819,
+                    "lng": 119.345034
+                },
+                "address": "龙院路79号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "13705032742",
+                "detail": 1,
+                "uid": "d0d9e963d156f3518bfc063d",
+                "detail_info": {
+                    "distance": 307,
+                    "tag": "购物;商铺",
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d0d9e963d156f3518bfc063d&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "银饰美(福建商业广场店)",
+                "location": {
+                    "lat": 26.033261,
+                    "lng": 119.341822
+                },
+                "address": "则徐大道379号商贸购物中心1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b686174c2862c65229fc4801",
+                "detail": 1,
+                "uid": "b686174c2862c65229fc4801",
+                "detail_info": {
+                    "distance": 327,
+                    "tag": "购物;商铺",
+                    "navi_location": {
+                        "lng": 119.34210456973,
+                        "lat": 26.033759215686
+                    },
+                    "type": "shopping",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b686174c2862c65229fc4801&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "佳人照相馆",
+                "location": {
+                    "lat": 26.032769,
+                    "lng": 119.344519
+                },
+                "address": "福建省福州市仓山区连江南路731号金色康城22号1层03店面",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "4c9beaff45084861c7f50db2",
+                "detail_info": {
+                    "distance": 352,
+                    "tag": "生活服务;照相馆",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4c9beaff45084861c7f50db2&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "4",
+                    "children": []
+                }
+            },
+            {
+                "name": "公共厕所",
+                "location": {
+                    "lat": 26.036013,
+                    "lng": 119.342258
+                },
+                "address": "福州市仓山区高湖龙院连江南路705号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "f55c7c6a7b2cd6de04fef500",
+                "detail_info": {
+                    "distance": 125,
+                    "tag": "生活服务;公共厕所",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f55c7c6a7b2cd6de04fef500&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国电信(福建商业广场店)",
+                "location": {
+                    "lat": 26.033332,
+                    "lng": 119.34193
+                },
+                "address": "盖山镇则徐大道福建商业广场一楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "8b33e067171c4a854d3a5931",
+                "detail_info": {
+                    "distance": 315,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8b33e067171c4a854d3a5931&output=html&source=placeapi_v2",
+                    "image_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "贵利打铁店",
+                "location": {
+                    "lat": 26.038085,
+                    "lng": 119.341809
+                },
+                "address": "福州市连江南路589号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "ce93bc6646b28487b21e36d4",
+                "telephone": "15259100203,13960756122",
+                "detail": 1,
+                "uid": "ce93bc6646b28487b21e36d4",
+                "detail_info": {
+                    "distance": 304,
+                    "tag": "生活服务",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ce93bc6646b28487b21e36d4&output=html&source=placeapi_v2",
+                    "image_num": "13",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州高辉家政服务有限公司(仓山店)",
+                "location": {
+                    "lat": 26.033941,
+                    "lng": 119.346556
+                },
+                "address": "盖山镇双湖二路96号美域东方5号楼南侧05店(白湖亭)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "39e5fc0806cce43a7ec876eb",
+                "detail_info": {
+                    "distance": 369,
+                    "tag": "生活服务;家政服务",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=39e5fc0806cce43a7ec876eb&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "image_num": "3",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "永鸿美域东方营销中心",
+                "location": {
+                    "lat": 26.033505,
+                    "lng": 119.346302
+                },
+                "address": "盖山镇双湖二路96号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "c23c29a2f6253265e6e96568",
+                "detail_info": {
+                    "distance": 379,
+                    "tag": "生活服务",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c23c29a2f6253265e6e96568&output=html&source=placeapi_v2",
+                    "image_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "中国联通",
+                "location": {
+                    "lat": 26.037898,
+                    "lng": 119.344298
+                },
+                "address": "福州市仓山区龙院路69号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "a0de648e5826742615a19024",
+                "detail_info": {
+                    "distance": 247,
+                    "tag": "生活服务;通讯营业厅",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a0de648e5826742615a19024&output=html&source=placeapi_v2",
+                    "image_num": "3",
+                    "children": []
+                }
+            },
+            {
+                "name": "韵达福州公司金浦分部",
+                "location": {
+                    "lat": 26.032769,
+                    "lng": 119.344519
+                },
+                "address": "连江南路731号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e71cf90108ef526e0a5cb389",
+                "telephone": "13720810526",
+                "detail": 1,
+                "uid": "e71cf90108ef526e0a5cb389",
+                "detail_info": {
+                    "distance": 352,
+                    "tag": "生活服务;物流公司",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e71cf90108ef526e0a5cb389&output=html&source=placeapi_v2",
+                    "image_num": "4",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "菜鸟驿站(福州金色康城22栋店)",
+                "location": {
+                    "lat": 26.032935,
+                    "lng": 119.344502
+                },
+                "address": "福建省福州市仓山区盖山镇连江南路731号金色康城22栋05店菜鸟驿站",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "18606062373",
+                "detail": 1,
+                "uid": "1a089a8b770916607ab55c7c",
+                "detail_info": {
+                    "distance": 334,
+                    "tag": "生活服务;物流公司",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=1a089a8b770916607ab55c7c&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "明辉线切割加工店",
+                "location": {
+                    "lat": 26.037711,
+                    "lng": 119.341784
+                },
+                "address": "盖山镇连江南路599号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "ca28b0887ef6c0f5ad045795",
+                "telephone": "13763893671",
+                "detail": 1,
+                "uid": "ca28b0887ef6c0f5ad045795",
+                "detail_info": {
+                    "distance": 272,
+                    "tag": "生活服务;其他",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ca28b0887ef6c0f5ad045795&output=html&source=placeapi_v2",
+                    "image_num": "14",
+                    "children": []
+                }
+            },
+            {
+                "name": "广源机械加工店",
+                "location": {
+                    "lat": 26.037328,
+                    "lng": 119.341851
+                },
+                "address": "连江南路625号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e55e40977334a3034d2fdfd3",
+                "detail": 1,
+                "uid": "e55e40977334a3034d2fdfd3",
+                "detail_info": {
+                    "distance": 235,
+                    "tag": "生活服务",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e55e40977334a3034d2fdfd3&output=html&source=placeapi_v2",
+                    "image_num": "10",
+                    "children": []
+                }
+            },
+            {
+                "name": "麦田房产(双湖二路店)",
+                "location": {
+                    "lat": 26.032514,
+                    "lng": 119.343314
+                },
+                "address": "盖山镇连江南路731号金色康城20号1层13-14",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "(0591)88252481",
+                "detail": 1,
+                "uid": "e14f0ddc03a5a1cfa80dd8d8",
+                "detail_info": {
+                    "distance": 365,
+                    "tag": "生活服务;房产中介机构",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e14f0ddc03a5a1cfa80dd8d8&output=html&source=placeapi_v2",
+                    "image_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州劲速自动变速箱维修公司",
+                "location": {
+                    "lat": 26.037928,
+                    "lng": 119.346689
+                },
+                "address": "龙院路164号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "9b35f4d85f0f69ac8c55ec4f",
+                "detail_info": {
+                    "distance": 398,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9b35f4d85f0f69ac8c55ec4f&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "1",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "聪聪电动车修配店",
+                "location": {
+                    "lat": 26.032533,
+                    "lng": 119.343462
+                },
+                "address": "金色康城20幢1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "88a059214fef5a1f96f08cba",
+                "telephone": "13559120256",
+                "detail": 1,
+                "uid": "88a059214fef5a1f96f08cba",
+                "detail_info": {
+                    "distance": 363,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=88a059214fef5a1f96f08cba&output=html&source=placeapi_v2",
+                    "overall_rating": "1.0",
+                    "image_num": "6",
+                    "comment_num": "2",
+                    "children": []
+                }
+            },
+            {
+                "name": "鑫迎达机械加工",
+                "location": {
+                    "lat": 26.03677,
+                    "lng": 119.341944
+                },
+                "address": "福建省福州市仓山区连江南路665号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "13705951947",
+                "detail": 1,
+                "uid": "c934e8794d7688d526d2bb49",
+                "detail_info": {
+                    "distance": 188,
+                    "tag": "生活服务;其他",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c934e8794d7688d526d2bb49&output=html&source=placeapi_v2",
+                    "image_num": "16",
+                    "children": []
+                }
+            },
+            {
+                "name": "兴嘉新模具穿孔线切割加工",
+                "location": {
+                    "lat": 26.03693,
+                    "lng": 119.341921
+                },
+                "address": "连江南路645号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "ecb6988af453472628201afc",
+                "detail": 1,
+                "uid": "ecb6988af453472628201afc",
+                "detail_info": {
+                    "distance": 200,
+                    "tag": "生活服务;其他",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=ecb6988af453472628201afc&output=html&source=placeapi_v2",
+                    "overall_rating": "0.0",
+                    "image_num": "9",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "新华星摩托车电动车配件维修中心",
+                "location": {
+                    "lat": 26.037518,
+                    "lng": 119.344299
+                },
+                "address": "龙院路61号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "3a32916a4f7760aa79dbd234",
+                "telephone": "15806068031",
+                "detail": 1,
+                "uid": "3a32916a4f7760aa79dbd234",
+                "detail_info": {
+                    "distance": 207,
+                    "tag": "生活服务;维修点",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3a32916a4f7760aa79dbd234&output=html&source=placeapi_v2",
+                    "image_num": "6",
+                    "children": []
+                }
+            },
+            {
+                "name": "福达模具CNC加工",
+                "location": {
+                    "lat": 26.037476,
+                    "lng": 119.341881
+                },
+                "address": "连江南路619号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b18ffadf5e59296c88db733d",
+                "telephone": "(0591)83533284",
+                "detail": 1,
+                "uid": "b18ffadf5e59296c88db733d",
+                "detail_info": {
+                    "distance": 246,
+                    "tag": "生活服务;其他",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b18ffadf5e59296c88db733d&output=html&source=placeapi_v2",
+                    "image_num": "15",
+                    "children": []
+                }
+            },
+            {
+                "name": "街电(中国人寿保险股份有限公司连江南路)",
+                "location": {
+                    "lat": 26.031926,
+                    "lng": 119.343259
+                },
+                "address": "福州市仓山区盖山镇仓山科技园内(林则徐广场对面)",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "96e5cd1d9e56eb4ac7f0259c",
+                "detail_info": {
+                    "distance": 431,
+                    "tag": "生活服务;其他",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=96e5cd1d9e56eb4ac7f0259c&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "商运物流有限公司",
+                "location": {
+                    "lat": 26.034239,
+                    "lng": 119.341722
+                },
+                "address": "福州市仓山区则徐大道379号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "4d6bb96be6a14124b020a867",
+                "detail": 1,
+                "uid": "4d6bb96be6a14124b020a867",
+                "detail_info": {
+                    "distance": 247,
+                    "tag": "公司企业;公司",
+                    "navi_location": {
+                        "lng": 119.34224420773,
+                        "lat": 26.034328705261
+                    },
+                    "type": "enterprise",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=4d6bb96be6a14124b020a867&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "宅急送(福州仓山营业部)",
+                "location": {
+                    "lat": 26.034019,
+                    "lng": 119.346684
+                },
+                "address": "福建省福州市仓山区盖山镇双湖2路美域东方五号楼南侧05店",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "telephone": "4006789000",
+                "detail": 1,
+                "uid": "592925610eeaf96d43e192fc",
+                "detail_info": {
+                    "distance": 375,
+                    "tag": "生活服务;物流公司",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=592925610eeaf96d43e192fc&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "铭艺时尚造型(金色康城店)",
+                "location": {
+                    "lat": 26.032498,
+                    "lng": 119.34333
+                },
+                "address": "金色康城20幢1层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "3263f3dc5f0c7f017bf79640",
+                "telephone": "13559939809",
+                "detail": 1,
+                "uid": "3263f3dc5f0c7f017bf79640",
+                "detail_info": {
+                    "distance": 367,
+                    "tag": "丽人;美发",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3263f3dc5f0c7f017bf79640&output=html&source=placeapi_v2",
+                    "price": "80.0",
+                    "overall_rating": "0.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "蓝菲尔美发美容",
+                "location": {
+                    "lat": 26.036916,
+                    "lng": 119.343112
+                },
+                "address": "盖山镇连江南路龙院136号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "2604c94b8a251bdceaf853eb",
+                "telephone": "13799346365",
+                "detail": 1,
+                "uid": "2604c94b8a251bdceaf853eb",
+                "detail_info": {
+                    "distance": 129,
+                    "tag": "丽人;美容",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2604c94b8a251bdceaf853eb&output=html&source=placeapi_v2",
+                    "price": "89.0",
+                    "children": []
+                }
+            },
+            {
+                "name": "创造者形象设计",
+                "location": {
+                    "lat": 26.037882,
+                    "lng": 119.344109
+                },
+                "address": "福建省福州市仓山区龙院路270号附近",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "f60002651fc1639a631809ab",
+                "detail_info": {
+                    "distance": 239,
+                    "tag": "丽人;美发",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f60002651fc1639a631809ab&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "格调造型",
+                "location": {
+                    "lat": 26.032717,
+                    "lng": 119.343996
+                },
+                "address": "盖山镇高湖村桥南199号",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "95d194b3428ab4c50f0e6b80",
+                "detail": 1,
+                "uid": "95d194b3428ab4c50f0e6b80",
+                "detail_info": {
+                    "distance": 346,
+                    "tag": "丽人;美发",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=95d194b3428ab4c50f0e6b80&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "130发艺",
+                "location": {
+                    "lat": 26.037393,
+                    "lng": 119.34336
+                },
+                "address": "盖山镇高湖村龙院路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "6d89060ea352bde340afe6bb",
+                "detail": 1,
+                "uid": "6d89060ea352bde340afe6bb",
+                "detail_info": {
+                    "distance": 177,
+                    "tag": "丽人;美发",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6d89060ea352bde340afe6bb&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "俏美美甲店",
+                "location": {
+                    "lat": 26.033114,
+                    "lng": 119.341425
+                },
+                "address": "则徐大道379号沃尔玛二楼",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "fdf2a8047e367991a8f72996",
+                "detail": 1,
+                "uid": "fdf2a8047e367991a8f72996",
+                "detail_info": {
+                    "distance": 362,
+                    "tag": "丽人;美甲",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fdf2a8047e367991a8f72996&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            },
+            {
+                "name": "名佳发艺",
+                "location": {
+                    "lat": 26.038453,
+                    "lng": 119.345905
+                },
+                "address": "福建省福州市仓山区龙院路",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e319fd64094116b6430245d0",
+                "detail": 1,
+                "uid": "e319fd64094116b6430245d0",
+                "detail_info": {
+                    "distance": 381,
+                    "tag": "丽人;美发",
+                    "type": "beauty",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e319fd64094116b6430245d0&output=html&source=placeapi_v2",
+                    "children": []
+                }
+            }
+        ]
+    ]
+}

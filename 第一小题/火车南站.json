@@ -1,0 +1,1079 @@
+{
+    "shop_list": [
+        [
+            {
+                "name": "福州南站-自动售票机",
+                "location": {
+                    "lat": 25.991585,
+                    "lng": 119.395776
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "df660a1bdc0a8e1a47e2742c",
+                "detail": 1,
+                "uid": "df660a1bdc0a8e1a47e2742c",
+                "detail_info": {
+                    "distance": 466,
+                    "tag": "生活服务;售票处",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=df660a1bdc0a8e1a47e2742c&output=html&source=placeapi_v2",
+                    "overall_rating": "3.0",
+                    "image_num": "1",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州南站-洗手间",
+                "location": {
+                    "lat": 25.992859,
+                    "lng": 119.395456
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "8a6b447c41a6392edc1e525e",
+                "detail": 1,
+                "uid": "8a6b447c41a6392edc1e525e",
+                "detail_info": {
+                    "distance": 358,
+                    "tag": "生活服务;公共厕所",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8a6b447c41a6392edc1e525e&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "吸烟室",
+                "location": {
+                    "lat": 25.992868,
+                    "lng": 119.395461
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e1e410565a04ad1cf8f0cbc2",
+                "detail": 1,
+                "uid": "e1e410565a04ad1cf8f0cbc2",
+                "detail_info": {
+                    "distance": 357,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e1e410565a04ad1cf8f0cbc2&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.993227,
+                    "lng": 119.397305
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "fc66f88a9a92553a2afc488f",
+                "detail": 1,
+                "uid": "fc66f88a9a92553a2afc488f",
+                "detail_info": {
+                    "distance": 249,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=fc66f88a9a92553a2afc488f&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.993164,
+                    "lng": 119.397115
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "e700febf4aa453ff49fd3f80",
+                "detail": 1,
+                "uid": "e700febf4aa453ff49fd3f80",
+                "detail_info": {
+                    "distance": 258,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e700febf4aa453ff49fd3f80&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.993108,
+                    "lng": 119.396938
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "e769bcd29021acfb1b94c626",
+                "detail_info": {
+                    "distance": 268,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=e769bcd29021acfb1b94c626&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992933,
+                    "lng": 119.397416
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "38caae316ac2a2cfd618b728",
+                "detail_info": {
+                    "distance": 280,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=38caae316ac2a2cfd618b728&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992935,
+                    "lng": 119.397414
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "d0830d179cb17d0ca4c756ad",
+                "detail_info": {
+                    "distance": 280,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d0830d179cb17d0ca4c756ad&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992937,
+                    "lng": 119.397418
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "0620ce2d3b2b191281a12edf",
+                "detail_info": {
+                    "distance": 280,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0620ce2d3b2b191281a12edf&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.993043,
+                    "lng": 119.396729
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "acaf53b3d465c7f75fbe863b",
+                "detail_info": {
+                    "distance": 281,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=acaf53b3d465c7f75fbe863b&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992878,
+                    "lng": 119.397232
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "2b221320dd38c2610c0e6bf7",
+                "detail_info": {
+                    "distance": 288,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=2b221320dd38c2610c0e6bf7&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992876,
+                    "lng": 119.39724
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "d99722311069fdc1f7eafcf2",
+                "detail_info": {
+                    "distance": 288,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d99722311069fdc1f7eafcf2&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992872,
+                    "lng": 119.397235
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "f3ec44b6070a2ec1b11e3691",
+                "detail_info": {
+                    "distance": 289,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=f3ec44b6070a2ec1b11e3691&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992819,
+                    "lng": 119.397048
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "9892e87d8cca99e0c61b7585",
+                "detail_info": {
+                    "distance": 297,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=9892e87d8cca99e0c61b7585&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992814,
+                    "lng": 119.397049
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "a6b413ae2c319b44d81318bd",
+                "detail_info": {
+                    "distance": 298,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=a6b413ae2c319b44d81318bd&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992812,
+                    "lng": 119.39705
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "478bcccc80f0f3cbb21e363b",
+                "detail_info": {
+                    "distance": 298,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=478bcccc80f0f3cbb21e363b&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992942,
+                    "lng": 119.396431
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "bc3a61386135364340ab9a74",
+                "detail": 1,
+                "uid": "bc3a61386135364340ab9a74",
+                "detail_info": {
+                    "distance": 302,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=bc3a61386135364340ab9a74&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992754,
+                    "lng": 119.396854
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "7d819f45cbab16c52a201abf",
+                "detail_info": {
+                    "distance": 309,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7d819f45cbab16c52a201abf&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992744,
+                    "lng": 119.396851
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "20fdbf157a0fc4b9a0acc449",
+                "detail_info": {
+                    "distance": 310,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=20fdbf157a0fc4b9a0acc449&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992746,
+                    "lng": 119.396848
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "03b27a8a8670678849fd3f1c",
+                "detail_info": {
+                    "distance": 310,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=03b27a8a8670678849fd3f1c&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992867,
+                    "lng": 119.396221
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "15ec991c522afa26364aae34",
+                "detail": 1,
+                "uid": "15ec991c522afa26364aae34",
+                "detail_info": {
+                    "distance": 318,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=15ec991c522afa26364aae34&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992641,
+                    "lng": 119.396538
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "3e6f73f745aed478cd04eff8",
+                "detail": 1,
+                "uid": "3e6f73f745aed478cd04eff8",
+                "detail_info": {
+                    "distance": 329,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=3e6f73f745aed478cd04eff8&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992644,
+                    "lng": 119.396544
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "91e89ca7b487653741d63e34",
+                "detail": 1,
+                "uid": "91e89ca7b487653741d63e34",
+                "detail_info": {
+                    "distance": 329,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=91e89ca7b487653741d63e34&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992643,
+                    "lng": 119.396545
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b1d4e6fe08fa115902ec01f3",
+                "detail": 1,
+                "uid": "b1d4e6fe08fa115902ec01f3",
+                "detail_info": {
+                    "distance": 329,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b1d4e6fe08fa115902ec01f3&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州南站-残障洗手间",
+                "location": {
+                    "lat": 25.992946,
+                    "lng": 119.395706
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "faeb5082b0fb62a62fb17efc",
+                "detail": 1,
+                "uid": "faeb5082b0fb62a62fb17efc",
+                "detail_info": {
+                    "distance": 336,
+                    "tag": "生活服务;公共厕所",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=faeb5082b0fb62a62fb17efc&output=html&source=placeapi_v2",
+                    "overall_rating": "4.0",
+                    "image_num": "1",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992789,
+                    "lng": 119.395974
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "81d9af3fd39f42dd7dc876f6",
+                "detail": 1,
+                "uid": "81d9af3fd39f42dd7dc876f6",
+                "detail_info": {
+                    "distance": 337,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=81d9af3fd39f42dd7dc876f6&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992583,
+                    "lng": 119.396342
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "6877554d2e6927d3f7e73b50",
+                "detail": 1,
+                "uid": "6877554d2e6927d3f7e73b50",
+                "detail_info": {
+                    "distance": 342,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6877554d2e6927d3f7e73b50&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992584,
+                    "lng": 119.396333
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b6cf59a16aa9d549ca2915ab",
+                "detail": 1,
+                "uid": "b6cf59a16aa9d549ca2915ab",
+                "detail_info": {
+                    "distance": 342,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b6cf59a16aa9d549ca2915ab&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992576,
+                    "lng": 119.396341
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "d18f311719b29279715e80cc",
+                "detail": 1,
+                "uid": "d18f311719b29279715e80cc",
+                "detail_info": {
+                    "distance": 343,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d18f311719b29279715e80cc&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992503,
+                    "lng": 119.396089
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "216b0d5304bdaf5dfb221349",
+                "detail": 1,
+                "uid": "216b0d5304bdaf5dfb221349",
+                "detail_info": {
+                    "distance": 360,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=216b0d5304bdaf5dfb221349&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992505,
+                    "lng": 119.396084
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b05f2464e21fbb666849f3d0",
+                "detail": 1,
+                "uid": "b05f2464e21fbb666849f3d0",
+                "detail_info": {
+                    "distance": 360,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b05f2464e21fbb666849f3d0&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992499,
+                    "lng": 119.396087
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "adde57c68d47fb7788b98846",
+                "detail": 1,
+                "uid": "adde57c68d47fb7788b98846",
+                "detail_info": {
+                    "distance": 361,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=adde57c68d47fb7788b98846&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "饮水处",
+                "location": {
+                    "lat": 25.992801,
+                    "lng": 119.395401
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "b09153038478f1804afd3fb5",
+                "detail": 1,
+                "uid": "b09153038478f1804afd3fb5",
+                "detail_info": {
+                    "distance": 367,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=b09153038478f1804afd3fb5&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "饮水处",
+                "location": {
+                    "lat": 25.99278,
+                    "lng": 119.395364
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "aae8c3622870d1513a13fdd6",
+                "detail": 1,
+                "uid": "aae8c3622870d1513a13fdd6",
+                "detail_info": {
+                    "distance": 371,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=aae8c3622870d1513a13fdd6&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "补票处",
+                "location": {
+                    "lat": 25.992369,
+                    "lng": 119.395924
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "6282a6eaeec64831cac3dbf2",
+                "detail": 1,
+                "uid": "6282a6eaeec64831cac3dbf2",
+                "detail_info": {
+                    "distance": 381,
+                    "tag": "生活服务;售票处",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=6282a6eaeec64831cac3dbf2&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992686,
+                    "lng": 119.395287
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "cc7a6d993cc807e41d1d11d1",
+                "detail": 1,
+                "uid": "cc7a6d993cc807e41d1d11d1",
+                "detail_info": {
+                    "distance": 384,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cc7a6d993cc807e41d1d11d1&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.992687,
+                    "lng": 119.39529
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "0051a16e6a1301c0ce06a474",
+                "detail": 1,
+                "uid": "0051a16e6a1301c0ce06a474",
+                "detail_info": {
+                    "distance": 384,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0051a16e6a1301c0ce06a474&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.991971,
+                    "lng": 119.397801
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "16c6a9c7a274aeb56b49f3ca",
+                "detail_info": {
+                    "distance": 387,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=16c6a9c7a274aeb56b49f3ca&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.99197,
+                    "lng": 119.397803
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "c83806a49e30e0bbf4e73bf4",
+                "detail_info": {
+                    "distance": 387,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c83806a49e30e0bbf4e73bf4&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.991972,
+                    "lng": 119.3978
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "8385beccde296ca43362129e",
+                "detail_info": {
+                    "distance": 387,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=8385beccde296ca43362129e&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            }
+        ],
+        [
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.991913,
+                    "lng": 119.397622
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "c9872c55b72bb5879ff77961",
+                "detail_info": {
+                    "distance": 393,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=c9872c55b72bb5879ff77961&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992469,
+                    "lng": 119.395476
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "cdd490648917e1a101294f35",
+                "detail": 1,
+                "uid": "cdd490648917e1a101294f35",
+                "detail_info": {
+                    "distance": 393,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=cdd490648917e1a101294f35&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.991903,
+                    "lng": 119.397628
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站三层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "0b7fde12ac076f35047ce829",
+                "detail_info": {
+                    "distance": 394,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F3",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=0b7fde12ac076f35047ce829&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "扶梯",
+                "location": {
+                    "lat": 25.992459,
+                    "lng": 119.395477
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站二层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "street_id": "28d39de8928ddd0643ab9a6c",
+                "detail": 1,
+                "uid": "28d39de8928ddd0643ab9a6c",
+                "detail_info": {
+                    "distance": 394,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F2",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=28d39de8928ddd0643ab9a6c&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "楼梯",
+                "location": {
+                    "lat": 25.991909,
+                    "lng": 119.397621
+                },
+                "address": "福州市仓山区城门镇胪雷村东侧福州南站一层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "08b2f286dd2efc31a21de925",
+                "detail_info": {
+                    "distance": 394,
+                    "tag": "生活服务;其他",
+                    "indoor_floor": "F1",
+                    "type": "life",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=08b2f286dd2efc31a21de925&output=html&source=placeapi_v2",
+                    "image_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "福州南站西广场公园",
+                "location": {
+                    "lat": 25.994593,
+                    "lng": 119.393154
+                },
+                "address": "永南路与胪雷路交叉口东南100米",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "d74837d52e9db86938e4a6d3",
+                "detail_info": {
+                    "distance": 454,
+                    "tag": "旅游景点;公园",
+                    "navi_location": {
+                        "lng": 119.39323732846,
+                        "lat": 25.995380148925
+                    },
+                    "type": "scope",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=d74837d52e9db86938e4a6d3&output=html&source=placeapi_v2",
+                    "overall_rating": "5.0",
+                    "comment_num": "1",
+                    "children": []
+                }
+            },
+            {
+                "name": "山国茶艺(福州南站)",
+                "location": {
+                    "lat": 25.991892,
+                    "lng": 119.39616
+                },
+                "address": "胪雷村东侧福州南站2F层",
+                "province": "福建省",
+                "city": "福州市",
+                "area": "仓山区",
+                "detail": 1,
+                "uid": "7c162b06e12c2c76631809b9",
+                "detail_info": {
+                    "distance": 420,
+                    "tag": "美食;茶座",
+                    "type": "cater",
+                    "detail_url": "http://api.map.baidu.com/place/detail?uid=7c162b06e12c2c76631809b9&output=html&source=placeapi_v2",
+                    "overall_rating": "3.5",
+                    "comment_num": "2",
+                    "children": []
+                }
+            }
+        ],
+        [],
+        []
+    ]
+}
